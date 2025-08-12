@@ -1,0 +1,230 @@
+    {
+        "kateqoriyalar": [
+            {
+                "ad": "Kitab",
+                "alt-kateqoriyalar": [
+                    {
+                        "ad": "Bədii ədəbiyyat",
+                        "alt-alt-kateqoriyalar": [
+                            "Antologiya",
+                            "Bioqrafiya, avtobioqrafiya & Xatirə",
+                            "Detektiv",
+                            "Elmi-fantastika & Fantaziya",
+                            "Fəlsəfə",
+                            "Hekayələr & Qəsrlər",
+                            "Kino və teatr",
+                            "Klassik poemalar",
+                            "Klassiklar",
+                            "Komiks",
+                            "Macəra",
+                            "Mifologiya",
+                            "Nağıllar",
+                            "Poemalar",
+                            "Psixologiya",
+                            "Romanlar & Novellalar",
+                            "Satira",
+                            "Tarix, hüquq & Siyasi",
+                            "Tarixi roman",
+                            "Triller, mistika & Qorxu",
+                            "Təhsil, mənbə & Dil"
+                        ]
+                    },
+                    {
+                        "ad": "Qeyri-bədii ədəbiyyat",
+                        "alt-alt-kateqoriyalar": [
+                            "Ailə",
+                            "Akademik",
+                            "Aşpazlıq",
+                            "Astronomiya",
+                            "Bağbanlıq",
+                            "Bioqrafiya, avtobioqrafiya & Xatirə",
+                            "Biznes & İqtisadiyyat",
+                            "Detektiv",
+                            "Dəb",
+                            "Elm",
+                            "Ensiklopediyalar & Atlaslar",
+                            "Ezoterika"
+                        ]
+                    },
+                    "Bədii uşaq ədəbiyyatı",
+                    "Qeyri-bədii uşaq ədəbiyyatı"
+                ]
+            },
+            {
+                "ad": "Elektronika & aksessuarlar",
+                "alt-kateqoriyalar": [
+                    {
+                        "ad": "Çanta & Çamadanlar",
+                        "alt-alt-kateqoriyalar": [
+                            "Bel çantası",
+                            "Biznes çantası",
+                            "Çiyin çantası",
+                            "Çoxfunksiyalı çanta",
+                            "Etibər",
+                            "Fotoapparat çantası",
+                            "İstirahət & İdman Çantaları",
+                            "Noutbuk üzlük & çantaları",
+                            "Plastik çamadanlar",
+                            "Pulqabı",
+                            "Şəxsi gigiyena çantası",
+                            "Təkərlı çamadan"
+                        ]
+                    },
+                    "Multimedia",
+                    "Rəqəmsal cihazlar",
+                    "Səyahət aksesuarları",
+                    "Telefon & Komputer aksesuarları"
+                ]
+            },
+            {
+                "ad": "Oyuncaqlar & Oyunlar",
+                "alt-kateqoriyalar": [
+                    {
+                        "ad": "İdman & Açıq hava oyunları",
+                        "alt-alt-kateqoriyalar": [
+                            "Atıcılar & Köpük oyunu",
+                            "Hədef",
+                            "Skuter & Aksesuarları",
+                            "Tenis & Badminton"
+                        ]
+                    },
+                    "Öyrədici oyun & Oyuncaqlar",
+                    "Oyuncaq modelləri & Aksesuarları",
+                    "Pazllar",
+                    "Zəka & Ənənəvi oyunlar"
+                ]
+            },
+            {
+                "ad": "Dəftərxana",
+                "alt-kateqoriyalar": [
+                    {
+                        "ad": "Kağız ləvazimatları",
+                        "alt-alt-kateqoriyalar": [
+                            {
+                                "ad": "Açıqcalar",
+                                "məhsullar": []
+                            },
+                            {
+                                "ad": "Eskiz dəftəri",
+                                "məhsullar": []
+                            },
+                            {
+                                "ad": "Gündəlik & Jurnal",
+                                "məhsullar": []
+                            },
+                            {
+                                "ad": "Kağız ləvazimatları",
+                                "məhsullar": []
+                            },
+                            {
+                                "ad": "Qeyd dəftəri",
+                                "məhsullar": []
+                            },
+                            {
+                                "ad": "Qeyd kağızı",
+                                "məhsullar": []
+                            },
+                            {
+                                "ad": "Rəsmçəkmə alətləri",
+                                "məhsullar": []
+                            },
+                            {
+                                "ad": "Təqvim",
+                                "məhsullar": []
+                            },
+                            {
+                                "ad": "Zərflər",
+                                "məhsullar": []
+                            }
+                        ]
+                    },
+                    {
+                        "ad": "Məktəb & Ofis",
+                        "alt-alt-kateqoriyalar": []
+                    },
+                    {
+                        "ad": "Uniforma",
+                        "alt-alt-kateqoriyalar": []
+                    },
+                    {
+                        "ad": "Yazı & Rəsm",
+                        "alt-alt-kateqoriyalar": []
+                    }
+                ]
+            },
+            {
+                "ad": "Hədiyyələr & Hobbi",
+                "alt-kateqoriyalar": [
+                    {
+                        "ad": "Hədiyyə Kartları",
+                        "alt-alt-kateqoriyalar": []
+                    },
+                    {
+                        "ad": "İncəsənət & Sənətkarlıq",
+                        "alt-alt-kateqoriyalar": []
+                    },
+                    {
+                        "ad": "Pazllar",
+                        "alt-alt-kateqoriyalar": []
+                    },
+                    {
+                        "ad": "Suvenir & Dekorasiya",
+                        "alt-alt-kateqoriyalar": [
+                            {
+                                "ad": "Açarlıq",
+                                "məhsullar": []
+                            },
+                            {
+                                "ad": "Bayraq",
+                                "məhsullar": []
+                            },
+                            {
+                                "ad": "Dekorasiya",
+                                "məhsullar": []
+                            },
+                            {
+                                "ad": "Foto albom & Çərçivələr",
+                                "məhsullar": []
+                            },
+                            {
+                                "ad": "Foto yapışqan",
+                                "məhsullar": []
+                            },
+                            {
+                                "ad": "Maqnit",
+                                "məhsullar": []
+                            },
+                            {
+                                "ad": "Milli suvenirlər",
+                                "məhsullar": []
+                            },
+                            {
+                                "ad": "Musiqili qutu",
+                                "məhsullar": []
+                            },
+                            {
+                                "ad": "Pinlər",
+                                "məhsullar": []
+                            },
+                            {
+                                "ad": "Qablaşdırma kağızları & Qutuları",
+                                "məhsullar": []
+                            },
+                            {
+                                "ad": "Qəpiklik",
+                                "məhsullar": []
+                            },
+                            {
+                                "ad": "Yeni il bəzəkləri",
+                                "məhsullar": []
+                            },
+                            {
+                                "ad": "Əlfəcin & Yapışqanlar",
+                                "məhsullar": []
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }

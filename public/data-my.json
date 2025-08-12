@@ -1,0 +1,2165 @@
+    {
+        "kateqoriyalar": [
+            {
+                "ad": "Kitab",
+                "alt-kateqoriyalar": [
+                    {
+                        "ad": "Bədii ədəbiyyat",
+                        "alt-alt-kateqoriyalar": [
+                            {
+                                "ad": "Antologiya",
+                                "kitablar": [
+                                    {
+                                        "id": 1001,
+                                        "ad": "Azərbaycan Şeirləri Antologiyası",
+                                        "kod": "ANT-001",
+                                        "qiymet": 25.99,
+                                        "endirimli_qiymet": 19.99,
+                                        "tesvir": "Azərbaycan ədəbiyyatının ən gözəl şeirlərinin toplandığı antologiya",
+                                        "xususiyyyet": [
+                                            "Hardcover",
+                                            "320 səhifə",
+                                            "Azərbaycan dili"
+                                        ],
+                                        "muellif": "Əli Vəliyev",
+                                        "reyler": [
+                                            {
+                                                "ad": "Məhəmməd",
+                                                "rey": 5,
+                                                "şərh": "Əla kitab!"
+                                            },
+                                            {
+                                                "ad": "Ayşə",
+                                                "rey": 4,
+                                                "şərh": "Çox gözəl seçim"
+                                            }
+                                        ],
+                                        "img": "https://example.com/images/antologiya1.jpg"
+                                    },
+                                    {
+                                        "id": 1002,
+                                        "ad": "Dünya Ədəbiyyatı Antologiyası",
+                                        "kod": "ANT-002",
+                                        "qiymet": 32.50,
+                                        "endirimli_qiymet": 28.00,
+                                        "tesvir": "Dünya ədəbiyyatının klassik əsərlərindən seçmələr",
+                                        "xususiyyyet": [
+                                            "Softcover",
+                                            "450 səhifə",
+                                            "Tərcümə"
+                                        ],
+                                        "muellif": "Leyla Məmmədova",
+                                        "reyler": [
+                                            {
+                                                "ad": "Rəşad",
+                                                "rey": 5,
+                                                "şərh": "Çox zəngin məzmun"
+                                            },
+                                            {
+                                                "ad": "Gülnar",
+                                                "rey": 4,
+                                                "şərh": "Tərcümə keyfiyyəti yaxşıdır"
+                                            }
+                                        ],
+                                        "img": "https://example.com/images/antologiya2.jpg"
+                                    }
+                                ]
+                        },
+                        {
+                            "ad": "Bioqrafiya, avtobioqrafiya & Xatirə",
+                            "kitablar": [
+                                {
+                                    "id": 1007,
+                                    "ad": "Nizami Gəncəvi: Həyat və Yaradıcılıq",
+                                    "kod": "BIO-001",
+                                    "qiymet": 35.00,
+                                    "endirimli_qiymet": 29.99,
+                                    "tesvir": "Böyük Azərbaycan şairi Nizami Gəncəvinin həyat hekayəsi və əsərləri haqqında ətraflı bioqrafiya",
+                                    "xususiyyyet": [
+                                        "Hardcover",
+                                        "420 səhifə",
+                                        "İllüstrasiyalı",
+                                        "Tədqiqat əsəri"
+                                    ],
+                                    "muellif": "Rəşid Məmmədov",
+                                    "reyler": [
+                                        {
+                                            "ad": "Əkbər",
+                                            "rey": 5,
+                                            "şərh": "Nizami haqqında ən ətraflı və keyfiyyətli kitab"
+                                        },
+                                        {
+                                            "ad": "Məlahət",
+                                            "rey": 5,
+                                            "şərh": "Böyük şairimizi daha yaxından tanıdım"
+                                        }
+                                    ],
+                                    "img": "https://example.com/images/nizami-bio.jpg"
+                                },
+                                {
+                                    "id": 1008,
+                                    "ad": "Nelson Mandelanın Xatirələri",
+                                    "kod": "BIO-002",
+                                    "qiymet": 28.00,
+                                    "endirimli_qiymet": 23.50,
+                                    "tesvir": "Cənubi Afrikanın böyük lideri Nelson Mandelanın özünün qələmindən xatirələri",
+                                    "xususiyyyet": [
+                                        "Paperback",
+                                        "380 səhifə",
+                                        "Tərcümə",
+                                        "Avtobioqrafiya"
+                                    ],
+                                    "muellif": "Nelson Mandela",
+                                    "reyler": [
+                                        {
+                                            "ad": "Fərid",
+                                            "rey": 5,
+                                            "şərh": "İlham verici həyat hekayəsi"
+                                        },
+                                        {
+                                            "ad": "Sevinc",
+                                            "rey": 4,
+                                            "şərh": "Azadlıq mübarizəsinin böyük nümunəsi"
+                                        }
+                                    ],
+                                    "img": "https://example.com/images/mandela-xatire.jpg"
+                                },
+                                {
+                                    "id": 1009,
+                                    "ad": "Üzeyir Hacıbəyovun Həyatı",
+                                    "kod": "BIO-003",
+                                    "qiymet": 32.50,
+                                    "endirimli_qiymet": 27.00,
+                                    "tesvir": "Azərbaycan musiqisinin banisi Üzeyir Hacıbəyovun həyat və yaradıcılıq yolu",
+                                    "xususiyyyet": [
+                                        "Hardcover",
+                                        "350 səhifə",
+                                        "Foto albom",
+                                        "Musiqi nəşri"
+                                    ],
+                                    "muellif": "Rəşid Məmmədov",
+                                    "reyler": [
+                                        {
+                                            "ad": "Rövşən",
+                                            "rey": 5,
+                                            "şərh": "Böyük bəstəkarımızın həyatı çox maraqlı şəkildə verilmişdir"
+                                        },
+                                        {
+                                            "ad": "Gönül",
+                                            "rey": 5,
+                                            "şərh": "Fotolar və sənədlər çox dəyərlidir"
+                                        }
+                                    ],
+                                    "img": "https://example.com/images/uzeyir-bio.jpg"
+                                },
+                                {
+                                    "id": 1010,
+                                    "ad": "Steve Jobs: Innovasiya Əfsanəsi",
+                                    "kod": "BIO-004",
+                                    "qiymet": 26.99,
+                                    "endirimli_qiymet": 22.99,
+                                    "tesvir": "Apple şirkətinin yaradıcısı Steve Jobs-un həyat hekayəsi və biznes fəlsəfəsi",
+                                    "xususiyyyet": [
+                                        "Softcover",
+                                        "450 səhifə",
+                                        "Biznes bioqrafiya",
+                                        "Tərcümə"
+                                    ],
+                                    "muellif": "Walter Isaacson",
+                                    "reyler": [
+                                        {
+                                            "ad": "Emil",
+                                            "rey": 4,
+                                            "şərh": "Müasir texnologiya dünyasının qəhrəmanı"
+                                        },
+                                        {
+                                            "ad": "Şəbnəm",
+                                            "rey": 5,
+                                            "şərh": "Sahibkarlıq üçün çox ilhamlı kitab"
+                                        }
+                                    ],
+                                    "img": "https://example.com/images/steve-jobs-bio.jpg"
+                                },
+                                {
+                                    "id": 1011,
+                                    "ad": "Mən və Mənim Yolum - Xatirələr",
+                                    "kod": "XAT-001",
+                                    "qiymet": 22.00,
+                                    "endirimli_qiymet": 18.50,
+                                    "tesvir": "Tanınmış yazıçının həyat yolunu əks etdirən səmimi xatirələr",
+                                    "xususiyyyet": [
+                                        "Paperback",
+                                        "290 səhifə",
+                                        "Şəxsi xatirələr",
+                                        "Orijinal əsər"
+                                    ],
+                                    "muellif": "Təranə Əliyeva",
+                                    "reyler": [
+                                        {
+                                            "ad": "Təranə",
+                                            "rey": 4,
+                                            "şərh": "Çox səmimi və təsirli yazılmışdır"
+                                        },
+                                        {
+                                            "ad": "Namiq",
+                                            "rey": 4,
+                                            "şərh": "Həyatın çətinliklərini gözəl əks etdirir"
+                                        }
+                                    ],
+                                    "img": "https://example.com/images/xatireler.jpg"
+                                }
+                            ]
+                        },
+                        {
+                            "ad": "Detektiv",
+                            "kitablar": [
+                                {
+                                    "id": 1003,
+                                    "ad": "Şerlok Holmsun Macəraları",
+                                    "kod": "DET-001",
+                                    "qiymet": 18.99,
+                                    "endirimli_qiymet": 15.99,
+                                    "tesvir": "Arthur Conan Doyle'un məşhur detektiv hekayələri",
+                                    "xususiyyyet": [
+                                        "Paperback",
+                                        "280 səhifə",
+                                        "Klassik detektiv"
+                                    ],
+                                    "muellif": "Arthur Conan Doyle",
+                                    "reyler": [
+                                        {
+                                            "ad": "Elçin",
+                                            "rey": 5,
+                                            "şərh": "Klassik detektiv romana gözəl nümunə"
+                                        },
+                                        {
+                                            "ad": "Nigar",
+                                            "rey": 5,
+                                            "şərh": "Hər dəfə oxuyanda yeni detallar tapıram"
+                                        }
+                                    ],
+                                    "img": "https://example.com/images/sherlock.jpg"
+                                },
+                                {
+                                    "id": 1004,
+                                    "ad": "Qatil Kim?",
+                                    "kod": "DET-002",
+                                    "qiymet": 22.00,
+                                    "endirimli_qiymet": 18.50,
+                                    "tesvir": "Müasir detektiv romanı - gərginlik və sirlərlə dolu",
+                                    "xususiyyyet": [
+                                        "Hardcover",
+                                        "350 səhifə",
+                                        "Müasir detektiv"
+                                    ],
+                                    "muellif": "Elçin Əsədov",
+                                    "reyler": [
+                                        {
+                                            "ad": "Vüsal",
+                                            "rey": 4,
+                                            "şərh": "Çox maraqlı süjet"
+                                        },
+                                        {
+                                            "ad": "Səbinə",
+                                            "rey": 4,
+                                            "şərh": "Sonunu təxmin etmək mümkün deyil"
+                                        }
+                                    ],
+                                    "img": "https://example.com/images/qatil-kim.jpg"
+                                }
+                            ]
+                        },
+                        {
+                            "ad": "Elmi-fantastika & Fantaziya",
+                            "kitablar": [
+                                {
+                                    "id": 1012,
+                                    "ad": "Dune: Səhra Planetinin Imperatoru",
+                                    "kod": "SF-001",
+                                    "qiymet": 45.00,
+                                    "endirimli_qiymet": 38.99,
+                                    "tesvir": "Frank Herbert'in məşhur elmi-fantastik romanı - galaktik imperiya və gücün mübarizəsi",
+                                    "xususiyyyet": [
+                                        "Hardcover",
+                                        "650 səhifə",
+                                        "Epik fantastika",
+                                        "Tərcümə"
+                                    ],
+                                    "muellif": "Frank Herbert",
+                                    "reyler": [
+                                        {
+                                            "ad": "Cavad",
+                                            "rey": 5,
+                                            "şərh": "Elmi-fantastikanın ən böyük əsərlərindən biri"
+                                        },
+                                        {
+                                            "ad": "Aida",
+                                            "rey": 5,
+                                            "şərh": "Müəllif gələcək dünyasını hərtərəfli qurmuşdur"
+                                        }
+                                    ],
+                                    "img": "https://example.com/images/dune.jpg"
+                                },
+                                {
+                                    "id": 1013,
+                                    "ad": "1984",
+                                    "kod": "SF-002",
+                                    "qiymet": 22.50,
+                                    "endirimli_qiymet": 19.99,
+                                    "tesvir": "George Orwell'in distopik romanı - totalitar rejimin təsviri",
+                                    "xususiyyyet": [
+                                        "Paperback",
+                                        "350 səhifə",
+                                        "Distopiya",
+                                        "Klassik"
+                                    ],
+                                    "muellif": "George Orwell",
+                                    "reyler": [
+                                        {
+                                            "ad": "Ruslan",
+                                            "rey": 5,
+                                            "şərh": "Müasir dünyanın çox aktual kitabı"
+                                        },
+                                        {
+                                            "ad": "Günel",
+                                            "rey": 4,
+                                            "şərh": "Qorxunc amma realistik gələcək təsviri"
+                                        }
+                                    ],
+                                    "img": "https://example.com/images/1984.jpg"
+                                }
+                            ]
+                        },
+                        {
+                            "ad": "Fəlsəfə",
+                            "kitablar": [
+                                {
+                                    "id": 1014,
+                                    "ad": "Mən Düşünürəm, Deməli Varıram",
+                                    "kod": "FEL-001",
+                                    "qiymet": 28.00,
+                                    "endirimli_qiymet": 24.50,
+                                    "tesvir": "René Descartes'ın fəlsəfi əsəri - rasionalizmin əsasları",
+                                    "xususiyyyet": [
+                                        "Softcover",
+                                        "220 səhifə",
+                                        "Klassik fəlsəfə",
+                                        "Tərcümə"
+                                    ],
+                                    "muellif": "René Descartes",
+                                    "reyler": [
+                                        {
+                                            "ad": "Mübariz",
+                                            "rey": 4,
+                                            "şərh": "Fəlsəfəyə giriş üçün əla kitab"
+                                        },
+                                        {
+                                            "ad": "Könül",
+                                            "rey": 5,
+                                            "şərh": "Düşüncənin təməlləri haqqında dərin fikirler"
+                                        }
+                                    ],
+                                    "img": "https://example.com/images/descartes.jpg"
+                                },
+                                {
+                                    "id": 1015,
+                                    "ad": "Nizami və Fəlsəfə",
+                                    "kod": "FEL-002",
+                                    "qiymet": 32.00,
+                                    "endirimli_qiymet": 27.99,
+                                    "tesvir": "Nizami Gəncəvinin əsərlərindəki fəlsəfi düşüncələrin təhlili",
+                                    "xususiyyyet": [
+                                        "Hardcover",
+                                        "300 səhifə",
+                                        "Milli fəlsəfə",
+                                        "Tədqiqat"
+                                    ],
+                                    "muellif": "Zakir Məmmədov",
+                                    "reyler": [
+                                        {
+                                            "ad": "Rəşid",
+                                            "rey": 5,
+                                            "şərh": "Nizaminin fəlsəfi dünyası çox gözəl açılmışdır"
+                                        },
+                                        {
+                                            "ad": "Şəfəqət",
+                                            "rey": 4,
+                                            "şərh": "Milli fəlsəfəmizi tanımaq üçün vacib kitab"
+                                        }
+                                    ],
+                                    "img": "https://example.com/images/nizami-felsefe.jpg"
+                                }
+                            ]
+                        },
+                        {
+                            "ad": "Hekayələr & Qəsrlər",
+                            "kitablar": [
+                                {
+                                    "id": 1016,
+                                    "ad": "Seçilmiş Hekayələr",
+                                    "kod": "HEK-001",
+                                    "qiymet": 20.00,
+                                    "endirimli_qiymet": 16.99,
+                                    "tesvir": "Azərbaycan ədəbiyyatının ən gözəl qısa hekayələrinin toplusu",
+                                    "xususiyyyet": [
+                                        "Paperback",
+                                        "250 səhifə",
+                                        "Qısa hekayələr",
+                                        "Antologiya"
+                                    ],
+                                    "muellif": "Müxtəlif müəlliflər",
+                                    "reyler": [
+                                        {
+                                            "ad": "Vəfa",
+                                            "rey": 5,
+                                            "şərh": "Hər hekayə ayrı bir dünya"
+                                        },
+                                        {
+                                            "ad": "Turan",
+                                            "rey": 4,
+                                            "şərh": "Azərbaycan hekayə ədəbiyyatının gözəl nümunələri"
+                                        }
+                                    ],
+                                    "img": "https://example.com/images/secilmis-hekayeler.jpg"
+                                },
+                                {
+                                    "id": 1017,
+                                    "ad": "Məhəbbət Qəsrləri",
+                                    "kod": "HEK-002",
+                                    "qiymet": 18.50,
+                                    "endirimli_qiymet": 15.50,
+                                    "tesvir": "Məhəbbət mövzusunda yazılmış ən gözəl qəsrlərin toplusu",
+                                    "xususiyyyet": [
+                                        "Softcover",
+                                        "180 səhifə",
+                                        "Romantik qəsrlər",
+                                        "Poeziya"
+                                    ],
+                                    "muellif": "Səməd Vurğun",
+                                    "reyler": [
+                                        {
+                                            "ad": "Lalə",
+                                            "rey": 5,
+                                            "şərh": "Çox təsirli və gözəl qəsrlər"
+                                        },
+                                        {
+                                            "ad": "Kənan",
+                                            "rey": 4,
+                                            "şərh": "Vurğunun ən gözəl əsərlərindən"
+                                        }
+                                    ],
+                                    "img": "https://example.com/images/mehebbet-qesrleri.jpg"
+                                }
+                            ]
+                        },
+                        {
+                            "ad": "Kino və teatr",
+                            "kitablar": [
+                                {
+                                    "id": 1018,
+                                    "ad": "Azərbaycan Teatrının Tarixi",
+                                    "kod": "TEA-001",
+                                    "qiymet": 35.00,
+                                    "endirimli_qiymet": 29.99,
+                                    "tesvir": "Azərbaycan teatrının yaranmasından bu günədək olan inkişaf tarixi",
+                                    "xususiyyyet": [
+                                        "Hardcover",
+                                        "400 səhifə",
+                                        "Tarixi tədqiqat",
+                                        "İllüstrasiyalı"
+                                    ],
+                                    "muellif": "Həsən Səfərov",
+                                    "reyler": [
+                                        {
+                                            "ad": "Roya",
+                                            "rey": 5,
+                                            "şərh": "Teatr həvəskarları üçün zəruri kitab"
+                                        },
+                                        {
+                                            "ad": "Bəhruz",
+                                            "rey": 4,
+                                            "şərh": "Zəngin tarixi məlumatlar və fotolar"
+                                        }
+                                    ],
+                                    "img": "https://example.com/images/azerbaycan-teatri.jpg"
+                                },
+                                {
+                                    "id": 1019,
+                                    "ad": "Aktyorluq Sənəti",
+                                    "kod": "TEA-002",
+                                    "qiymet": 26.50,
+                                    "endirimli_qiymet": 22.99,
+                                    "tesvir": "Peşəkar aktyorluq üçün praktiki məsləhətlər və texnikalar",
+                                    "xususiyyyet": [
+                                        "Paperback",
+                                        "280 səhifə",
+                                        "Təlim kitabı",
+                                        "Praktiki məsləhətlər"
+                                    ],
+                                    "muellif": "Konstantin Stanislavski",
+                                    "reyler": [
+                                        {
+                                            "ad": "Anar",
+                                            "rey": 5,
+                                            "şərh": "Aktyorluq öyrənənlər üçün klassik əsər"
+                                        },
+                                        {
+                                            "ad": "Mehriban",
+                                            "rey": 4,
+                                            "şərh": "Çox faydalı praktiki məsləhətlər"
+                                        }
+                                    ],
+                                    "img": "https://example.com/images/aktyorluq-seneti.jpg"
+                                }
+                            ]
+                        },
+                        {
+                            "ad": "Klassik poemalar",
+                            "kitablar": [
+                                {
+                                    "id": 1020,
+                                    "ad": "Leyli və Məcnun",
+                                    "kod": "POE-001",
+                                    "qiymet": 30.00,
+                                    "endirimli_qiymet": 25.99,
+                                    "tesvir": "Nizami Gəncəvinin məşhur məhəbbət poeması - Şərq ədəbiyyatının incisi",
+                                    "xususiyyyet": [
+                                        "Lüks nəşr",
+                                        "320 səhifə",
+                                        "Klassik poema",
+                                        "İllüstrasiyalı"
+                                    ],
+                                    "muellif": "Nizami Gəncəvi",
+                                    "reyler": [
+                                        {
+                                            "ad": "Fəxri",
+                                            "rey": 5,
+                                            "şərh": "Nizaminin ən gözəl əsərlərindən biri"
+                                        },
+                                        {
+                                            "ad": "Səidə",
+                                            "rey": 5,
+                                            "şərh": "Məhəbbətin ən yüksək ifadəsi"
+                                        }
+                                    ],
+                                    "img": "https://example.com/images/leyli-mecnun.jpg"
+                                },
+                                {
+                                    "id": 1021,
+                                    "ad": "İskəndərnamə",
+                                    "kod": "POE-002",
+                                    "qiymet": 38.00,
+                                    "endirimli_qiymet": 32.50,
+                                    "tesvir": "Nizami Gəncəvinin İsgəndər haqqında yazdığı böyük poema",
+                                    "xususiyyyet": [
+                                        "Hardcover",
+                                        "450 səhifə",
+                                        "Epik poema",
+                                        "Klassik nəşr"
+                                    ],
+                                    "muellif": "Nizami Gəncəvi",
+                                    "reyler": [
+                                        {
+                                            "ad": "Qəzənfər",
+                                            "rey": 5,
+                                            "şərh": "Azərbaycan poeziyasının zirvəsi"
+                                        },
+                                        {
+                                            "ad": "Firəngiz",
+                                            "rey": 4,
+                                            "şərh": "Böyük əsər, oxumaq üçün səbir lazımdır"
+                                        }
+                                    ],
+                                    "img": "https://example.com/images/iskendername.jpg"
+                                }
+                            ]
+                        },
+                        {
+                            "ad": "Klassiklar",
+                            "kitablar": [
+                                {
+                                    "id": 1022,
+                                    "ad": "Hamlet",
+                                    "kod": "KLA-001",
+                                    "qiymet": 24.00,
+                                    "endirimli_qiymet": 20.50,
+                                    "tesvir": "William Shakespeare'in ən məşhur tragediyası",
+                                    "xususiyyyet": [
+                                        "Paperback",
+                                        "180 səhifə",
+                                        "Klassik drama",
+                                        "Tərcümə"
+                                    ],
+                                    "muellif": "William Shakespeare",
+                                    "reyler": [
+                                        {
+                                            "ad": "Əli",
+                                            "rey": 5,
+                                            "şərh": "Dünya ədəbiyyatının ən böyük əsərlərindən"
+                                        },
+                                        {
+                                            "ad": "Məryəm",
+                                            "rey": 5,
+                                            "şərh": "Hər oxuduqda yeni mənalar kəşf edirəm"
+                                        }
+                                    ],
+                                    "img": "https://example.com/images/hamlet.jpg"
+                                },
+                                {
+                                    "id": 1023,
+                                    "ad": "Anna Karenina",
+                                    "kod": "KLA-002",
+                                    "qiymet": 42.00,
+                                    "endirimli_qiymet": 36.99,
+                                    "tesvir": "Lev Tolstoyun böyük romanı - rus ədəbiyyatının klassik əsəri",
+                                    "xususiyyyet": [
+                                        "Hardcover",
+                                        "800 səhifə",
+                                        "Klassik roman",
+                                        "Tam mətn"
+                                    ],
+                                    "muellif": "Lev Tolstoy",
+                                    "reyler": [
+                                        {
+                                            "ad": "İbrahim",
+                                            "rey": 5,
+                                            "şərh": "Dünya ədəbiyyatının ən böyük romanlarından"
+                                        },
+                                        {
+                                            "ad": "Xədicə",
+                                            "rey": 4,
+                                            "şərh": "Uzun amma oxumağa dəyər"
+                                        }
+                                    ],
+                                    "img": "https://example.com/images/anna-karenina.jpg"
+                                }
+                            ]
+                        },
+                        {
+                            "ad": "Komiks",
+                            "kitablar": [
+                                {
+                                    "id": 1024,
+                                    "ad": "Batman: Qaranlıq Cəngavər",
+                                    "kod": "KOM-001",
+                                    "qiymet": 35.00,
+                                    "endirimli_qiymet": 29.99,
+                                    "tesvir": "Batman komiksinin klassik seriyası - Gotham şəhərinin qoruyucusu",
+                                    "xususiyyyet": [
+                                        "Rəngli",
+                                        "120 səhifə",
+                                        "Superqəhrəman",
+                                        "Kolleksiya nəşri"
+                                    ],
+                                    "muellif": "Frank Miller",
+                                    "reyler": [
+                                        {
+                                            "ad": "Novruz",
+                                            "rey": 5,
+                                            "şərh": "Batman komiksinin ən yaxşısı"
+                                        },
+                                        {
+                                            "ad": "Diana",
+                                            "rey": 4,
+                                            "şərh": "Rəsmlər və hekayə çox gözəldir"
+                                        }
+                                    ],
+                                    "img": "https://example.com/images/batman-komiks.jpg"
+                                },
+                                {
+                                    "id": 1025,
+                                    "ad": "Nasrəddin Hoca Komiksləri",
+                                    "kod": "KOM-002",
+                                    "qiymet": 18.00,
+                                    "endirimli_qiymet": 15.50,
+                                    "tesvir": "Uşaqlar üçün Nasrəddin Hocanın gülməli hekayələri komiks formatında",
+                                    "xususiyyyet": [
+                                        "Rəngli",
+                                        "80 səhifə",
+                                        "Uşaq komiksləri",
+                                        "Milli personaj"
+                                    ],
+                                    "muellif": "Əli Kərimli",
+                                    "reyler": [
+                                        {
+                                            "ad": "Samirə",
+                                            "rey": 5,
+                                            "şərh": "Uşaqlarım çox bəyəndi"
+                                        },
+                                        {
+                                            "ad": "Məhəmməd",
+                                            "rey": 4,
+                                            "şərh": "Milli dəyərlərimizi uşaqlara çatdırır"
+                                        }
+                                    ],
+                                    "img": "https://example.com/images/nasreddin-komiks.jpg"
+                                }
+                            ]
+                        },
+                        {
+                            "ad": "Macəra",
+                            "kitablar": [
+                                {
+                                    "id": 1026,
+                                    "ad": "Robinson Cruzo",
+                                    "kod": "MAC-001",
+                                    "qiymet": 22.00,
+                                    "endirimli_qiymet": 18.99,
+                                    "tesvir": "Daniel Defoe'nun məşhur macəra romanı - tənha adada sağ qalma hekayəsi",
+                                    "xususiyyyet": [
+                                        "Paperback",
+                                        "300 səhifə",
+                                        "Klassik macəra",
+                                        "Gənclər üçün"
+                                    ],
+                                    "muellif": "Daniel Defoe",
+                                    "reyler": [
+                                        {
+                                            "ad": "Ramin",
+                                            "rey": 5,
+                                            "şərh": "Macəra ədəbiyyatının klassik nümunəsi"
+                                        },
+                                        {
+                                            "ad": "Əsmər",
+                                            "rey": 4,
+                                            "şərh": "Çox maraqlı və təsirli hekayə"
+                                        }
+                                    ],
+                                    "img": "https://example.com/images/robinson-cruzo.jpg"
+                                },
+                                {
+                                    "id": 1027,
+                                    "ad": "Xəzər Dənizində Macəra",
+                                    "kod": "MAC-002",
+                                    "qiymet": 19.50,
+                                    "endirimli_qiymet": 16.99,
+                                    "tesvir": "Xəzər dənizində gənc kəşfiyyatçıların macəraları",
+                                    "xususiyyyet": [
+                                        "Softcover",
+                                        "220 səhifə",
+                                        "Milli macəra",
+                                        "Gənclər üçün"
+                                    ],
+                                    "muellif": "Cabir Novruzov",
+                                    "reyler": [
+                                        {
+                                            "ad": "Tural",
+                                            "rey": 4,
+                                            "şərh": "Vətənimizin gözəllikləri haqqında macəra"
+                                        },
+                                        {
+                                            "ad": "Aysel",
+                                            "rey": 5,
+                                            "şərh": "Uşaqlar üçün çox faydalı və maraqlı"
+                                        }
+                                    ],
+                                    "img": "https://example.com/images/xezer-macera.jpg"
+                                }
+                            ]
+                        },
+                        {
+                            "ad": "Mifologiya",
+                            "kitablar": [
+                                {
+                                    "id": 1028,
+                                    "ad": "Yunan Mifologiyası",
+                                    "kod": "MIF-001",
+                                    "qiymet": 32.00,
+                                    "endirimli_qiymet": 27.50,
+                                    "tesvir": "Qədim Yunanıstanın tanrıları və qəhrəmanları haqqında miflər",
+                                    "xususiyyyet": [
+                                        "Hardcover",
+                                        "380 səhifə",
+                                        "İllüstrasiyalı",
+                                        "Tam toplum"
+                                    ],
+                                    "muellif": "Thomas Bulfinch",
+                                    "reyler": [
+                                        {
+                                            "ad": "Nərgiz",
+                                            "rey": 5,
+                                            "şərh": "Mifologiyaya giriş üçün əla kitab"
+                                        },
+                                        {
+                                            "ad": "Eldar",
+                                            "rey": 4,
+                                            "şərh": "İllüstrasiyanlar çox gözəl və aydınlaşdırıcı"
+                                        }
+                                    ],
+                                    "img": "https://example.com/images/yunan-mifologiya.jpg"
+                                },
+                                {
+                                    "id": 1029,
+                                    "ad": "Türk Mifologiyası",
+                                    "kod": "MIF-002",
+                                    "qiymet": 28.50,
+                                    "endirimli_qiymet": 24.99,
+                                    "tesvir": "Qədim türk xalqlarının inancları və mifik personajları",
+                                    "xususiyyyet": [
+                                        "Paperback",
+                                        "320 səhifə",
+                                        "Milli mifologiya",
+                                        "Tədqiqat əsəri"
+                                    ],
+                                    "muellif": "Yaşar Çoruhlu",
+                                    "reyler": [
+                                        {
+                                            "ad": "Röya",
+                                            "rey": 5,
+                                            "şərh": "Öz köklərimi tanımaq üçün çox faydalı"
+                                        },
+                                        {
+                                            "ad": "Rəhman",
+                                            "rey": 4,
+                                            "şərh": "Türk mədəniyyətinin dərin təməlləri"
+                                        }
+                                    ],
+                                    "img": "https://example.com/images/turk-mifologiya.jpg"
+                                }
+                            ]
+                        },
+                        {
+                            "ad": "Nağıllar",
+                            "kitablar": [
+                                {
+                                    "id": 2001,
+                                    "ad": "Azərbaycan Xalq Nağılları",
+                                    "kod": "NAG-001",
+                                    "qiymet": 25.00,
+                                    "endirimli_qiymet": 20.00,
+                                    "tesvir": "Uşaqlar üçün seçilmiş ən gözəl Azərbaycan xalq nağılları toplusu",
+                                    "xususiyyyet": [
+                                        "Rəngli illüstrasiyalar",
+                                        "200 səhifə",
+                                        "Uşaq dostu"
+                                    ],
+                                    "reyler": [
+                                        {
+                                            "ad": "Aynur",
+                                            "rey": 5,
+                                            "şərh": "Uşağım çox sevdi, çox gözəl nağıllar"
+                                        },
+                                        {
+                                            "ad": "Məhəmməd",
+                                            "rey": 4,
+                                            "şərh": "Keyfiyyətli nəşr, tövsiyə edirəm"
+                                        }
+                                    ],
+                                    "img": "https://example.com/images/azerbaycan_nagillari.jpg"
+                                },
+                                {
+                                    "id": 2002,
+                                    "ad": "Dünya Nağılları",
+                                    "kod": "NAG-002",
+                                    "qiymet": 35.00,
+                                    "endirimli_qiymet": 28.00,
+                                    "tesvir": "Dünyanın müxtəlif ölkələrindən seçilmiş məşhur nağıllar",
+                                    "xususiyyyet": [
+                                        "Beynəlxalq kolleksiya",
+                                        "300 səhifə",
+                                        "Premium nəşr"
+                                    ],
+                                    "reyler": [
+                                        {
+                                            "ad": "Günel",
+                                            "rey": 5,
+                                            "şərh": "Çox zəngin məzmun, hər yaşa uyğun"
+                                        },
+                                        {
+                                            "ad": "Rəşad",
+                                            "rey": 5,
+                                            "şərh": "Ailə ilə oxumaq üçün ideal"
+                                        }
+                                    ],
+                                    "img": "https://example.com/images/dunya_nagillari.jpg"
+                                },
+                                {
+                                    "id": 2003,
+                                    "ad": "Nəsrəddin Xoca Lətifələri",
+                                    "kod": "NAG-003",
+                                    "qiymet": 18.00,
+                                    "endirimli_qiymet": 15.00,
+                                    "tesvir": "Nəsrəddin Xocanın ən məşhur və məzəli lətifələri",
+                                    "xususiyyyet": [
+                                        "Komik illüstrasiyalar",
+                                        "150 səhifə",
+                                        "Əyləncəli"
+                                    ],
+                                    "reyler": [
+                                        {
+                                            "ad": "Vüsal",
+                                            "rey": 4,
+                                            "şərh": "Çox gülməli, uşaqlar çox sevir"
+                                        },
+                                        {
+                                            "ad": "Səbinə",
+                                            "rey": 5,
+                                            "şərh": "Klassik lətifələrin gözəl təqdimatı"
+                                        }
+                                    ],
+                                    "img": "https://example.com/images/nesreddin_xoca.jpg"
+                                }
+                            ]
+                        },
+                        {
+                            "ad": "Poemalar",
+                            "kitablar": [
+                                {
+                                    "id": 3001,
+                                    "ad": "Nizami Gəncəvi - Xəmsə",
+                                    "kod": "POE-001",
+                                    "qiymet": 45.00,
+                                    "endirimli_qiymet": 38.00,
+                                    "tesvir": "Böyük Azərbaycan şairi Nizami Gəncəvinin beş məşhur poeması",
+                                    "xususiyyyet": [
+                                        "Klassik əsər",
+                                        "400 səhifə",
+                                        "Lüks cild"
+                                    ],
+                                    "reyler": [
+                                        {
+                                            "ad": "Əli",
+                                            "rey": 5,
+                                            "şərh": "Azərbaycan ədəbiyyatının zirvəsi"
+                                        },
+                                        {
+                                            "ad": "Leyla",
+                                            "rey": 5,
+                                            "şərh": "Hər evdə olmalı, əla nəşr"
+                                        }
+                                    ],
+                                    "img": "https://example.com/images/nizami_xemse.jpg"
+                                },
+                                {
+                                    "id": 3002,
+                                    "ad": "Füzuli - Leyli və Məcnun",
+                                    "kod": "POE-002",
+                                    "qiymet": 32.00,
+                                    "endirimli_qiymet": 26.00,
+                                    "tesvir": "Füzulinin ölməz əsəri - Leyli və Məcnunun həzin məhəbbət dastanı",
+                                    "xususiyyyet": [
+                                        "Romantik poeziya",
+                                        "250 səhifə",
+                                        "Şərhlər ilə"
+                                    ],
+                                    "reyler": [
+                                        {
+                                            "ad": "Nazim",
+                                            "rey": 5,
+                                            "şərh": "Məhəbbət poeziyasının ən gözəl nümunəsi"
+                                        },
+                                        {
+                                            "ad": "Könül",
+                                            "rey": 4,
+                                            "şərh": "Çox təsirli, ürəyə toxunan"
+                                        }
+                                    ],
+                                    "img": "https://example.com/images/fuzuli_leyli_mecnun.jpg"
+                                },
+                                {
+                                    "id": 3003,
+                                    "ad": "Müasir Azərbaycan Poeziyası",
+                                    "kod": "POE-003",
+                                    "qiymet": 28.00,
+                                    "endirimli_qiymet": 22.00,
+                                    "tesvir": "XX-XXI əsr Azərbaycan şairlərinin seçilmiş şeirləri",
+                                    "xususiyyyet": [
+                                        "Müasir antologiya",
+                                        "320 səhifə",
+                                        "Bioqrafiyalar ilə"
+                                    ],
+                                    "reyler": [
+                                        {
+                                            "ad": "Tərlan",
+                                            "rey": 4,
+                                            "şərh": "Müasir şeirlərin gözəl seçkisi"
+                                        },
+                                        {
+                                            "ad": "Arzu",
+                                            "rey": 5,
+                                            "şərh": "Gənc oxucular üçün çox faydalı"
+                                        }
+                                    ],
+                                    "img": "https://example.com/images/muasir_poeziya.jpg"
+                                }
+                            ]
+                        },
+                        {
+                            "ad": "Psixologiya",
+                            "kitablar": [
+                                {
+                                    "id": 4001,
+                                    "ad": "Psixologiyanın Əsasları",
+                                    "kod": "PSI-001",
+                                    "qiymet": 40.00,
+                                    "endirimli_qiymet": 34.00,
+                                    "tesvir": "Psixologiya elminin fundamental prinsipləri və müasir yanaşmalar",
+                                    "xususiyyyet": [
+                                        "Akademik nəşr",
+                                        "450 səhifə",
+                                        "Diaqram və cədvəllərlə"
+                                    ],
+                                    "reyler": [
+                                        {
+                                            "ad": "Dr. Səmra",
+                                            "rey": 5,
+                                            "şərh": "Tələbələr üçün əla dərslik"
+                                        },
+                                        {
+                                            "ad": "Kamran",
+                                            "rey": 4,
+                                            "şərh": "Anlaşılan dildə yazılmış, faydalı"
+                                        }
+                                    ],
+                                    "img": "https://example.com/images/psixologiya_esaslari.jpg"
+                                },
+                                {
+                                    "id": 4002,
+                                    "ad": "Uşaq Psixologiyası",
+                                    "kod": "PSI-002",
+                                    "qiymet": 35.00,
+                                    "endirimli_qiymet": 29.00,
+                                    "tesvir": "Uşaqların psixoloji inkişafı və valideyn-uşaq münasibətləri",
+                                    "xususiyyyet": [
+                                        "Praktik məsləhətlər",
+                                        "280 səhifə",
+                                        "Nümunələrlə"
+                                    ],
+                                    "reyler": [
+                                        {
+                                            "ad": "Ayşən",
+                                            "rey": 5,
+                                            "şərh": "Valideynlər üçün çox faydalı məlumatlar"
+                                        },
+                                        {
+                                            "ad": "Elçin",
+                                            "rey": 5,
+                                            "şərh": "Uşaq tərbiyəsi haqqında ətraflı kitab"
+                                        }
+                                    ],
+                                    "img": "https://example.com/images/usaq_psixologiyasi.jpg"
+                                },
+                                {
+                                    "id": 4003,
+                                    "ad": "Sosial Psixologiya",
+                                    "kod": "PSI-003",
+                                    "qiymet": 38.00,
+                                    "endirimli_qiymet": 31.00,
+                                    "tesvir": "İnsanların cəmiyyətdəki davranışları və sosial münasibətlər",
+                                    "xususiyyyet": [
+                                        "Müasir tədqiqatlar",
+                                        "350 səhifə",
+                                        "Statistik məlumatlarla"
+                                    ],
+                                    "reyler": [
+                                        {
+                                            "ad": "Nigar",
+                                            "rey": 4,
+                                            "şərh": "Cəmiyyət həyatını daha yaxşı başa düşmək üçün"
+                                        },
+                                        {
+                                            "ad": "Orxan",
+                                            "rey": 5,
+                                            "şərh": "Sosiologiya və psixologiyanın qarışığı"
+                                        }
+                                    ],
+                                    "img": "https://example.com/images/sosial_psixologiya.jpg"
+                                }
+                            ]
+                        },
+                        {
+                            "ad": "Romanlar & Novellalar",
+                            "kitablar": [
+                                {
+                                    "id": 1005,
+                                    "ad": "Koroğlu",
+                                    "kod": "ROM-001",
+                                    "qiymet": 30.00,
+                                    "endirimli_qiymet": 25.00,
+                                    "tesvir": "Azərbaycan xalq dastanı - Koroğlunun qəhrəmanlıq hekayəsi",
+                                    "xususiyyyet": [
+                                        "Lüks nəşr",
+                                        "500 səhifə",
+                                        "İllüstrasiyalı"
+                                    ],
+                                    "reyler": [
+                                        {
+                                            "ad": "Təbriz",
+                                            "rey": 5,
+                                            "şərh": "Milli dastanımızın ən gözəl nəşri"
+                                        },
+                                        {
+                                            "ad": "Zülfiyyə",
+                                            "rey": 5,
+                                            "şərh": "İllüstrasiyanlar çox gözəldir"
+                                        }
+                                    ],
+                                    "img": "https://example.com/images/koroglu.jpg"
+                                },
+                                {
+                                    "id": 1006,
+                                    "ad": "Ali və Nino",
+                                    "kod": "ROM-002",
+                                    "qiymet": 28.50,
+                                    "endirimli_qiymet": 24.99,
+                                    "tesvir": "Qurban Səidənin məşhur romanı - məhəbbət və vətənpərvərlik",
+                                    "xususiyyyet": [
+                                        "Hardcover",
+                                        "380 səhifə",
+                                        "Klassik roman"
+                                    ],
+                                    "reyler": [
+                                        {
+                                            "ad": "Kamran",
+                                            "rey": 5,
+                                            "şərh": "Azərbaycan ədəbiyyatının incisi"
+                                        },
+                                        {
+                                            "ad": "Leyla",
+                                            "rey": 4,
+                                            "şərh": "Çox təsirli məhəbbət hekayəsi"
+                                        }
+                                    ],
+                                    "img": "https://example.com/images/ali-nino.jpg"
+                                }
+                            ]
+                        },
+                        {
+                            "ad": "Satira",
+                            "kitablar": []
+                        },
+                        {
+                            "ad": "Tarix, hüquq & Siyasi",
+                            "kitablar": []
+                        },
+                        {
+                            "ad": "Tarixi roman",
+                            "kitablar": []
+                        },
+                        {
+                            "ad": "Triller, mistika & Qorxu",
+                            "kitablar": []
+                        },
+                        {
+                            "ad": "Təhsil, mənbə & Dil",
+                            "kitablar": []
+                        }
+                    ]
+                },
+                {
+                    "ad": "Qeyri-bədii ədəbiyyat",
+                    "alt-alt-kateqoriyalar": [
+                        {
+                            "ad": "Ailə",
+                            "kitablar": [
+                                {
+                                    "id": 2001,
+                                    "ad": "Uşaq Tərbiyəsi",
+                                    "kod": "AIL-001",
+                                    "qiymet": 20.00,
+                                    "endirimli_qiymet": 16.99,
+                                    "tesvir": "Uşaqların düzgün tərbiyəsi üçün praktik məsləhətlər",
+                                    "xususiyyyet": [
+                                        "Softcover",
+                                        "250 səhifə",
+                                        "Tərbiyə bələdçisi"
+                                    ],
+                                    "muellif": "Aysel Məmmədova",
+                                    "reyler": [
+                                        {
+                                            "ad": "Aynur",
+                                            "rey": 5,
+                                            "şərh": "Hər valideyinin oxumalı olduğu kitab"
+                                        },
+                                        {
+                                            "ad": "Rəfael",
+                                            "rey": 4,
+                                            "şərh": "Praktik məsləhətlər çox faydalıdır"
+                                        }
+                                    ],
+                                    "img": "https://example.com/images/usaq-terbiyesi.jpg"
+                                },
+                                {
+                                    "id": 2002,
+                                    "ad": "Ailə Psixologiyası",
+                                    "kod": "AIL-002",
+                                    "qiymet": 24.50,
+                                    "endirimli_qiymet": 20.00,
+                                    "tesvir": "Ailə münasibətlərini gücləndirmək üçün psixoloji yanaşmalar",
+                                    "xususiyyyet": [
+                                        "Paperback",
+                                        "320 səhifə",
+                                        "Psixologiya"
+                                    ],
+                                    "muellif": "Elçin Əliyev",
+                                    "reyler": [
+                                        {
+                                            "ad": "Nərmin",
+                                            "rey": 4,
+                                            "şərh": "Ailə problemlərini həll etməkdə kömək edir"
+                                        },
+                                        {
+                                            "ad": "Orxan",
+                                            "rey": 5,
+                                            "şərh": "Çox dərin və faydalı məlumatlar"
+                                        }
+                                    ],
+                                    "img": "https://example.com/images/aile-psixologiya.jpg"
+                                }
+                            ]
+                        },
+                        {
+                            "ad": "Akademik",
+                            "kitablar": [
+                                {
+                                    "id": 2003,
+                                    "ad": "Riyaziyyatın Əsasları",
+                                    "kod": "AKA-001",
+                                    "qiymet": 35.00,
+                                    "endirimli_qiymet": 30.00,
+                                    "tesvir": "Riyaziyyatın əsas prinsipləri və tətbiqləri haqqında dərslik",
+                                    "xususiyyyet": [
+                                        "Hardcover",
+                                        "600 səhifə",
+                                        "Akademik nəşr"
+                                    ],
+                                    "muellif": "Rəşad Quliyev",
+                                    "reyler": [
+                                        {
+                                            "ad": "Elvin",
+                                            "rey": 5,
+                                            "şərh": "Çox ətraflı və aydın izah edilmişdir"
+                                        },
+                                        {
+                                            "ad": "Səma",
+                                            "rey": 4,
+                                            "şərh": "Riyaziyyat öyrənmək üçün mükəmməl kitab"
+                                        }
+                                    ],
+                                    "img": "https://example.com/images/riyaziyyat-esaslari.jpg"
+                                },
+                                {
+                                    "id": 2004,
+                                    "ad": "Kimya: Teoriya və Praktika",
+                                    "kod": "AKA-002",
+                                    "qiymet": 40.00,
+                                    "endirimli_qiymet": 35.00,
+                                    "tesvir": "Kimya elminin əsasları və laboratoriya təcrübələri",
+                                    "xususiyyyet": [
+                                        "Softcover",
+                                        "500 səhifə",
+                                        "Laboratoriya bələdçisi"
+                                    ],
+                                    "muellif": "Fərid Əliyev",
+                                    "reyler": [
+                                        {
+                                            "ad": "Fərhad",
+                                            "rey": 5,
+                                            "şərh": "Kimya öyrənmək üçün əla resurs"
+                                        },
+                                        {
+                                            "ad": "Gülnarə",
+                                            "rey": 4,
+                                            "şərh": "Praktiki nümunələr çox faydalıdır"
+                                        }
+                                    ],
+                                    "img": "https://example.com/images/kimya-teoriya.jpg"
+                                }
+                            ]
+                        },
+                        {
+                            "ad": "Aşpazlıq",
+                            "kitablar": [
+                                {
+                                    "id": 2005,
+                                    "ad": "Azərbaycan Mətbəxi",
+                                    "kod": "ASP-001",
+                                    "qiymet": 18.00,
+                                    "endirimli_qiymet": 15.00,
+                                    "tesvir": "Ənənəvi Azərbaycan yeməklərinin reseptləri və mətbəx sirləri",
+                                    "xususiyyyet": [
+                                        "Hardcover",
+                                        "200 səhifə",
+                                        "Rəngli şəkillərlə"
+                                    ],
+                                    "muellif": "Nigar Əliyeva",
+                                    "reyler": [
+                                        {
+                                            "ad": "Nigar",
+                                            "rey": 5,
+                                            "şərh": "Çox gözəl reseptlər var"
+                                        },
+                                        {
+                                            "ad": "Elçin",
+                                            "rey": 4,
+                                            "şərh": "Yeməklərin hazırlanması asandır"
+                                        }
+                                    ],
+                                    "img": "https://example.com/images/azerbaycan-metbexi.jpg"
+                                },
+                                {
+                                    "id": 2006,
+                                    "ad": "Dünya Mətbəxi",
+                                    "kod": "ASP-002",
+                                    "qiymet": 22.50,
+                                    "endirimli_qiymet": 19.99,
+                                    "tesvir": "Dünya mətbəxindən seçmə reseptlər və kulinariya təklifləri",
+                                    "xususiyyyet": [
+                                        "Softcover",
+                                        "300 səhifə",
+                                        "Çoxsaylı reseptlər"
+                                    ],
+                                    "muellif": "Aysel Məmmədova",
+                                    "reyler": [
+                                        {
+                                            "ad": "Aysel",
+                                            "rey": 5,
+                                            "şərh": "Fərqli mətbəxləri öyrənmək üçün əla kitab"
+                                        },
+                                        {
+                                            "ad": "Rəşad",
+                                            "rey": 4,
+                                            "şərh": "Reseptlər çox dadlıdır"
+                                        }
+                                    ],
+                                    "img": "https://example.com/images/dunya-metbexi.jpg"
+                                }
+                            ]
+                        },
+                        {
+                            "ad": "Astronomiya",
+                            "kitablar": [
+                                {
+                                    "id": 2007,
+                                    "ad": "Ulduzların Sirləri",
+                                    "kod": "AST-001",
+                                    "qiymet": 30.00,
+                                    "endirimli_qiymet": 25.00,
+                                    "tesvir": "Astronomiyanın əsas prinsipləri və ulduzların öyrənilməsi",
+                                    "xususiyyyet": [
+                                        "Hardcover",
+                                        "400 səhifə",
+                                        "İllüstrasiyalarla"
+                                    ],
+                                    "muellif": "Elçin Quliyev",
+                                    "reyler": [
+                                        {
+                                            "ad": "Kamran",
+                                            "rey": 5,
+                                            "şərh": "Çox maraqlı və məlumatlandırıcı kitab"
+                                        },
+                                        {
+                                            "ad": "Səbinə",
+                                            "rey": 4,
+                                            "şərh": "Ulduzlar haqqında çox şey öyrəndim"
+                                        }
+                                    ],
+                                    "img": "https://example.com/images/ulduzlar.jpg"
+                                },
+                                {
+                                    "id": 2008,
+                                    "ad": "Kosmosun Sirlərini Kəşf Etmək",
+                                    "kod": "AST-002",
+                                    "qiymet": 28.00,
+                                    "endirimli_qiymet": 24.00,
+                                    "tesvir": "Kosmosun dərinliklərinə səyahət və onun sirrləri",
+                                    "xususiyyyet": [
+                                        "Softcover",
+                                        "350 səhifə",
+                                        "Tərcümə"
+                                    ],
+                                    "muellif": "Aysel Məmmədova",
+                                    "reyler": [
+                                        {
+                                            "ad": "Elvin",
+                                            "rey": 5,
+                                            "şərh": "Kosmos haqqında çox ətraflı məlumat verir"
+                                        },
+                                        {
+                                            "ad": "Aysel",
+                                            "rey": 4,
+                                            "şərh": "Çox maraqlı və təsir edici kitab"
+                                        }
+                                    ],
+                                    "img": "https://example.com/images/kosmos.jpg"
+                                }
+                            ]
+                        },
+                        {
+                            "ad": "Bağbanlıq",
+                            "kitablar": [
+                                {
+                                    "id": 2009,
+                                    "ad": "Bağbanlıq Əsasları",
+                                    "kod": "BAG-001",
+                                    "qiymet": 15.00,
+                                    "endirimli_qiymet": 12.99,
+                                    "tesvir": "Bağbanlıq üçün əsas biliklər və praktik məsləhətlər",
+                                    "xususiyyyet": [
+                                        "Softcover",
+                                        "180 səhifə",
+                                        "Praktik bələdçi"
+                                    ],
+                                    "muellif": "Rüfət Əliyev",
+                                    "reyler": [
+                                        {
+                                            "ad": "Rüfət",
+                                            "rey": 5,
+                                            "şərh": "Bağbanlığa yeni başlayanlar üçün əla kitab"
+                                        },
+                                        {
+                                            "ad": "Günel",
+                                            "rey": 4,
+                                            "şərh": "Çox faydalı məlumatlar var"
+                                        }
+                                    ],
+                                    "img": "https://example.com/images/bagbanliq.jpg"
+                                },
+                                {
+                                    "id": 2010,
+                                    "ad": "Tropical Plants Care",
+                                    "kod": "BAG-002",
+                                    "qiymet": 18.50,
+                                    "endirimli_qiymet": 15.00,
+                                    "tesvir": "Tropik bitkilərin baxımı və yetişdirilməsi haqqında bələdçi",
+                                    "xususiyyyet": [
+                                        "Hardcover",
+                                        "220 səhifə",
+                                        "İngilis dili"
+                                    ],
+                                    "muellif": "John Smith",
+                                    "reyler": [
+                                        {
+                                            "ad": "Elçin",
+                                            "rey": 5,
+                                            "şərh": "Tropik bitkilərlə maraqlananlar üçün mükəmməl kitab"
+                                        },
+                                        {
+                                            "ad": "Aysel",
+                                            "rey": 4,
+                                            "şərh": "Çox faydalı və ətraflı məlumatlar"
+                                        }
+                                    ],
+                                    "img": "https://example.com/images/tropical-plants.jpg"
+                                }
+                            ]
+                        },
+                        {
+                            "ad": "Bioqrafiya, avtobioqrafiya & Xatirə",
+                            "kitablar": [
+                                {
+                                    "id": 1007,
+                                    "ad": "Nizami Gəncəvi: Həyat və Yaradıcılıq",
+                                    "kod": "BIO-001",
+                                    "qiymet": 35.00,
+                                    "endirimli_qiymet": 29.99,
+                                    "tesvir": "Böyük Azərbaycan şairi Nizami Gəncəvinin həyat hekayəsi və əsərləri haqqında ətraflı bioqrafiya",
+                                    "xususiyyyet": [
+                                        "Hardcover",
+                                        "420 səhifə",
+                                        "İllüstrasiyalı",
+                                        "Tədqiqat əsəri"
+                                    ],
+                                    "muellif": "Rəşid Məmmədov",
+                                    "reyler": [
+                                        {
+                                            "ad": "Əkbər",
+                                            "rey": 5,
+                                            "şərh": "Nizami haqqında ən ətraflı və keyfiyyətli kitab"
+                                        },
+                                        {
+                                            "ad": "Məlahət",
+                                            "rey": 5,
+                                            "şərh": "Böyük şairimizi daha yaxından tanıdım"
+                                        }
+                                    ],
+                                    "img": "https://example.com/images/nizami-bio.jpg"
+                                },
+                                {
+                                    "id": 1008,
+                                    "ad": "Nelson Mandelanın Xatirələri",
+                                    "kod": "BIO-002",
+                                    "qiymet": 28.00,
+                                    "endirimli_qiymet": 23.50,
+                                    "tesvir": "Cənubi Afrikanın böyük lideri Nelson Mandelanın özünün qələmindən xatirələri",
+                                    "xususiyyyet": [
+                                        "Paperback",
+                                        "380 səhifə",
+                                        "Tərcümə",
+                                        "Avtobioqrafiya"
+                                    ],
+                                    "muellif": "Nelson Mandela",
+                                    "reyler": [
+                                        {
+                                            "ad": "Fərid",
+                                            "rey": 5,
+                                            "şərh": "İlham verici həyat hekayəsi"
+                                        },
+                                        {
+                                            "ad": "Sevinc",
+                                            "rey": 4,
+                                            "şərh": "Azadlıq mübarizəsinin böyük nümunəsi"
+                                        }
+                                    ],
+                                    "img": "https://example.com/images/mandela-xatire.jpg"
+                                },
+                                {
+                                    "id": 1009,
+                                    "ad": "Üzeyir Hacıbəyovun Həyatı",
+                                    "kod": "BIO-003",
+                                    "qiymet": 32.50,
+                                    "endirimli_qiymet": 27.00,
+                                    "tesvir": "Azərbaycan musiqisinin banisi Üzeyir Hacıbəyovun həyat və yaradıcılıq yolu",
+                                    "xususiyyyet": [
+                                        "Hardcover",
+                                        "350 səhifə",
+                                        "Foto albom",
+                                        "Musiqi nəşri"
+                                    ],
+                                    "muellif": "Rəşid Məmmədov",
+                                    "reyler": [
+                                        {
+                                            "ad": "Rövşən",
+                                            "rey": 5,
+                                            "şərh": "Böyük bəstəkarımızın həyatı çox maraqlı şəkildə verilmişdir"
+                                        },
+                                        {
+                                            "ad": "Gönül",
+                                            "rey": 5,
+                                            "şərh": "Fotolar və sənədlər çox dəyərlidir"
+                                        }
+                                    ],
+                                    "img": "https://example.com/images/uzeyir-bio.jpg"
+                                },
+                                {
+                                    "id": 1010,
+                                    "ad": "Steve Jobs: Innovasiya Əfsanəsi",
+                                    "kod": "BIO-004",
+                                    "qiymet": 26.99,
+                                    "endirimli_qiymet": 22.99,
+                                    "tesvir": "Apple şirkətinin yaradıcısı Steve Jobs-un həyat hekayəsi və biznes fəlsəfəsi",
+                                    "xususiyyyet": [
+                                        "Softcover",
+                                        "450 səhifə",
+                                        "Biznes bioqrafiya",
+                                        "Tərcümə"
+                                    ],
+                                    "muellif": "Walter Isaacson",
+                                    "reyler": [
+                                        {
+                                            "ad": "Emil",
+                                            "rey": 4,
+                                            "şərh": "Müasir texnologiya dünyasının qəhrəmanı"
+                                        },
+                                        {
+                                            "ad": "Şəbnəm",
+                                            "rey": 5,
+                                            "şərh": "Sahibkarlıq üçün çox ilhamlı kitab"
+                                        }
+                                    ],
+                                    "img": "https://example.com/images/steve-jobs-bio.jpg"
+                                },
+                                {
+                                    "id": 1011,
+                                    "ad": "Mən və Mənim Yolum - Xatirələr",
+                                    "kod": "XAT-001",
+                                    "qiymet": 22.00,
+                                    "endirimli_qiymet": 18.50,
+                                    "tesvir": "Tanınmış yazıçının həyat yolunu əks etdirən səmimi xatirələr",
+                                    "xususiyyyet": [
+                                        "Paperback",
+                                        "290 səhifə",
+                                        "Şəxsi xatirələr",
+                                        "Orijinal əsər"
+                                    ],
+                                    "muellif": "Təranə Əliyeva",
+                                    "reyler": [
+                                        {
+                                            "ad": "Təranə",
+                                            "rey": 4,
+                                            "şərh": "Çox səmimi və təsirli yazılmışdır"
+                                        },
+                                        {
+                                            "ad": "Namiq",
+                                            "rey": 4,
+                                            "şərh": "Həyatın çətinliklərini gözəl əks etdirir"
+                                        }
+                                    ],
+                                    "img": "https://example.com/images/xatireler.jpg"
+                                }
+                            ]
+                        },
+                        {
+                            "ad": "Biznes & İqtisadiyyat",
+                            "kitablar": [
+                                {
+                                    "id": 2011,
+                                    "ad": "Sahibkarlıq Əsasları",
+                                    "kod": "BIZ-001",
+                                    "qiymet": 29.99,
+                                    "endirimli_qiymet": 24.99,
+                                    "tesvir": "Sahibkarlığa başlamaq üçün lazım olan əsas biliklər və strategiyalar",
+                                    "xususiyyyet": [
+                                        "Hardcover",
+                                        "300 səhifə",
+                                        "Biznes bələdçisi"
+                                    ],
+                                    "muellif": "Elçin Quliyev",
+                                    "reyler": [
+                                        {
+                                            "ad": "Rəşad",
+                                            "rey": 5,
+                                            "şərh": "Çox faydalı və praktik məlumatlar"
+                                        },
+                                        {
+                                            "ad": "Aysel",
+                                            "rey": 4,
+                                            "şərh": "Sahibkarlıq üçün əla başlanğıc kitabı"
+                                        }
+                                    ],
+                                    "img": "https://example.com/images/sahibkarlik.jpg"
+                                },
+                                {
+                                    "id": 2012,
+                                    "ad": "İqtisadiyyatın Əsasları",
+                                    "kod": "BIZ-002",
+                                    "qiymet": 32.00,
+                                    "endirimli_qiymet": 27.00,
+                                    "tesvir": "İqtisadiyyatın əsas prinsipləri və anlayışları haqqında dərslik",
+                                    "xususiyyyet": [
+                                        "Softcover",
+                                        "400 səhifə",
+                                        "Akademik nəşr"
+                                    ],
+                                    "muellif": "Rəşid Məmmədov",
+                                    "reyler": [
+                                        {
+                                            "ad": "Elvin",
+                                            "rey": 5,
+                                            "şərh": "İqtisadiyyat öyrənmək üçün mükəmməl kitab"
+                                        },
+                                        {
+                                            "ad": "Nigar",
+                                            "rey": 4,
+                                            "şərh": "Çox ətraflı və aydın izah edilmişdir"
+                                        }
+                                    ],
+                                    "img": "https://example.com/images/iqtisadiyyat.jpg"
+                                }
+                            ]
+                        },
+                        {
+                            "ad": "Detektiv",
+                            "kitablar": [
+                                {
+                                    "id": 1003,
+                                    "ad": "Şerlok Holmsun Macəraları",
+                                    "kod": "DET-001",
+                                    "qiymet": 18.99,
+                                    "endirimli_qiymet": 15.99,
+                                    "tesvir": "Arthur Conan Doyle'un məşhur detektiv hekayələri",
+                                    "xususiyyyet": [
+                                        "Paperback",
+                                        "280 səhifə",
+                                        "Klassik detektiv"
+                                    ],
+                                    "muellif": "Arthur Conan Doyle",
+                                    "reyler": [
+                                        {
+                                            "ad": "Elçin",
+                                            "rey": 5,
+                                            "şərh": "Klassik detektiv romana gözəl nümunə"
+                                        },
+                                        {
+                                            "ad": "Nigar",
+                                            "rey": 5,
+                                            "şərh": "Hər dəfə oxuyanda yeni detallar tapıram"
+                                        }
+                                    ],
+                                    "img": "https://example.com/images/sherlock.jpg"
+                                },
+                                {
+                                    "id": 1004,
+                                    "ad": "Qatil Kim?",
+                                    "kod": "DET-002",
+                                    "qiymet": 22.00,
+                                    "endirimli_qiymet": 18.50,
+                                    "tesvir": "Müasir detektiv romanı - gərginlik və sirlərlə dolu",
+                                    "xususiyyyet": [
+                                        "Hardcover",
+                                        "350 səhifə",
+                                        "Müasir detektiv"
+                                    ],
+                                    "muellif": "Elçin Əsədov",
+                                    "reyler": [
+                                        {
+                                            "ad": "Vüsal",
+                                            "rey": 4,
+                                            "şərh": "Çox maraqlı süjet"
+                                        },
+                                        {
+                                            "ad": "Səbinə",
+                                            "rey": 4,
+                                            "şərh": "Sonunu təxmin etmək mümkün deyil"
+                                        }
+                                    ],
+                                    "img": "https://example.com/images/qatil-kim.jpg"
+                                }
+                            ]
+                        },
+                        {
+                            "ad": "Dəb",
+                            "kitablar": [
+                                {
+                                    "id": 2013,
+                                    "ad": "Müasir Dəb Trendləri",
+                                    "kod": "DEB-001",
+                                    "qiymet": 25.00,
+                                    "endirimli_qiymet": 20.00,
+                                    "tesvir": "Müasir dəb dünyasının ən son trendləri və stil məsləhətləri",
+                                    "xususiyyyet": [
+                                        "Hardcover",
+                                        "300 səhifə",
+                                        "Rəngli şəkillərlə"
+                                    ],
+                                    "muellif": "Aysel Məmmədova",
+                                    "reyler": [
+                                        {
+                                            "ad": "Aysel",
+                                            "rey": 5,
+                                            "şərh": "Dəb dünyasını öyrənmək üçün əla kitab"
+                                        },
+                                        {
+                                            "ad": "Rəşad",
+                                            "rey": 4,
+                                            "şərh": "Çox faydalı və praktik məsləhətlər"
+                                        }
+                                    ],
+                                    "img": "https://example.com/images/deb-trendleri.jpg"
+                                },
+                                {
+                                    "id": 2014,
+                                    "ad": "Stil və Moda",
+                                    "kod": "DEB-002",
+                                    "qiymet": 30.00,
+                                    "endirimli_qiymet": 25.00,
+                                    "tesvir": "Stil və modanın əsas prinsipləri və tətbiqləri",
+                                    "xususiyyyet": [
+                                        "Softcover",
+                                        "350 səhifə",
+                                        "Dəb bələdçisi"
+                                    ],
+                                    "muellif": "Elçin Quliyev",
+                                    "reyler": [
+                                        {
+                                            "ad": "Nigar",
+                                            "rey": 5,
+                                            "şərh": "Çox gözəl və faydalı məlumatlar"
+                                        },
+                                        {
+                                            "ad": "Elçin",
+                                            "rey": 4,
+                                            "şərh": "Moda dünyasına giriş üçün mükəmməl kitab"
+                                        }
+                                    ],
+                                    "img": "https://example.com/images/stil-moda.jpg"
+                                }
+                            ]
+                        },
+                        {
+                            "ad": "Elm",
+                            "kitablar": [
+                                {
+                                    "id": 2015,
+                                    "ad": "Elm və Texnologiya",
+                                    "kod": "ELM-001",
+                                    "qiymet": 28.00,
+                                    "endirimli_qiymet": 24.00,
+                                    "tesvir": "Elm və texnologiyanın inkişafı və gələcəyi haqqında ətraflı bələdçi",
+                                    "xususiyyyet": [
+                                        "Hardcover",
+                                        "400 səhifə",
+                                        "İllüstrasiyalarla"
+                                    ],
+                                    "muellif": "Rəşid Məmmədov",
+                                    "reyler": [
+                                        {
+                                            "ad": "Fərid",
+                                            "rey": 5,
+                                            "şərh": "Çox maraqlı və məlumatlandırıcı kitab"
+                                        },
+                                        {
+                                            "ad": "Səbinə",
+                                            "rey": 4,
+                                            "şərh": "Elm dünyasını daha yaxından tanıdım"
+                                        }
+                                    ],
+                                    "img": "https://example.com/images/elm-texnologiya.jpg"
+                                },
+                                {
+                                    "id": 2016,
+                                    "ad": "Biologiya Əsasları",
+                                    "kod": "ELM-002",
+                                    "qiymet": 30.00,
+                                    "endirimli_qiymet": 26.00,
+                                    "tesvir": "Biologiyanın əsas prinsipləri və canlıların öyrənilməsi",
+                                    "xususiyyyet": [
+                                        "Softcover",
+                                        "350 səhifə",
+                                        "Akademik nəşr"
+                                    ],
+                                    "muellif": "Elçin Quliyev",
+                                    "reyler": [
+                                        {
+                                            "ad": "Elvin",
+                                            "rey": 5,
+                                            "şərh": "Biologiya öyrənmək üçün mükəmməl kitab"
+                                        },
+                                        {
+                                            "ad": "Nigar",
+                                            "rey": 4,
+                                            "şərh": "Çox ətraflı və aydın izah edilmişdir"
+                                        }
+                                    ],
+                                    "img": "https://example.com/images/biologiya-esaslari.jpg"
+                                }
+                            ]
+                        },
+                        {
+                            "ad": "Ensiklopediyalar & Atlaslar",
+                            "kitablar": [
+                                {
+                                    "id": 2017,
+                                    "ad": "Dünya Ensiklopediyası",
+                                    "kod": "ENS-001",
+                                    "qiymet": 45.00,
+                                    "endirimli_qiymet": 39.99,
+                                    "tesvir": "Dünyanın müxtəlif sahələrini əhatə edən geniş ensiklopediya",
+                                    "xususiyyyet": [
+                                        "Hardcover",
+                                        "800 səhifə",
+                                        "Rəngli şəkillərlə"
+                                    ],
+                                    "muellif": "Beynəlxalq Ensiklopediya Komitəsi",
+                                    "reyler": [
+                                        {
+                                            "ad": "Əkbər",
+                                            "rey": 5,
+                                            "şərh": "Çox geniş və ətraflı məlumatlar var"
+                                        },
+                                        {
+                                            "ad": "Məlahət",
+                                            "rey": 5,
+                                            "şərh": "Hər evdə olmalı bir kitab"
+                                        }
+                                    ],
+                                    "img": "https://example.com/images/dunya-ensiklopediyasi.jpg"
+                                }
+                            ]
+                        },
+                        {
+                            "ad": "Ezoterika",
+                            "kitablar": [
+                                {
+                                    "id": 2018,
+                                    "ad": "Ezoterik Bilgilər",
+                                    "kod": "EZO-001",
+                                    "qiymet": 20.00,
+                                    "endirimli_qiymet": 17.50,
+                                    "tesvir": "Ezoterik bilgilər və ruhani inkişaf haqqında bələdçi",
+                                    "xususiyyyet": [
+                                        "Softcover",
+                                        "250 səhifə",
+                                        "Ruhani bələdçi"
+                                    ],
+                                    "muellif": "Rüfət Əliyev",
+                                    "reyler": [
+                                        {
+                                            "ad": "Rüfət",
+                                            "rey": 4,
+                                            "şərh": "Çox maraqlı və düşündürücü kitab"
+                                        },
+                                        {
+                                            "ad": "Günel",
+                                            "rey": 4,
+                                            "şərh": "Ruhani inkişaf üçün faydalıdır"
+                                        }
+                                    ],
+                                    "img": "https://example.com/images/ezoterik-bilgiler.jpg"
+                                }
+                            ]
+                        },
+                        {
+                            "ad": "Fəaliyyətlər",
+                            "kitablar": []
+                        },
+                        {
+                            "ad": "Fəlsəfə",
+                            "kitablar": []
+                        },
+                        {
+                            "ad": "Hekayələr & Essələr",
+                            "kitablar": []
+                        }
+                    ]
+                },
+                {
+                    "ad": "Bədii uşaq ədəbiyyatı",
+                    "alt-alt-kateqoriyalar": []
+                },
+                {
+                    "ad": "Qeyri-bədii uşaq ədəbiyyatı",
+                    "alt-alt-kateqoriyalar": []
+                }
+            ]
+        },
+        {
+            "ad": "Elektronika & aksessuarlar",
+            "alt-kateqoriyalar": [
+                {
+                    "ad": "Çanta & Çamadanlar",
+                    "alt-alt-kateqoriyalar": [
+                        {
+                            "ad": "Bel çantası",
+                            "məhsullar": []
+                        },
+                        {
+                            "ad": "Biznes çantası",
+                            "məhsullar": []
+                        },
+                        {
+                            "ad": "Çiyin çantası",
+                            "məhsullar": []
+                        },
+                        {
+                            "ad": "Çoxfunksiyalı çanta",
+                            "məhsullar": []
+                        },
+                        {
+                            "ad": "Etibər",
+                            "məhsullar": []
+                        },
+                        {
+                            "ad": "Fotoapparat çantası",
+                            "məhsullar": []
+                        },
+                        {
+                            "ad": "İstirahət & İdman Çantaları",
+                            "məhsullar": []
+                        },
+                        {
+                            "ad": "Noutbuk üzlük & çantaları",
+                            "məhsullar": []
+                        },
+                        {
+                            "ad": "Plastik çamadanlar",
+                            "məhsullar": []
+                        },
+                        {
+                            "ad": "Pulqabı",
+                            "məhsullar": []
+                        },
+                        {
+                            "ad": "Şəxsi gigiyena çantası",
+                            "məhsullar": []
+                        },
+                        {
+                            "ad": "Təkərlı çamadan",
+                            "məhsullar": []
+                        }
+                    ]
+                },
+                {
+                    "ad": "Multimedia",
+                    "alt-alt-kateqoriyalar": []
+                },
+                {
+                    "ad": "Rəqəmsal cihazlar",
+                    "alt-alt-kateqoriyalar": []
+                },
+                {
+                    "ad": "Səyahət aksesuarları",
+                    "alt-alt-kateqoriyalar": []
+                },
+                {
+                    "ad": "Telefon & Komputer aksesuarları",
+                    "alt-alt-kateqoriyalar": []
+                }
+            ]
+        },
+        {
+            "ad": "Oyuncaqlar & Oyunlar",
+            "alt-kateqoriyalar": [
+                {
+                    "ad": "İdman & Açıq hava oyunları",
+                    "alt-alt-kateqoriyalar": [
+                        {
+                            "ad": "Atıcılar & Köpük oyunu",
+                            "məhsullar": []
+                        },
+                        {
+                            "ad": "Hədef",
+                            "məhsullar": []
+                        },
+                        {
+                            "ad": "Skuter & Aksesuarları",
+                            "məhsullar": []
+                        },
+                        {
+                            "ad": "Tenis & Badminton",
+                            "məhsullar": []
+                        }
+                    ]
+                },
+                {
+                    "ad": "Öyrədici oyun & Oyuncaqlar",
+                    "alt-alt-kateqoriyalar": []
+                },
+                {
+                    "ad": "Oyuncaq modelləri & Aksesuarları",
+                    "alt-alt-kateqoriyalar": []
+                },
+                {
+                    "ad": "Pazllar",
+                    "alt-alt-kateqoriyalar": []
+                },
+                {
+                    "ad": "Zəka & Ənənəvi oyunlar",
+                    "alt-alt-kateqoriyalar": []
+                }
+            ]
+        },
+        {
+            "ad": "Dəftərxana",
+            "alt-kateqoriyalar": [
+                {
+                    "ad": "Kağız ləvazimatları",
+                    "alt-alt-kateqoriyalar": [
+                        {
+                            "ad": "Açıqcalar",
+                            "məhsullar": []
+                        },
+                        {
+                            "ad": "Eskiz dəftəri",
+                            "məhsullar": []
+                        },
+                        {
+                            "ad": "Gündəlik & Jurnal",
+                            "məhsullar": []
+                        },
+                        {
+                            "ad": "Kağız ləvazimatları",
+                            "məhsullar": []
+                        },
+                        {
+                            "ad": "Qeyd dəftəri",
+                            "məhsullar": []
+                        },
+                        {
+                            "ad": "Qeyd kağızı",
+                            "məhsullar": []
+                        },
+                        {
+                            "ad": "Rəsmçəkmə alətləri",
+                            "məhsullar": []
+                        },
+                        {
+                            "ad": "Təqvim",
+                            "məhsullar": []
+                        },
+                        {
+                            "ad": "Zərflər",
+                            "məhsullar": []
+                        }
+                    ]
+                },
+                {
+                    "ad": "Məktəb & Ofis",
+                    "alt-alt-kateqoriyalar": []
+                },
+                {
+                    "ad": "Uniforma",
+                    "alt-alt-kateqoriyalar": []
+                },
+                {
+                    "ad": "Yazı & Rəsm",
+                    "alt-alt-kateqoriyalar": []
+                }
+            ]
+        },
+        {
+            "ad": "Hədiyyələr & Hobbi",
+            "alt-kateqoriyalar": [
+                {
+                    "ad": "Hədiyyə Kartları",
+                    "alt-alt-kateqoriyalar": []
+                },
+                {
+                    "ad": "İncəsənət & Sənətkarlıq",
+                    "alt-alt-kateqoriyalar": []
+                },
+                {
+                    "ad": "Pazllar",
+                    "alt-alt-kateqoriyalar": []
+                },
+                {
+                    "ad": "Suvenir & Dekorasiya",
+                    "alt-alt-kateqoriyalar": [
+                        {
+                            "ad": "Açarlıq",
+                            "məhsullar": []
+                        },
+                        {
+                            "ad": "Bayraq",
+                            "məhsullar": []
+                        },
+                        {
+                            "ad": "Dekorasiya",
+                            "məhsullar": []
+                        },
+                        {
+                            "ad": "Foto albom & Çərçivələr",
+                            "məhsullar": []
+                        },
+                        {
+                            "ad": "Foto yapışqan",
+                            "məhsullar": []
+                        },
+                        {
+                            "ad": "Maqnit",
+                            "məhsullar": []
+                        },
+                        {
+                            "ad": "Milli suvenirlər",
+                            "məhsullar": []
+                        },
+                        {
+                            "ad": "Musiqili qutu",
+                            "məhsullar": []
+                        },
+                        {
+                            "ad": "Pinlər",
+                            "məhsullar": []
+                        },
+                        {
+                            "ad": "Qablaşdırma kağızları & Qutuları",
+                            "məhsullar": []
+                        },
+                        {
+                            "ad": "Qəpiklik",
+                            "məhsullar": []
+                        },
+                        {
+                            "ad": "Yeni il bəzəkləri",
+                            "məhsullar": []
+                        },
+                        {
+                            "ad": "Əlfəcin & Yapışqanlar",
+                            "məhsullar": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

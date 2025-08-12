@@ -1,0 +1,2505 @@
+{
+  "books": [
+    {
+      "id": "8",
+      "title": "Kafka on the Shore",
+      "author": "Haruki Murakami",
+      "price": 27.48,
+      "saleRate": 20,
+      "img": "https://www.libraff.az/images/thumbnails/400/600/from_1c/9f95da7a-b11c-11ee-a54d-503eaa120fc7_1.jpg.webp",
+      "description": "Kafka on the Shore is a surreal novel by Haruki Murakami that explores themes of fate, consciousness, and metaphysical mysteries through the intertwined stories of a teenage boy and an elderly man.",
+      "category": "Fiction",
+      "altCateg": "Magical Realism",
+      "soldCount": 43,
+      "stockCount": 3,
+      "lang": [
+        "EN",
+        "JP",
+        "AZ"
+      ],
+      "view": 317,
+      "code": 9781400079278,
+      "pageCount": 505,
+      "cover": "soft",
+      "publisher": "Vintage International"
+    },
+    {
+      "id": "9",
+      "title": "The Hobbit",
+      "author": "Ernest Hemingway",
+      "price": 30.82,
+      "saleRate": 15,
+      "img": "https://m.media-amazon.com/images/I/712cDO7d73L._AC_UF1000,1000_QL80_.jpg",
+      "description": "The Hobbit əsəri Ernest Hemingway tərəfindən yazılıb. Bu kitab oxucunu dərin psixoloji və fəlsəfi düşüncələrə yönəldir.",
+      "category": "Psixologiya",
+      "altCateg": "Klassiklər",
+      "soldCount": 93,
+      "stockCount": 39,
+      "lang": [
+        "AZ",
+        "EN",
+        "RU"
+      ],
+      "view": 243,
+      "code": 9786552709365,
+      "pageCount": 647,
+      "cover": "bərk",
+      "publisher": "Teas Press"
+    },
+    {
+      "id": "10",
+      "title": "Crime and Punishment",
+      "author": "Fyodor Dostoevsky",
+      "price": 24.02,
+      "saleRate": 15,
+      "img": "https://www.libraff.az/images/thumbnails/400/600/from_1c/bde67ce4-b11c-11ee-a54d-503eaa120fc7_1.jpg.webp",
+      "description": "Crime and Punishment əsəri Fyodor Dostoevsky tərəfindən yazılıb. Bu kitab oxucunu dərin psixoloji və fəlsəfi düşüncələrə yönəldir.",
+      "category": "Psixologiya",
+      "altCateg": "Roman",
+      "soldCount": 45,
+      "stockCount": 6,
+      "lang": [
+        "TR",
+        "EN"
+      ],
+      "view": 216,
+      "code": 9785896852382,
+      "pageCount": 408,
+      "cover": "bərk",
+      "publisher": "Teas Press"
+    },
+    {
+      "id": "11",
+      "title": "The Old Man and the Sea",
+      "author": "Fyodor Dostoevsky ",
+      "price": 18.28,
+      "saleRate": 10,
+      "img": "https://www.libraff.az/images/thumbnails/400/600/from_1c/4d4882f9-34f6-11ed-a50a-503eaa120fc7_1.jpg.webp",
+      "description": "The Old Man and the Sea əsəri Fyodor Dostoevsky  tərəfindən yazılıb. Bu kitab oxucunu dərin psixoloji və fəlsəfi düşüncələrə yönəldir.",
+      "category": "Detektiv",
+      "altCateg": "Klassiklər",
+      "soldCount": 13,
+      "stockCount": 35,
+      "lang": [
+        "AZ",
+        "TR"
+      ],
+      "view": 484,
+      "code": 9782277052390,
+      "pageCount": 376,
+      "cover": "bərk",
+      "publisher": "Penguin Books"
+    },
+    {
+      "id": "12",
+      "title": "1984",
+      "author": "George Orwell",
+      "price": 29.19,
+      "saleRate": 20,
+      "img": "https://covers.openlibrary.org/b/isbn/9780451524935-L.jpg",
+      "description": "1984 əsəri George Orwell tərəfindən yazılıb. Bu kitab oxucunu dərin psixoloji və fəlsəfi düşüncələrə yönəldir.",
+      "category": "Fantastik",
+      "altCateg": "Klassiklər",
+      "soldCount": 0,
+      "stockCount": 10,
+      "lang": [
+        "AZ",
+        "EN",
+        "RU"
+      ],
+      "view": 130,
+      "code": 9780451524935,
+      "pageCount": 328,
+      "cover": "bərk",
+      "publisher": "Signet Classic"
+    },
+    {
+      "id": "13",
+      "title": "The Old Man and the Sea",
+      "author": "Ernest Hemingway",
+      "price": 25.19,
+      "saleRate": 15,
+      "img": "https://covers.openlibrary.org/b/isbn/9780684801223-L.jpg",
+      "description": "The Old Man and the Sea əsəri Ernest Hemingway tərəfindən yazılıb. Bu kitab oxucunu dərin psixoloji və fəlsəfi düşüncələrə yönəldir.",
+      "category": "Detektiv",
+      "altCateg": "Müasir",
+      "soldCount": 96,
+      "stockCount": 9,
+      "lang": [
+        "EN",
+        "RU"
+      ],
+      "view": 134,
+      "code": 9780684801223,
+      "pageCount": 127,
+      "cover": "yumşaq",
+      "publisher": "Scribner"
+    },
+    {
+      "id": "14",
+      "title": "The Hobbit",
+      "author": "J.R.R. Tolkien",
+      "price": 23.29,
+      "saleRate": 20,
+      "img": "https://covers.openlibrary.org/b/isbn/9780547928227-L.jpg",
+      "description": "The Hobbit əsəri J.R.R. Tolkien tərəfindən yazılıb. Bu kitab oxucunu dərin psixoloji və fəlsəfi düşüncələrə yönəldir.",
+      "category": "Klassik",
+      "altCateg": "Gənclər",
+      "soldCount": 25,
+      "stockCount": 46,
+      "lang": [
+        "AZ",
+        "EN",
+        "RU"
+      ],
+      "view": 469,
+      "code": 9780547928227,
+      "pageCount": 300,
+      "cover": "yumşaq",
+      "publisher": "Mariner Books"
+    },
+    {
+      "id": "15",
+      "title": "Kafka on the Shore",
+      "author": "Haruki Murakami",
+      "price": 12.72,
+      "saleRate": 4,
+      "img": "https://covers.openlibrary.org/b/isbn/9780099458326-L.jpg",
+      "description": "Kafka on the Shore əsəri Haruki Murakami tərəfindən yazılıb. Bu kitab oxucunu dərin psixoloji və fəlsəfi düşüncələrə yönəldir.",
+      "category": "Bədii ədəbiyyat",
+      "altCateg": "Gənclər",
+      "soldCount": 31,
+      "stockCount": 10,
+      "lang": [
+        "EN",
+        "RU"
+      ],
+      "view": 120,
+      "code": 9780099458326,
+      "pageCount": 505,
+      "cover": "bərk",
+      "publisher": "Vintage"
+    },
+    {
+      "id": "16",
+      "title": "1984",
+      "author": "George Orwell",
+      "price": 7.05,
+      "saleRate": 4,
+      "img": "https://covers.openlibrary.org/b/isbn/9780451524935-L.jpg",
+      "description": "1984 əsəri George Orwell tərəfindən yazılıb. Bu kitab oxucunu dərin psixoloji və fəlsəfi düşüncələrə yönəldir.",
+      "category": "Bədii ədəbiyyat",
+      "altCateg": "Uşaq",
+      "soldCount": 76,
+      "stockCount": 10,
+      "lang": [
+        "AZ",
+        "EN",
+        "RU"
+      ],
+      "view": 268,
+      "code": 9780451524935,
+      "pageCount": 328,
+      "cover": "yumşaq",
+      "publisher": "Signet Classic"
+    },
+    {
+      "id": "17",
+      "title": "Kafka on the Shore",
+      "author": "Haruki Murakami",
+      "price": 8.12,
+      "saleRate": 5,
+      "img": "https://covers.openlibrary.org/b/isbn/9780099458326-L.jpg",
+      "description": "Kafka on the Shore əsəri Haruki Murakami tərəfindən yazılıb. Bu kitab oxucunu dərin psixoloji və fəlsəfi düşüncələrə yönəldir.",
+      "category": "Bədii ədəbiyyat",
+      "altCateg": "Uşaq",
+      "soldCount": 25,
+      "stockCount": 10,
+      "lang": [
+        "AZ",
+        "EN"
+      ],
+      "view": 201,
+      "code": 9780099458326,
+      "pageCount": 505,
+      "cover": "yumşaq",
+      "publisher": "Vintage"
+    },
+    {
+      "id": "18",
+      "title": "Crime and Punishment",
+      "author": "Fyodor Dostoevsky",
+      "price": 18.1,
+      "saleRate": 13,
+      "img": "https://covers.openlibrary.org/b/isbn/9780140449136-L.jpg",
+      "description": "Crime and Punishment əsəri Fyodor Dostoevsky tərəfindən yazılıb. Bu kitab oxucunu dərin psixoloji və fəlsəfi düşüncələrə yönəldir.",
+      "category": "Tarix",
+      "altCateg": "Gənclər",
+      "soldCount": 85,
+      "stockCount": 3,
+      "lang": [
+        "TR",
+        "EN"
+      ],
+      "view": 293,
+      "code": 9780140449136,
+      "pageCount": 671,
+      "cover": "bərk",
+      "publisher": "Penguin Classics"
+    },
+    {
+      "id": "19",
+      "title": "The Adventures of Tom Sawyer",
+      "author": "Mark Twain",
+      "price": 28.96,
+      "saleRate": 15,
+      "img": "https://images-na.ssl-images-amazon.com/images/I/81OthjkJBuL.jpg",
+      "description": "The Adventures of Tom Sawyer əsəri Mark Twain tərəfindən yazılıb. Bu kitab oxucunu dərin psixoloji və fəlsəfi düşüncələrə yönəldir.",
+      "category": "Detektiv",
+      "altCateg": "Müasir",
+      "soldCount": 89,
+      "stockCount": 38,
+      "lang": [
+        "AZ",
+        "TR"
+      ],
+      "view": 305,
+      "code": 9781856869329,
+      "pageCount": 624,
+      "cover": "yumşaq",
+      "publisher": "Xan"
+    },
+    {
+      "id": "20",
+      "title": "The Hobbit",
+      "author": "J.R.R. Tolkien",
+      "price": 20.65,
+      "saleRate": 15,
+      "img": "https://images-na.ssl-images-amazon.com/images/I/91b0C2YNSrL.jpg",
+      "description": "The Hobbit əsəri J.R.R. Tolkien tərəfindən yazılıb. Bu kitab oxucunu dərin psixoloji və fəlsəfi düşüncələrə yönəldir.",
+      "category": "Fantastik",
+      "altCateg": "Müasir",
+      "soldCount": 58,
+      "stockCount": 44,
+      "lang": [
+        "AZ",
+        "EN"
+      ],
+      "view": 406,
+      "code": 9782923401769,
+      "pageCount": 728,
+      "cover": "bərk",
+      "publisher": "AliNino"
+    },
+    {
+      "id": "21",
+      "title": "1984",
+      "author": "J.K. Rowling",
+      "price": 20.5,
+      "saleRate": 10,
+      "img": "https://www.libraff.az/images/thumbnails/400/600/from_1c/066de26e-1fba-11ed-a50a-503eaa120fc7_2.jpg.webp",
+      "description": "1984 əsəri J.K. Rowling tərəfindən yazılıb. Bu kitab oxucunu dərin psixoloji və fəlsəfi düşüncələrə yönəldir.",
+      "category": "Detektiv",
+      "altCateg": "Klassiklər",
+      "soldCount": 98,
+      "stockCount": 11,
+      "lang": [
+        "TR",
+        "EN"
+      ],
+      "view": 219,
+      "code": 9789892187222,
+      "pageCount": 596,
+      "cover": "yumşaq",
+      "publisher": "Penguin Books"
+    },
+    {
+      "id": "22",
+      "title": "One Hundred Years of Solitude",
+      "author": "J.R.R. Tolkien",
+      "price": 34.05,
+      "saleRate": 10,
+      "img": "https://www.libraff.az/images/thumbnails/400/600/from_1c/999e78a7-e0b6-11eb-a4ef-503eaa120fc7_1.jpg.webp",
+      "description": "One Hundred Years of Solitude əsəri J.R.R. Tolkien tərəfindən yazılıb. Bu kitab oxucunu dərin psixoloji və fəlsəfi düşüncələrə yönəldir.",
+      "category": "Tarix",
+      "altCateg": "Gənclər",
+      "soldCount": 50,
+      "stockCount": 20,
+      "lang": [
+        "AZ",
+        "EN",
+        "RU"
+      ],
+      "view": 334,
+      "code": 9789765504780,
+      "pageCount": 504,
+      "cover": "yumşaq",
+      "publisher": "AliNino"
+    },
+    {
+      "id": "23",
+      "title": "Anna Karenina",
+      "author": "Lev Nikolayeviç Tolstoy",
+      "price": 15.9,
+      "saleRate": 15,
+      "img": "https://www.libraff.az/images/thumbnails/600/600/from_1c/5596928a-6e72-11ee-a51c-503eaa120fc7_1.jpg.webp",
+      "description": "Mənim ilk həqiqi romanım... “Anna Karenina”nı tam haqlı olaraq dünya ədəbiyyatının məhəbbət haqda ən məşhur və ən populyar romanı adlandırırlar. Bu əsər insan qəlbinin ən mübhəm, ən sirli, ən dərin qatlarına nüfuz edir, insan ruhunun qeyri-adi gücünü göstərir. Gənc zabitə aşiq olan, heç nəyə, heç kimə baxmayaraq, ərini, ailəsini atan gənc və gözəl bir qadının hekayəsi ailə, vicdan, ictimai borc anlayışlarına əvvəlki ənənəvi baxışları dəyişir. Mədəniyyət tarixinin şəksiz ədəbi incilərindən olan bu əsərdə insan psixologiyası ən xırda çalarlarına qədər zərgər dəqiqliyi ilə işlənib. “Anna Karenina” sadəcə sevgi romanı deyil, ailə, cəmiyyət və həyat haqda bütöv bir elmdir.",
+      "category": "Bədii ədəbiyyat",
+      "altCateg": "Klassik poemalar",
+      "soldCount": 82,
+      "stockCount": 41,
+      "lang": [
+        "AZ",
+        "EN",
+        "RU"
+      ],
+      "view": 309,
+      "code": 9789952563306,
+      "pageCount": 880,
+      "cover": "bərk",
+      "publisher": "Teas Press"
+    },
+    {
+      "id": "24",
+      "title": "Harry Potter and the Sorcerer's Stone",
+      "author": "George Orwell",
+      "price": 20.75,
+      "saleRate": 15,
+      "img": "https://cdn11.bigcommerce.com/s-igquupw3/images/stencil/1280x1280/products/1677964/38977811/9781338878929__51286.1744792150.jpg?c=2",
+      "description": "Harry Potter and the Sorcerer's Stone əsəri George Orwell tərəfindən yazılıb. Bu kitab oxucunu dərin psixoloji və fəlsəfi düşüncələrə yönəldir.",
+      "category": "Psixologiya",
+      "altCateg": "Müasir",
+      "soldCount": 82,
+      "stockCount": 41,
+      "lang": [
+        "AZ",
+        "EN",
+        "RU"
+      ],
+      "view": 309,
+      "code": 9785663891685,
+      "pageCount": 528,
+      "cover": "bərk",
+      "publisher": "Xan"
+    },
+    {
+      "id": "25",
+      "title": "1984",
+      "author": "George Orwell",
+      "price": 13.75,
+      "saleRate": 10,
+      "img": "https://cdn.waterstones.com/bookjackets/large/9780/1410/9780141036144.jpg",
+      "description": "1984 əsəri George Orwell tərəfindən yazılıb. Bu kitab oxucunu dərin psixoloji və fəlsəfi düşüncələrə yönəldir.",
+      "category": "Bədii ədəbiyyat",
+      "altCateg": "Klassiklər",
+      "soldCount": 90,
+      "stockCount": 47,
+      "lang": [
+        "TR",
+        "EN"
+      ],
+      "view": 413,
+      "code": 9781495833209,
+      "pageCount": 620,
+      "cover": "yumşaq",
+      "publisher": "AliNino"
+    },
+    {
+      "id": "26",
+      "title": "The Adventures of Tom Sawyer",
+      "author": "Gabriel García Márquez",
+      "price": 15.74,
+      "saleRate": 10,
+      "img": "https://www.libraff.az/images/thumbnails/400/600/from_1c/679d0099-504d-11eb-a4d2-503eaa128442_1.jpg.webp",
+      "description": "The Adventures of Tom Sawyer əsəri Gabriel García Márquez tərəfindən yazılıb. Bu kitab oxucunu dərin psixoloji və fəlsəfi düşüncələrə yönəldir.",
+      "category": "Detektiv",
+      "altCateg": "Uşaq",
+      "soldCount": 91,
+      "stockCount": 46,
+      "lang": [
+        "AZ",
+        "TR"
+      ],
+      "view": 455,
+      "code": 9783143028529,
+      "pageCount": 701,
+      "cover": "bərk",
+      "publisher": "Qanun"
+    },
+    {
+      "id": "27",
+      "title": "One Hundred Years of Solitude",
+      "author": "Fyodor Dostoevsky",
+      "price": 16.21,
+      "saleRate": 10,
+      "img": "https://www.libraff.az/images/thumbnails/400/600/from_1c/999e78a7-e0b6-11eb-a4ef-503eaa120fc7_1.jpg.webp",
+      "description": "One Hundred Years of Solitude əsəri Fyodor Dostoevsky tərəfindən yazılıb. Bu kitab oxucunu dərin psixoloji və fəlsəfi düşüncələrə yönəldir.",
+      "category": "Psixologiya",
+      "altCateg": "Klassiklər",
+      "soldCount": 53,
+      "stockCount": 5,
+      "lang": [
+        "EN",
+        "RU"
+      ],
+      "view": 373,
+      "code": 9785802557478,
+      "pageCount": 840,
+      "cover": "yumşaq",
+      "publisher": "Xan"
+    },
+    {
+      "id": "28",
+      "title": "Kafka on the Shore",
+      "author": "Haruki Murakami",
+      "price": 27.48,
+      "saleRate": 14,
+      "img": "https://www.libraff.az/images/thumbnails/400/600/from_1c/9f95da7a-b11c-11ee-a54d-503eaa120fc7_1.jpg.webp",
+      "description": "Kafka on the Shore is a surreal novel by Haruki Murakami that explores themes of fate, consciousness, and metaphysical mysteries through the intertwined stories of a teenage boy and an elderly man.",
+      "category": "Fiction",
+      "altCateg": "Magical Realism",
+      "soldCount": 43,
+      "stockCount": 3,
+      "lang": [
+        "EN",
+        "JP",
+        "AZ"
+      ],
+      "view": 317,
+      "code": 9781400079278,
+      "pageCount": 505,
+      "cover": "soft",
+      "publisher": "Vintage International"
+    },
+    {
+      "id": "29",
+      "title": "The Hobbit",
+      "author": "Ernest Hemingway",
+      "price": 30.82,
+      "saleRate": 15,
+      "img": "https://m.media-amazon.com/images/I/712cDO7d73L._AC_UF1000,1000_QL80_.jpg",
+      "description": "The Hobbit əsəri Ernest Hemingway tərəfindən yazılıb. Bu kitab oxucunu dərin psixoloji və fəlsəfi düşüncələrə yönəldir.",
+      "category": "Psixologiya",
+      "altCateg": "Klassiklər",
+      "soldCount": 93,
+      "stockCount": 39,
+      "lang": [
+        "AZ",
+        "EN",
+        "RU"
+      ],
+      "view": 243,
+      "code": 9786552709365,
+      "pageCount": 647,
+      "cover": "bərk",
+      "publisher": "Teas Press"
+    },
+    {
+      "id": "30",
+      "title": "Crime and Punishment",
+      "author": "Fyodor Dostoevsky",
+      "price": 24.02,
+      "saleRate": 15,
+      "img": "https://www.libraff.az/images/thumbnails/400/600/from_1c/bde67ce4-b11c-11ee-a54d-503eaa120fc7_1.jpg.webp",
+      "description": "Crime and Punishment əsəri Fyodor Dostoevsky tərəfindən yazılıb. Bu kitab oxucunu dərin psixoloji və fəlsəfi düşüncələrə yönəldir.",
+      "category": "Psixologiya",
+      "altCateg": "Roman",
+      "soldCount": 45,
+      "stockCount": 6,
+      "lang": [
+        "TR",
+        "EN"
+      ],
+      "view": 216,
+      "code": 9785896852382,
+      "pageCount": 408,
+      "cover": "bərk",
+      "publisher": "Teas Press"
+    },
+    {
+      "id": "31",
+      "title": "The Old Man and the Sea",
+      "author": "Fyodor Dostoevsky ",
+      "price": 18.28,
+      "saleRate": 10,
+      "img": "https://www.libraff.az/images/thumbnails/400/600/from_1c/4d4882f9-34f6-11ed-a50a-503eaa120fc7_1.jpg.webp",
+      "description": "The Old Man and the Sea əsəri Fyodor Dostoevsky  tərəfindən yazılıb. Bu kitab oxucunu dərin psixoloji və fəlsəfi düşüncələrə yönəldir.",
+      "category": "Detektiv",
+      "altCateg": "Klassiklər",
+      "soldCount": 13,
+      "stockCount": 35,
+      "lang": [
+        "AZ",
+        "TR"
+      ],
+      "view": 484,
+      "code": 9782277052390,
+      "pageCount": 376,
+      "cover": "bərk",
+      "publisher": "Penguin Books"
+    },
+    {
+      "id": "32",
+      "title": "1984",
+      "author": "George Orwell",
+      "price": 29.19,
+      "saleRate": 20,
+      "img": "https://covers.openlibrary.org/b/isbn/9780451524935-L.jpg",
+      "description": "1984 əsəri George Orwell tərəfindən yazılıb. Bu kitab oxucunu dərin psixoloji və fəlsəfi düşüncələrə yönəldir.",
+      "category": "Fantastik",
+      "altCateg": "Klassiklər",
+      "soldCount": 0,
+      "stockCount": 10,
+      "lang": [
+        "AZ",
+        "EN",
+        "RU"
+      ],
+      "view": 130,
+      "code": 9780451524935,
+      "pageCount": 328,
+      "cover": "bərk",
+      "publisher": "Signet Classic"
+    },
+    {
+      "id": "33",
+      "title": "The Old Man and the Sea",
+      "author": "Ernest Hemingway",
+      "price": 25.19,
+      "saleRate": 15,
+      "img": "https://covers.openlibrary.org/b/isbn/9780684801223-L.jpg",
+      "description": "The Old Man and the Sea əsəri Ernest Hemingway tərəfindən yazılıb. Bu kitab oxucunu dərin psixoloji və fəlsəfi düşüncələrə yönəldir.",
+      "category": "Detektiv",
+      "altCateg": "Müasir",
+      "soldCount": 96,
+      "stockCount": 9,
+      "lang": [
+        "EN",
+        "RU"
+      ],
+      "view": 134,
+      "code": 9780684801223,
+      "pageCount": 127,
+      "cover": "yumşaq",
+      "publisher": "Scribner"
+    },
+    {
+      "id": "34",
+      "title": "The Hobbit",
+      "author": "J.R.R. Tolkien",
+      "price": 23.29,
+      "saleRate": 20,
+      "img": "https://covers.openlibrary.org/b/isbn/9780547928227-L.jpg",
+      "description": "The Hobbit əsəri J.R.R. Tolkien tərəfindən yazılıb. Bu kitab oxucunu dərin psixoloji və fəlsəfi düşüncələrə yönəldir.",
+      "category": "Klassik",
+      "altCateg": "Gənclər",
+      "soldCount": 25,
+      "stockCount": 46,
+      "lang": [
+        "AZ",
+        "EN",
+        "RU"
+      ],
+      "view": 469,
+      "code": 9780547928227,
+      "pageCount": 300,
+      "cover": "yumşaq",
+      "publisher": "Mariner Books"
+    },
+    {
+      "id": "35",
+      "title": "Kafka on the Shore",
+      "author": "Haruki Murakami",
+      "price": 12.72,
+      "saleRate": 20,
+      "img": "https://covers.openlibrary.org/b/isbn/9780099458326-L.jpg",
+      "description": "Kafka on the Shore əsəri Haruki Murakami tərəfindən yazılıb. Bu kitab oxucunu dərin psixoloji və fəlsəfi düşüncələrə yönəldir.",
+      "category": "Bədii ədəbiyyat",
+      "altCateg": "Gənclər",
+      "soldCount": 31,
+      "stockCount": 10,
+      "lang": [
+        "EN",
+        "RU"
+      ],
+      "view": 120,
+      "code": 9780099458326,
+      "pageCount": 505,
+      "cover": "bərk",
+      "publisher": "Vintage"
+    },
+    {
+      "id": "36",
+      "title": "1984",
+      "author": "George Orwell",
+      "price": 7.05,
+      "saleRate": 25,
+      "img": "https://covers.openlibrary.org/b/isbn/9780451524935-L.jpg",
+      "description": "1984 əsəri George Orwell tərəfindən yazılıb. Bu kitab oxucunu dərin psixoloji və fəlsəfi düşüncələrə yönəldir.",
+      "category": "Bədii ədəbiyyat",
+      "altCateg": "Uşaq",
+      "soldCount": 76,
+      "stockCount": 10,
+      "lang": [
+        "AZ",
+        "EN",
+        "RU"
+      ],
+      "view": 268,
+      "code": 9780451524935,
+      "pageCount": 328,
+      "cover": "yumşaq",
+      "publisher": "Signet Classic"
+    },
+    {
+      "id": "37",
+      "title": "Kafka on the Shore",
+      "author": "Haruki Murakami",
+      "price": 8.12,
+      "saleRate": 0,
+      "img": "https://covers.openlibrary.org/b/isbn/9780099458326-L.jpg",
+      "description": "Kafka on the Shore əsəri Haruki Murakami tərəfindən yazılıb. Bu kitab oxucunu dərin psixoloji və fəlsəfi düşüncələrə yönəldir.",
+      "category": "Bədii ədəbiyyat",
+      "altCateg": "Uşaq",
+      "soldCount": 25,
+      "stockCount": 10,
+      "lang": [
+        "AZ",
+        "EN"
+      ],
+      "view": 201,
+      "code": 9780099458326,
+      "pageCount": 505,
+      "cover": "yumşaq",
+      "publisher": "Vintage"
+    },
+    {
+      "id": "38",
+      "title": "Crime and Punishment",
+      "author": "Fyodor Dostoevsky",
+      "price": 18.1,
+      "saleRate": 20,
+      "img": "https://covers.openlibrary.org/b/isbn/9780140449136-L.jpg",
+      "description": "Crime and Punishment əsəri Fyodor Dostoevsky tərəfindən yazılıb. Bu kitab oxucunu dərin psixoloji və fəlsəfi düşüncələrə yönəldir.",
+      "category": "Tarix",
+      "altCateg": "Gənclər",
+      "soldCount": 85,
+      "stockCount": 3,
+      "lang": [
+        "TR",
+        "EN"
+      ],
+      "view": 293,
+      "code": 9780140449136,
+      "pageCount": 671,
+      "cover": "bərk",
+      "publisher": "Penguin Classics"
+    },
+    {
+      "id": "42",
+      "title": "1984",
+      "author": "George Orwell",
+      "price": 29.19,
+      "saleRate": 20,
+      "img": "https://images-na.ssl-images-amazon.com/images/I/71kxa1-0mfL.jpg",
+      "description": "1984 əsəri George Orwell tərəfindən yazılıb. Bu kitab oxucunu dərin psixoloji və fəlsəfi düşüncələrə yönəldir.",
+      "category": "Fantastik",
+      "altCateg": "Klassiklər",
+      "soldCount": 0,
+      "stockCount": 10,
+      "lang": [
+        "AZ",
+        "EN",
+        "RU"
+      ],
+      "view": 130,
+      "code": 9783596215577,
+      "pageCount": 520,
+      "cover": "bərk",
+      "publisher": "Xan"
+    },
+    {
+      "id": "43",
+      "title": "The Old Man and the Sea",
+      "author": "Ernest Hemingway",
+      "price": 25.19,
+      "saleRate": 15,
+      "img": "https://images-na.ssl-images-amazon.com/images/I/81eB+7+CkUL.jpg",
+      "description": "The Old Man and the Sea əsəri Ernest Hemingway tərəfindən yazılıb. Bu kitab oxucunu dərin psixoloji və fəlsəfi düşüncələrə yönəldir.",
+      "category": "Detektiv",
+      "altCateg": "Müasir",
+      "soldCount": 96,
+      "stockCount": 9,
+      "lang": [
+        "EN",
+        "RU"
+      ],
+      "view": 134,
+      "code": 9781587736295,
+      "pageCount": 711,
+      "cover": "yumşaq",
+      "publisher": "Qanun"
+    },
+    {
+      "id": "44",
+      "title": "The Hobbit",
+      "author": "J.R.R. Tolkien",
+      "price": 23.29,
+      "saleRate": 20,
+      "img": "https://images-na.ssl-images-amazon.com/images/I/91b0C2YNSrL.jpg",
+      "description": "The Hobbit əsəri J.R.R. Tolkien tərəfindən yazılıb. Bu kitab oxucunu dərin psixoloji və fəlsəfi düşüncələrə yönəldir.",
+      "category": "Klassik",
+      "altCateg": "Gənclər",
+      "soldCount": 25,
+      "stockCount": 46,
+      "lang": [
+        "AZ",
+        "EN",
+        "RU"
+      ],
+      "view": 469,
+      "code": 9783237186886,
+      "pageCount": 314,
+      "cover": "yumşaq",
+      "publisher": "Teas Press"
+    },
+    {
+      "id": "46",
+      "title": "1984",
+      "author": "George Orwell",
+      "price": 7.05,
+      "saleRate": 25,
+      "img": "https://images-na.ssl-images-amazon.com/images/I/71kxa1-0mfL.jpg",
+      "description": "1984 əsəri George Orwell tərəfindən yazılıb. Bu kitab oxucunu dərin psixoloji və fəlsəfi düşüncələrə yönəldir.",
+      "category": "Bədii ədəbiyyat",
+      "altCateg": "Uşaq",
+      "soldCount": 76,
+      "stockCount": 10,
+      "lang": [
+        "AZ",
+        "EN",
+        "RU"
+      ],
+      "view": 268,
+      "code": 9787833777923,
+      "pageCount": 755,
+      "cover": "yumşaq",
+      "publisher": "Penguin Books"
+    },
+    {
+      "id": "48",
+      "title": "Crime and Punishment",
+      "author": "Fyodor Dostoevsky",
+      "price": 18.1,
+      "saleRate": 20,
+      "img": "https://images-na.ssl-images-amazon.com/images/I/81eB+7+CkUL.jpg",
+      "description": "Crime and Punishment əsəri Fyodor Dostoevsky tərəfindən yazılıb. Bu kitab oxucunu dərin psixoloji və fəlsəfi düşüncələrə yönəldir.",
+      "category": "Tarix",
+      "altCateg": "Gənclər",
+      "soldCount": 85,
+      "stockCount": 3,
+      "lang": [
+        "TR",
+        "EN"
+      ],
+      "view": 293,
+      "code": 9782260214747,
+      "pageCount": 996,
+      "cover": "bərk",
+      "publisher": "Teas Press"
+    },
+    {
+      "id": "49",
+      "title": "The Adventures of Tom Sawyer",
+      "author": "Mark Twain",
+      "price": 28.96,
+      "saleRate": 20,
+      "img": "https://images-na.ssl-images-amazon.com/images/I/81OthjkJBuL.jpg",
+      "description": "The Adventures of Tom Sawyer əsəri Mark Twain tərəfindən yazılıb. Bu kitab oxucunu dərin psixoloji və fəlsəfi düşüncələrə yönəldir.",
+      "category": "Detektiv",
+      "altCateg": "Müasir",
+      "soldCount": 89,
+      "stockCount": 38,
+      "lang": [
+        "AZ",
+        "TR"
+      ],
+      "view": 305,
+      "code": 9781856869329,
+      "pageCount": 624,
+      "cover": "yumşaq",
+      "publisher": "Xan"
+    },
+    {
+      "id": "50",
+      "title": "The Hobbit",
+      "author": "J.R.R. Tolkien",
+      "price": 20.65,
+      "saleRate": 25,
+      "img": "https://images-na.ssl-images-amazon.com/images/I/91b0C2YNSrL.jpg",
+      "description": "The Hobbit əsəri J.R.R. Tolkien tərəfindən yazılıb. Bu kitab oxucunu dərin psixoloji və fəlsəfi düşüncələrə yönəldir.",
+      "category": "Fantastik",
+      "altCateg": "Müasir",
+      "soldCount": 58,
+      "stockCount": 44,
+      "lang": [
+        "AZ",
+        "EN"
+      ],
+      "view": 406,
+      "code": 9782923401769,
+      "pageCount": 728,
+      "cover": "bərk",
+      "publisher": "AliNino"
+    },
+    {
+      "id": "51",
+      "title": "Güney Azərbaycan ədəbiyyatı antologiyası",
+      "author": "PƏRVANƏ MƏMMƏDOVA",
+      "price": 14,
+      "saleRate": 0,
+      "img": "https://www.libraff.az/images/thumbnails/400/600/from_1c/5c80610a-5053-11eb-a4d2-503eaa128442_1.jpg.webp",
+      "description": "Güney Azərbaycan ədəbiyyatı Ümumazərbaycan ədəbiyyatının tərkib hissəsi olmaqla...",
+      "category": "antologiya",
+      "altCateg": "Klassiklər",
+      "soldCount": 61,
+      "stockCount": 12,
+      "lang": [
+        "AZE"
+      ],
+      "view": 184,
+      "code": 9789952494655,
+      "pageCount": 364,
+      "cover": "yumşaq",
+      "publisher": "Teas Press"
+    },
+    {
+      "id": "52",
+      "title": "Dünya elmi-fantastik ədəbiyyatı antologiyası",
+      "author": "Kolektif",
+      "price": 6,
+      "saleRate": 20,
+      "img": "https://www.libraff.az/images/thumbnails/400/600/from_1c/3dfe5a39-5050-11eb-a4d2-503eaa128442_1.jpg.webp",
+      "description": "Oxuculara təqdim olunan “Dünya elmi-fantastik ədəbiyyatı antologiyası”nın II cildində...",
+      "category": "antologiya",
+      "altCateg": "Klassiklər",
+      "soldCount": 48,
+      "stockCount": 11,
+      "lang": [
+        "AZE"
+      ],
+      "view": 268,
+      "code": 9789952321234,
+      "pageCount": 232,
+      "cover": "мягкая обложка",
+      "publisher": "Şərq-qərb Nəşriyyatı"
+    },
+    {
+      "id": "53",
+      "title": "Güney Azərbaycan ədəbiyyatı antologiyası",
+      "author": "PƏRVANƏ MƏMMƏDOVA",
+      "price": 14,
+      "saleRate": 0,
+      "img": "https://www.libraff.az/images/thumbnails/400/600/from_1c/5c80610a-5053-11eb-a4d2-503eaa128442_1.jpg.webp",
+      "description": "Güney Azərbaycan ədəbiyyatı Ümumazərbaycan ədəbiyyatının tərkib hissəsi olmaqla, eyni zamanda özünəməxsus xüsusiyyətlərə də malikdir. Ona görə də Azərbaycan ədəbiyyatşünaslığında Güney Azərbaycan ədəbiyyatının müxtəlif dövrlərinə dair çoxcildlik antologiyalar nəşr edilmişdir. Təqdim olunan antologiyanın yeniliyi ondan ibarətdir ki, o, son otuz ildə Güney Azərbaycanda yazıb-yaradan ədəbi nəslin yaradıcılığını əks etdirir. Burada yüzə yaxın şair və yazıçı haqqında avtobioqrafik məlumat və əsərlərindən örnəklər verilmişdir. Bu yaradıcılıq nümunələri İranla bərabər, dünyanın müxtəlif ölkələrində yaşayan Güney Azərbaycanın çağdaş şair və yazıçılarının yaradıcılığının ümumi mənzərəsini aydın şəkildə əks etdirir.\n\nAntologiyada həm xalq şeiri üslubunda və divan ədəbiyyatı tərzində yazılmış, eyni zamanda Avropada ötən əsrin 60-cı illərində formalaşan \"fləş fikşn\" (Flash Fiction) üslubunda yaranan və minimalizmə, kiçik həcmə əsaslanan nəsr əsərləri, özündə postmodernizmin bəzi imkan və açılım-çevrilmələrini əks etdirən şeirlər vardır.\nGüneydə ədəbi eksperimentləri ilə tanınan, poeziya sahəsində xüsusi ədəbi tərz, üslub yaratmağa nail olan Hüseyn Süleymanoğlunun \"Bilimsəl\", Nadir Əzhərinin \"Donuq şeir planı\" və Ziba Kərbasinin \"Nəfəs\" şeirləri yeni, avanqard yanaşmalara nümunədir.\nAntologiyada toplanan əsərlər ədəbi aləmdə müasir Güney Azərbaycan ədəbiyyatının əsas meyilləri, məzmunu və dili haqqında da ətraflı təsəvvür yaradacaqdır.",
+      "category": "antologiya",
+      "altCateg": "Klassiklər",
+      "soldCount": 14,
+      "stockCount": 2,
+      "lang": [
+        "AZE"
+      ],
+      "view": 22,
+      "code": 9789952494655,
+      "pageCount": 364,
+      "cover": "yumşaq",
+      "publisher": "Teas Press"
+    },
+    {
+      "id": "54",
+      "title": "Dünya elmi-fantastik ədəbiyyatı antologiyası",
+      "author": "Kolektif",
+      "price": 6,
+      "saleRate": 20,
+      "img": "https://www.libraff.az/images/thumbnails/400/600/from_1c/3dfe5a39-5050-11eb-a4d2-503eaa128442_1.jpg.webp",
+      "description": "Oxuculara təqdim olunan “Dünya elmi-fantastik ədəbiyyatı antologiyası”nın II cildində dünya ədəbiyyatının fantastik janrında yazan Amerika",
+      "category": "antologiya",
+      "altCateg": "Klassiklər",
+      "soldCount": 92,
+      "stockCount": 1,
+      "lang": [
+        "AZE"
+      ],
+      "view": 360,
+      "code": 9789952321234,
+      "pageCount": 232,
+      "cover": "мягкая обложка",
+      "publisher": "Şərq-qərb Nəşriyyatı"
+    },
+    {
+      "id": "55",
+      "title": "Dünya elmi-fantastik ədəbiyyatı antologiyası (1 cild)",
+      "author": "Kolektif",
+      "price": 6,
+      "saleRate": 20,
+      "img": "https://www.libraff.az/images/thumbnails/400/600/from_1c/3dfe5a37-5050-11eb-a4d2-503eaa128442_1.jpg.webp",
+      "description": "“Şərq-Qərb” Nəşriyyat Evində nəşr olunan bu kitaba Edmond Hamilton, Endrü Norton, Artur Klark, Alfred Van Qoqt, Mişel Demüt, Yanuş Şablitski, Nils Nilsenin əsərləri daxil edilmişdir. Oxucuların diqqətinə təqdim edilən bu əsərlərdə fantastika janr rəngarəngliyinə görə klassik bədii ədəbiyyatdan, demək olar ki, fərqlənmir. Kitab geniş oxucu kütləsi üçün nəzərdə tutulmuşdur.",
+      "category": "antologiya",
+      "altCateg": "Klassiklər",
+      "soldCount": 14,
+      "stockCount": 4,
+      "lang": [
+        "AZE"
+      ],
+      "view": 17,
+      "code": 9789952321227,
+      "pageCount": 232,
+      "cover": "мягкая обложка",
+      "publisher": "Şərq-qərb Nəşriyyatı"
+    },
+    {
+      "id": "56",
+      "title": "44 fəsil",
+      "author": "Tərtibçi: Kərim Kərimli",
+      "price": 7.92,
+      "saleRate": 20,
+      "img": "https://www.libraff.az/images/thumbnails/400/600/from_1c/eea59d35-1082-11ec-a4f9-503eaa120fc7_1.jpg.webp",
+      "description": "Bu kitab Azərbaycan tarixinə əbədi yazılacaq 44 günün möcüzələrindən bəhs edir. 44 günün möcüzələri deyəndə göz önünə Vətən müharibəsi, torpaqlarımızın azadlığı, müqəddəs amallar uğrunda canından keçən əziz şəhidlərimizin misilsiz qəhrəmanılığı, igid qazilərimizin düşmənə dərs olan şücaəti, rəşadətli Azərbaycan Ordusunun dünya hərb tarixinə yazılacaq parlaq qələbəsi və bu arzuların çin olması üçün Ali Baş Komandanın müdrik sərkərdə istedadına güvənərək, onun rəhbərliyi altında yumruq kimi birləşərək, düşmənin başına “Dəmir yumruq” endirən Azərbaycan xalqının dəyanəti gəlir təbii ki... \nKitaba daxil edilmiş hekayələri oxuduqca haldan-hala düşəcək, gah sevinib fərəhlənəcək, gah da mütəəssir olub kövrələcəksiniz. Burada müxtəlif müəlliflərin hərəyə bir hekayəsi olmaqla 44 əsər toplanıb. Bu hekayələrdə 44 günlük müqəddəs savaşın ayrı-ayrı epizodlarının, şəhid, qazi və əsgər valideynlərinin, döyüşçülərin, əzizlərini Vətən uğrunda döyüşə yola salmış insanların hiss və həyəcanlarının hər müəllifin özünəməxsus istedad və ustalıqla qələmə aldığı bədii təsvirini görəcəksiniz. Bu kitab dünyada dillərdə dastan olmuş 44 günlük savaşda xalqımızın gücünü və rəşadətini vəsf etmək yolunda bir töhfədir, möhtəşəm Qələbəmizə bir heykəldir. İnanırıq ki, bu yazı abidəsi oxucuların zövqünü oxşayacaq.",
+      "category": "antologiya",
+      "altCateg": "Klassiklər",
+      "soldCount": 9,
+      "stockCount": 17,
+      "lang": [
+        "AZE"
+      ],
+      "view": 473,
+      "code": 9789952540345,
+      "pageCount": 368,
+      "cover": "yumşaq",
+      "publisher": "Teas Press"
+    },
+    {
+      "id": "57",
+      "title": "Latin Amerikası ədəbiyyatı antologiyası",
+      "author": "Nizami Cəfərovdur.",
+      "price": 6,
+      "saleRate": 20,
+      "img": "https://www.libraff.az/images/thumbnails/400/600/from_1c/5c806114-5053-11eb-a4d2-503eaa128442_1.jpg.webp",
+      "description": "Ayrı-ayrı ölkələri təmsil edən, hər biri özünəməxsusluğu ilə seçilən bu yazıçılar ayrı-ayrı üslublarda yazıb-yaratsalar da eyni bir məqamı – gerçəkliklə xəyal arasında sərhədlərin itdiyi yeni insan nəslinin tarixini qələmə alıblar.",
+      "category": "antologiya",
+      "altCateg": "Klassiklər",
+      "soldCount": 56,
+      "stockCount": 12,
+      "lang": [
+        "AZE"
+      ],
+      "view": 74,
+      "code": 9789952500066,
+      "pageCount": null,
+      "cover": "",
+      "publisher": "Şərq-qərb Nəşriyyatı"
+    },
+    {
+      "id": "58",
+      "title": "Modern gürcü ədəbiyyatı. Insan-Zero",
+      "author": "",
+      "price": 6.88,
+      "saleRate": 20,
+      "img": "https://www.libraff.az/images/thumbnails/400/600/from_1c/bf1bee77-5054-11eb-a4d2-503eaa128442_1.jpg.webp",
+      "description": "",
+      "category": "antologiya",
+      "altCateg": "Klassiklər",
+      "soldCount": 40,
+      "stockCount": 5,
+      "lang": [
+        "AZE"
+      ],
+      "view": 289,
+      "code": 9789952828757,
+      "pageCount": null,
+      "cover": "",
+      "publisher": ""
+    },
+    {
+      "id": "59",
+      "title": "İspan ədəbiyyatı antologiyası",
+      "author": "Kollektiv",
+      "price": 6,
+      "saleRate": 20,
+      "img": "https://www.libraff.az/images/thumbnails/400/600/from_1c/56884bc8-5053-11eb-a4d2-503eaa128442_1.jpg.webp",
+      "description": "Тофик Бахрамов · Категория: Детская литература · Автор: Багирзаде Б.",
+      "category": "antologiya",
+      "altCateg": "Klassiklər",
+      "soldCount": 1,
+      "stockCount": 17,
+      "lang": [
+        "AZE"
+      ],
+      "view": 300,
+      "code": 9789952342963,
+      "pageCount": 343,
+      "cover": "мягкая обложка",
+      "publisher": "Şərq-qərb Nəşriyyatı"
+    },
+    {
+      "id": "60",
+      "title": "Azərbaycan ədəbiyyatı antologiyası - Nəsr",
+      "author": "",
+      "price": 20,
+      "saleRate": 20,
+      "img": "https://www.libraff.az/images/thumbnails/400/600/from_1c/9642b3bb-5052-11eb-a4d2-503eaa128442_1.jpg.webp",
+      "description": "",
+      "category": "antologiya",
+      "altCateg": "Klassiklər",
+      "soldCount": 8,
+      "stockCount": 2,
+      "lang": [
+        "AZE"
+      ],
+      "view": 197,
+      "code": 9789952503296,
+      "pageCount": null,
+      "cover": "",
+      "publisher": "Atm"
+    },
+    {
+      "id": "61",
+      "title": "Osurukçular Kulübü",
+      "author": "Antoine De Baecque",
+      "price": 23.9,
+      "saleRate": 0,
+      "img": "https://www.libraff.az/images/thumbnails/400/600/from_1c/50b41627-2f6a-11ed-a50a-503eaa120fc7_1.jpg.webp",
+      "description": "Eski Mısır'da bir tanrı, Antik Çağ'da ömre ömür katan faydalı bir egzersiz, seyrine doyulamayan ve kokusundan durulamayan bir panayır eğlencesi, entelektüellerin hasımlarını yermek için kullandığı en muzip koz: Osuruk!\n\n \n\nİnsan bedeninin bu en sıradan, en gündelik, kimi zaman gizlice, kimi zaman aleni faaliyetinin, edebiyattan ve tarihten sayısız örnek ve anekdotla, bilimsel inceleme ve araştırmalarla, gazete haberleriyle süslenmiş kâh merakla kâh gülerek okuyacağımız anlatısı...\n\n \n\nOsurukçular Kulübü, Aristofanes'ten Rabelais'ye, Émile Zola'dan Serge Gainsbourg'a uzanan geniş bir edebi derlemeyi de içeren, her türden hinliğe merak duyanların kaçırmaması gereken keyifli bir antoloji...",
+      "category": "antologiya",
+      "altCateg": "Klassiklər",
+      "soldCount": 72,
+      "stockCount": 8,
+      "lang": [
+        "TUR"
+      ],
+      "view": 243,
+      "code": 9786257370776,
+      "pageCount": 144,
+      "cover": "",
+      "publisher": "Sel Yayıncılık"
+    },
+    {
+      "id": "62",
+      "title": "Səsindən tanıdılar payızı",
+      "author": "",
+      "price": 4,
+      "saleRate": 20,
+      "img": "https://www.libraff.az/images/thumbnails/400/600/from_1c/9c464aba-5052-11eb-a4d2-503eaa128442_1.jpg.webp",
+      "description": "",
+      "category": "antologiya",
+      "altCateg": "Klassiklər",
+      "soldCount": 27,
+      "stockCount": 7,
+      "lang": [
+        "AZE"
+      ],
+      "view": 344,
+      "code": 9789952828962,
+      "pageCount": 136,
+      "cover": "",
+      "publisher": "Parlaq İmzalar"
+    },
+    {
+      "id": "63",
+      "title": "Dünyanın ən qısa hekayələri",
+      "author": "Deniel Con M.",
+      "price": 7.2,
+      "saleRate": 20,
+      "img": "https://www.libraff.az/images/thumbnails/400/600/from_1c/26b351f3-536c-11ed-a50b-503eaa120fc7_1.jpg.webp",
+      "description": "Bir dəfə “New Time” jurnalının redaktoru Stiv Moss Müsabiqə keçirmək qərarına gəlib, hansı ki, iştirakçılara 55 sözdən ibarət olan hekayələr yazmaq təklif olunub, lakin eyni zamanda mətnin ardıcıl süjeti, personajların yetərincə işlənməsi qeyri-adi sonluqla yadda qalması tələb olunurdu. O, o qədər geniş miqyaslı rəylər aldı ki, müsabiqənin sonunda “Dünyanın ən qısa hekayələri” toplusunu hazırladı.",
+      "category": "antologiya",
+      "altCateg": "Klassiklər",
+      "soldCount": 54,
+      "stockCount": 3,
+      "lang": [
+        "AZE"
+      ],
+      "view": 12,
+      "code": 9789952224368,
+      "pageCount": 144,
+      "cover": "yumşaq",
+      "publisher": "Mücrü Nəşriyyatı"
+    },
+    {
+      "id": "64",
+      "title": "Azərbaycan ədəbiyyatı antologiyası - Poeziya",
+      "author": "",
+      "price": 20,
+      "saleRate": 20,
+      "img": "https://www.libraff.az/images/thumbnails/400/600/from_1c/9642b3ba-5052-11eb-a4d2-503eaa128442_1.jpg.webp",
+      "description": "",
+      "category": "antologiya",
+      "altCateg": "Klassiklər",
+      "soldCount": 76,
+      "stockCount": 11,
+      "lang": [
+        "AZE"
+      ],
+      "view": 161,
+      "code": 9789952503289,
+      "pageCount": null,
+      "cover": "",
+      "publisher": "Atm"
+    },
+    {
+      "id": "65",
+      "title": "Son Mektup - Önemli Şahsiyetlerden Son Sözler Antolojisi",
+      "author": "Kolektif",
+      "price": 7.92,
+      "saleRate": 20,
+      "img": "https://www.libraff.az/images/thumbnails/400/600/from_1c/4aa911f8-2f6a-11ed-a50a-503eaa120fc7_1.jpg.webp",
+      "description": "Bu mektuplar hem inandıkları ve savundukları uğruna gözünü kırpmadan ilerleyenlerin manifestosu hem de şiddetli bir hezeyan ve melankoli okyanusunda boğulmak üzere olan dâhilerin son çırpınışıdır; bazen ölüme yürüyenlerin arzuladığı bir son, bazen de dirimi bir an daha uzatabilmenin mazeretidir.\n\nArthur Rimbaud'dan Voltaire'e, Proust'tan Chopin'e, Tolstoy'dan Woolf'a, Zola'dan Hugo'ya, Kafka'dan Lafargue'a adı insanlık tarihine kazınan nice şair, yazar, müzisyen ve düşünürün, hayatla olan bağları kesintiye uğramadan önce yazdıklarından oluşan Son Mektup'ta, hisler ve düşünceler, bazen ölümün o soğuk esi ntisine karşı bir yakarış, bazen umursamaz bir kahkaha gibi söze dökülüyor.\n\nSon Mektup, karmaşık ve karanlık yollarda ilerleyen farklı şahsiyetlerin yaşama dair nihai bir serzenişi olarak görülebileceği gibi, ölüm karşısında girişilen nafile bir savaş, bir uzlaşma çabası ya da sessiz bir veda niyetine de okunabilir.",
+      "category": "antologiya",
+      "altCateg": "Klassiklər",
+      "soldCount": 18,
+      "stockCount": 2,
+      "lang": [
+        "TUR"
+      ],
+      "view": 7,
+      "code": 9786057728104,
+      "pageCount": 159,
+      "cover": "",
+      "publisher": "Sel Yayıncılık"
+    },
+    {
+      "id": "66",
+      "title": "Lev Tolstoy - Seçilmiş əsərləri",
+      "author": "Lev Tolstoy",
+      "price": 7.2,
+      "saleRate": 20,
+      "img": "https://www.libraff.az/images/thumbnails/400/600/from_1c/7bb4b02e-faef-11ed-a519-503eaa120fc7_1.jpg.webp",
+      "description": "Bu kitabda dahi rus yazıçısı Lev Tolstoyun həyat və yaradıcılığı ilə bağlı məlumat verilib, ilk dəfə olaraq ölümündən sonra çap edilən bəzi əsərləri yer alıb. Lev Tolstoy Hərb və sülh, Anna Karenina kimi əsərləri ilə dünya səviyyəsində şöhrət qazansa da, özü İblis və Sergi ata əsərlərinə daha çox üstünlük verib.",
+      "category": "biography-autobiography-and-memoir",
+      "altCateg": "Klassiklər",
+      "soldCount": 47,
+      "stockCount": 20,
+      "lang": [
+        "AZE"
+      ],
+      "view": 49,
+      "code": 9789952819007,
+      "pageCount": 200,
+      "cover": "yumşaq",
+      "publisher": "Qədim Qala"
+    },
+    {
+      "id": "67",
+      "title": "Şantaj",
+      "author": "Elxan Elatlı",
+      "price": 9.52,
+      "saleRate": 20,
+      "img": "https://www.libraff.az/images/thumbnails/400/600/from_1c/a0cb1feb-cefa-11ee-a54e-503eaa120fc7_1.jpg.webp",
+      "description": "Ali təhsil almaq, oxuyub bir yana çıxmaq, arzularına çatmaq istəyi ilə universitetə qəbul imtahanlarını uğurla verib uzaq kənd rayonundan Bakıya gələn gənc qız bir səhvi ucbatından şantaj olunaraq ardıcıl təhdid və tələblərlə üzləşir. Onun davranışında, dünyagörüşündə, mənəviyyatında ciddi və təhlükəli dəyişikliklər baş verməyə başlayır. Romanda qorxu duyğusunun insan həyatında nələrə səbəb ola biləcəyi bir-birindən maraqlı    ı səhnələrlə aydın göstərilib. Həmin qorxu səbəbindən öz dərdini doğmalarına belə açıb deyə bilməyən qız təbii olaraq onlardan soyuyur. Bu onun xarakterində və dünyaya baxışında mənfiyə doğru gedişi sürətləndirir, ailəsi, yax xınları, tələbə yoldaşları, başqa adamlarla arasında dərin uçurum yaranır və nəticə heç də ürəkaçan olmur. Vaxtında lazımi şəkildə qiymətləndirilməyən, qarşısı alınmayan proseslər gənc və köməksiz qızı cinayət girdabına sürü  kləyir. Sonra isə daha dəhşətli hadisələr baş verir...",
+      "category": "detektiv",
+      "altCateg": "Klassiklər",
+      "soldCount": 95,
+      "stockCount": 14,
+      "lang": [
+        "AZE"
+      ],
+      "view": 303,
+      "code": 9789952573145,
+      "pageCount": 400,
+      "cover": "yumşaq",
+      "publisher": "Teas Press"
+    },
+    {
+      "id": "68",
+      "title": "Susan qadın",
+      "author": "Elxan Elatlı",
+      "price": 7.92,
+      "saleRate": 20,
+      "img": "https://www.libraff.az/images/thumbnails/400/600/from_1c/70b2e998-cef8-11ee-a54e-503eaa120fc7_1.jpg.webp",
+      "description": "\"“Susan qadın” romanının əsas süjeti bir cinayətin açılması üzərində qurulub. Lakin bunun necə bir cinayət olması barədə suala oxucu özü cavab verəcək. Hər halda, ölümlə nəticələnmiş qorxunc bir cinayə   ət baş verib və qatil axtarılır. Ərinin xəyanətindən xəbər tutan qüruru tapdanmış Əsmərin olduqca iztirablı həyatı tezliklə qanlı və sirli bir cinayətlə başa çatır. Qadın müəmmalı şəkildə ölür. Şübhələr və gümanlar min yer    rə gedir. Amma... Mürəkkəb sevgi və ailə münasibətlərinə ustalıqla toxunulan əsərdə bir çox oxucuların özünü görəcəyinə şübhə yoxdur. Romanın ikinci əsas qəhrəmanı yazıçının başqa romanlarından tanıdığımız istefada olan po    olis polkovniki, məşhur cinayət-axtarış eksperti Qanbay Qasımlıdır. Oxucular əsərdə onun apardığı maraqlı təhqiqatla bərabər, şəxsi həyatında baş verən bəzi kədərli yeniliklərlə də tanış ola biləcəklər.\n\n“Susan qadın” müasirr Azərbaycan nəsrində heç də tez-tez rast gəlmədiyimiz psixoloji detektiv janrında yazılmış olduqca cəlbedici bir əsərdir və ümid edirik ki, oxucular tərəfindən çox maraqla qarşılanacaq.\"",
+      "category": "detektiv",
+      "altCateg": "Klassiklər",
+      "soldCount": 44,
+      "stockCount": 18,
+      "lang": [
+        "AZE"
+      ],
+      "view": 276,
+      "code": 9789952573077,
+      "pageCount": 372,
+      "cover": "yumşaq",
+      "publisher": "Teas Press"
+    },
+    {
+      "id": "69",
+      "title": "Cəhənnəmdən gələn səs",
+      "author": "Elxan Elatlı",
+      "price": 7.92,
+      "saleRate": 20,
+      "img": "https://www.libraff.az/images/thumbnails/400/600/from_1c/3dfe5a0f-5050-11eb-a4d2-503eaa128442_1.jpg.webp",
+      "description": "Detektiv romanlar müəllifi Elxan Elatlının \"Cəhənnəmdən gələn səs\" romanında XX əsrin ən dəhşətli vəhşiliyi olan Xocalı soyqırımından, erməni əsirliyindəki azərbaycanlıların qorxunc planlara alət edilməsindən və onların tükürpərdici aqibətindən bəhs olunur.\n17 ildir erməni əsirliyində olan bir azərbaycanlı qadın təsadüfən əlinə keçən imkandan istifadə edərək Bakıdakı təsadüfi nömrələrin birinə zəng vurub Azərbaycanda təxribat və qətllərə hazırlaşan ermənilərin müdhiş planı haqda məlumat verir. Qadın özü kimi erməni əsirliyində olan Səid adlı oğlunun təlimatlandırılaraq Bakıya göndərildiyini deyib telefonu söndürür. Gecə yarısı evinə zəng gələn adam isə bu məlumatı Azərbaycanın xüsusi xidmət orqanlarına çatdırır. Azərbaycan kəşfiyyatçıları dərhal fəaliyyətə keçərək əməliyyat planı hazırlayırlar. \"Leopard\" ləqəbli Azərbaycan kəşfiyyatçısı Ermənistandan Bakıya zəng vuran qadını axtarmaq üçün düşmən ölkənin ərazisinə keçir...\nKitab geniş oxucu kütləsi üçün nəzərdə tutulub.",
+      "category": "detektiv",
+      "altCateg": "Klassiklər",
+      "soldCount": 85,
+      "stockCount": 3,
+      "lang": [
+        "AZE"
+      ],
+      "view": 38,
+      "code": 9789952310030,
+      "pageCount": 476,
+      "cover": "yumşaq",
+      "publisher": "Teas Press"
+    },
+    {
+      "id": "70",
+      "title": "On dördüncü adam",
+      "author": "Elxan Elatlı",
+      "price": 7.12,
+      "saleRate": 20,
+      "img": "https://www.libraff.az/images/thumbnails/400/600/from_1c/ec9debfd-5053-11eb-a4d2-503eaa128442_1.jpg.webp",
+      "description": "Detektiv əsərlər müəllifi Elxan Elatlının \"On dördüncü adam\" romanı bir insanın gəncliyində buraxdığı səhv ucbatından yaşadığı faciəli həyatdan bəhs edir. Roman detektiv süjet üzərində qurulsa da burada Tanrıya münasibət, insanın öz taleyində daşıdığı rol və məhəbbət mövzuları ön plana çəkilib.\nEvin yeganə oğul övladı olan gənc böyük arzularla Bakıya ali təhsil almağa gəlir. Bir neçə ildən sonra anlayır ki, ömrünün ən gözəl çağlarını yaşayan əksər tələbələr kimi onun da sevib-sevilməyə ehtiyacı var. Amma universitetdə yüzlərlə gözəl qızın arasında olan bu gənc öz taleyinin qismətini qəribə üsulla seçməyə qərar verir, həyatını qumara qoyur. O ümidlə ki, tale qismətinə də elə ilk baxışdan vurulduğu həmin o qızı çıxaracaq...\nAmma tale onunla amansız oyun oynayır. Həyat eşqi aşıb-daşan, gələcək xoşbəxtliyinin xəyallarını quran gəncin qarşısına sonradan evlənməyə, az sonra isə boğub öldürməyə məcbur olacağı qızı çıxarır. Bu qadın onu qatilə, qumarbaza, bədbəxt bir adama çevirir...\nKitab geniş oxucu kütləsi üçün nəzərdə tutulub.",
+      "category": "detektiv",
+      "altCateg": "Klassiklər",
+      "soldCount": 87,
+      "stockCount": 14,
+      "lang": [
+        "AZE"
+      ],
+      "view": 295,
+      "code": 9789952520798,
+      "pageCount": 332,
+      "cover": "yumşaq",
+      "publisher": "Teas Press"
+    },
+    {
+      "id": "71",
+      "title": "Qəpiyim də yox idi, qız isə çox gözəl idi",
+      "author": "Dərviş Şəntəkin",
+      "price": 7.92,
+      "saleRate": 20,
+      "img": "https://www.libraff.az/images/thumbnails/400/600/from_1c/b08e268f-5053-11eb-a4d2-503eaa128442_1.jpg.webp",
+      "description": "Gənclər arasında şahmat üzrə dünya çempionu olandan sonra işə götürüldüyüm Kəşfiyyat Xidmətindən iki il əvvəl qovmuşdular... İstanbula ağappaq qar yağırdı... Gənc bir qız bir ildən bəri günümü keçirdiyim barda məni tapmış və itkin düşmüş atasını tapmaq üçün iki yüz min lirə təklif etmişdi... Təklifi qəbul etdim, çünki qəpiyim də yox idi, qız isə çox gözəl idi... Üstəlik, hər gün çürüməkdə olan qəlbimdəki insanı da xilas edə bilərdim... Haradan biləydim ki, rastıma bir zamanların ən qəddar qatili çıxacaq?! İndi isə mən qan içində yerdə çırpınarkən qatil başımın üstünü kəsdirmişdi... Dedi ki, bu işlər şahmat oynamağa bənzəməz... Daha üç güllə səsi eşitdim... Deyəsən, gülləni başıma çaxmışdı... Vaxt yetişmişdi, ruhum qana bələnmiş bədənimdən ayrılaraq göy üzünə doğru uçurdu...",
+      "category": "detektiv",
+      "altCateg": "Klassiklər",
+      "soldCount": 84,
+      "stockCount": 10,
+      "lang": [
+        "AZE"
+      ],
+      "view": 497,
+      "code": 9789952513868,
+      "pageCount": 292,
+      "cover": "yumşaq",
+      "publisher": "Teas Press"
+    },
+    {
+      "id": "72",
+      "title": "Fikrində bir ədəd tut",
+      "author": "CON VERDON",
+      "price": 10,
+      "saleRate": 20,
+      "img": "https://www.libraff.az/images/thumbnails/400/600/from_1c/6286d63a-5053-11eb-a4d2-503eaa128442_1.jpg.webp",
+      "description": "Nyu-York Polis Departamentinin veteran işçisi Devid Qörni həyat yoldaşı Madlenin illər uzunu böyük həsrətlə gözlədiyi addımı atıb – təqaüdə çıxıb və şəhər kənarına köçüb. Lakin peşə xəstəliyi, hər müəmmanı axıradək çözmək azarı nə veteran detektivə dinclik verir, nə də onun arvadına... \nDevidin gənclik dostu Mark Melleri bir gün ona müraciət edir. Mark Melleri anonim təhdid məktubu alır. Məktub müəllifi Markdan ürəyində bir üçrəqəmli ədəd tutmağı, sonra zərfin içindəki ikinci zərfə baxmağı tələb edir. Mark ikinci zərfin içindəki məktubda fikrində tutduğu üçrəqəmli ədədi görəndə dəhşətə gəlir, təlaşa düşərək veteran detektivə müraciət edir. Bu necə ola bilər? Axı həmin ədəd Mark üçün heç bir əhəmiyyət kəsb etmir. O, sadəcə üç rəqəmdən ibarət kombinasiyadır, vəssalam. Bu sirri açmağa Mark Mellerinin ömrü çatmır – təhdid məktubunu yazan şəxs vədinə əməl edərək onu öldürür. Bəs Devid Qörni? Qocaman detektiv qurbanlarını aradan götürməzdən əvvəl onları bu cür məktublarla dəhşətə gətirməyi sevən silsilə qətllər ustasını tapa biləcəkmi?",
+      "category": "detektiv",
+      "altCateg": "Klassiklər",
+      "soldCount": 71,
+      "stockCount": 8,
+      "lang": [
+        "AZE"
+      ],
+      "view": 462,
+      "code": 9789952515503,
+      "pageCount": 511,
+      "cover": "yumşaq",
+      "publisher": "Yay Kitab"
+    },
+    {
+      "id": "73",
+      "title": "Ölümsüz qətl",
+      "author": "Elxan Elatlı",
+      "price": 8.72,
+      "saleRate": 20,
+      "img": "https://www.libraff.az/images/thumbnails/400/600/from_1c/4eeaa11d-7f11-11ef-a555-503eaa120fc7_1.jpg.webp",
+      "description": "Rayonların birində gənc iş adamının və onun sürücüsünün azyaşlı oğulları oğurlanır. Naməlum şəxs hər iki ataya mesaj göndərərək onlardan külli miqdarda pul tələb edir və polisə xəbər veriləcəyi təqdirdə uşaqların öldürüləcəyini deyir. Lakin iş adamı bu barədə tanışı, rayon polis şöbəsi rəisinə gizlicə məlumat verməyə məcbur olur. Rəis vəziyyətin qəlizliyini nəzərə alaraq, hadisəni araşdırmaq üçün məşhur cinayət-axtarış eksperti Qanbay Qasımlını Bakıdan rayona dəvət edir. Qasımlı təhqiqata başlayan kimi anlayır ki, cinayətkar oğurlanmış uşaqların yaxından tanıyıb etibar etdiyi biridir. Bu isə talesiz uşaqların artıq həyatda olmadığı, yəni oğurlanan kimi qətlə yetirildikləri ehtimalını artırırdı. İş adamı tələb olunan pulu nəzərdə tutulmuş yerə qoyur, polis isə uşaq oğrusunu tutmaq üçün əməliyyat planı hazırlayır. Qurulmuş pusquya baxmayaraq, cinayətkar pulu qoyulan yerdən götürüb aradan çıxa bilir. Övladlarının evə buraxılacağını həsrətlə gözləyən valideynlər isə ertəsi gün girovların öldürüldüyü xəbərini alırlar. Sonra daha qəribə hadisələr baş verir...",
+      "category": "detektiv",
+      "altCateg": "Klassiklər",
+      "soldCount": 71,
+      "stockCount": 19,
+      "lang": [
+        "AZE"
+      ],
+      "view": 7,
+      "code": 9789952573336,
+      "pageCount": 368,
+      "cover": "yumşaq",
+      "publisher": "Teas Press"
+    },
+    {
+      "id": "74",
+      "title": "Psixiatr",
+      "author": "VULF DORN",
+      "price": 7.92,
+      "saleRate": 20,
+      "img": "https://www.libraff.az/images/thumbnails/400/600/from_1c/ceb19cc5-5053-11eb-a4d2-503eaa128442_1.jpg.webp",
+      "description": "“Söz ver ki, o məni aparmağa gələndə məni qoruyacaqsan!” Amansız zorakılığa məruz qalmış xəstə bir qadının problemi psixiatr Ellen Rothun kabusuna çevrilir. Qadın iddia edir ki, onu “Qara adam” təqib edir. Bundan az sonra isə “adsız” qadın müəmmalı şəkildə, izsiz-soraqsız yoxa çıxır. Araşdırmalara başlayan Ellenin özü də çox keçməmiş bu naməlum adamın hədəfinə çevrilir. \n\nO özünün və xəstəsinin həyatı naminə dəhşətli təqiblərə məruz qalır. Ellen üçün ümidsiz bir mübarizə anı başlayır, bu zaman o, heç kimə etibar edə bilmir. Onun haqqında hər şeyi bilən bu “Qara adam” kimdir? “Adsız” qadının ətrafını saran bu dəhşətli sirr nə ola bilər? Psixiatr qorxu, zorakılıq və paranoya labirintində getdikcə daha çox azıb qalır. Hədə-qorxuların isə arası kəsilmir... Vulf Dorn özünün bu debüt romanı ilə oxucuları insan psixikasının dərinliklərinə çəkən psixotriller yaradıb.",
+      "category": "detektiv",
+      "altCateg": "Klassiklər",
+      "soldCount": 85,
+      "stockCount": 10,
+      "lang": [
+        "AZE"
+      ],
+      "view": 228,
+      "code": 9789952310016,
+      "pageCount": 428,
+      "cover": "yumşaq",
+      "publisher": "Yay Kitab"
+    },
+    {
+      "id": "75",
+      "title": "Uğursuz gecə",
+      "author": "Elxan Elatlı",
+      "price": 7.92,
+      "saleRate": 20,
+      "img": "https://www.libraff.az/images/thumbnails/400/600/from_1c/b0dac931-ae41-11eb-a4ea-503eaa120fc7_1.jpg.webp",
+      "description": "Nihal ilk baxışdan xoşbəxt qadındır. Gəncdir, gözəldir, həyat yoldaşı onu sevir, iki uşağı, sevdiyi işi, şəhərin mərkəzində ev-eşiyi var. Maddi cəhətdən heç bir korluq çəkmir. Atası sevimli qızına görə dünyanın o başına da getməyə hazırdır. Qardaşları da yeganə bacılarını dünyalarca sevir... Amma bütün bunlar yalnız üzdə görünənlərdir. Bir gün bu zahiri təmtəraq Nihalın gözündə qara qəpiklik olmayacaq. Bu ərköyün ərli qadın evli kişiyə aşiq olandan sonra hər şey ildırım sürətilə dəyişəcək. Atasının dostunun oğlu olan Cahid onun yuxusunu ərşə çəkib həyatını alt-üst edəcək. Ərinin Nihala ən yaxın rəfiqəsi ilə xəyanət etməsi isə sevgidən doymayan bu cılğın qadının əl-qolunu tamam-kamal açacaq... Qəfildən sosial şəbəkələrin ulduzuna çevrilən Nihal haradan biləydi ki, bu sərbəstliyi ona həyatı bahasına başa gələcək?! Polis zabiti olan sevgilisi Cahidin məsləhətlərinə məhəl qoymayan Nihal qısqanc ərini şübhəyə salır. Bir müddətdən sonra Nihal atasının bağ evində ölü tapılır. Keçmiş polis zabiti olan atası Nihalın ailəsindəki dava-dalaşdan xəbərdardır. O, qızının ölümündə kürəkənindən şübhələnir. Amma gənc qadının sirli ölümündə zavallı ərinin barmağı yoxdur. Həmin gün evdə olsa da...",
+      "category": "detektiv",
+      "altCateg": "Klassiklər",
+      "soldCount": 31,
+      "stockCount": 10,
+      "lang": [
+        "AZE"
+      ],
+      "view": 453,
+      "code": 9789952540277,
+      "pageCount": 332,
+      "cover": "yumşaq",
+      "publisher": "Teas Press"
+    },
+    {
+      "id": "76",
+      "title": "21 kölgə yoldaş",
+      "author": "VULF DORN",
+      "price": 7.92,
+      "saleRate": 20,
+      "img": "https://www.libraff.az/images/thumbnails/400/600/from_1c/5c98e591-97e2-11ed-a513-503eaa120fc7_1.jpg.webp",
+      "description": "Nikkanın 16 yaşı var. Bar və kafe əyləncələri qətiyyən onluq deyil. Bununla belə, onun başına bütün valideynlərin qorxduğu şey gəlir: kimsə onun i.kisinə zəhər qatır. Nikka xəstəxanada .zünə gələndə baş verənləri xatırlamaqda çətinlik .əkir. Məgər o, bayaq rəfiqəsi Zoya ilə şənlikdə deyildimi? Nikka öldüyünü öyrənir – düz 21 dəqiqə. Dəhşətli deyilmi? 21 dəqiqə ərzində Nikkanın ürəyi döyünmür... O, tunelin sonundakı işığı görür. Nikkanın rəfiqəsinin müəmmalı şəkildə yoxa çıxması onun həyatını tamamilə dəyişir. Rəfiqəsi Zoyanı axtararkən özündə fövqəladə bacarıqlar kəşf edir. O, kölgələr, qarabasmalar, kabuslar görür... Nikka ona və rəfiqəsinə kimin pislik etdiyini öyrənməyə, bu məşum sirrin üstünü açmağa çalışır...\nVulf Dorn əsərin epiloqunda romanı yazmaq üçün ilhamını haradan aldığını izah edib. Müəllif Nikkanın başına gələnlərə oxşar şeylər yaşamış insanların düşüncələrini və təcrübələrini bir araya gətirib. Yazıçının bu sahədə çox ətraflı və dərin araşdırmaları olduqca diqqətəşayandır. Bu, tibb işçilərinin işindən başlayaraq nevroloji müalicə prosesinin xırdalıqlarına qədər gedib çıxır. Əminliklə deyə bilərik ki, Vulf Dorn öz işinin öhdəsindən yenə də layiqincə gəlib...",
+      "category": "detektiv",
+      "altCateg": "Klassiklər",
+      "soldCount": 1,
+      "stockCount": 5,
+      "lang": [
+        "AZE"
+      ],
+      "view": 272,
+      "code": 9789952563245,
+      "pageCount": 404,
+      "cover": "yumşaq",
+      "publisher": "Yay Kitab"
+    },
+    {
+      "id": "77",
+      "title": "Oyunbaz",
+      "author": "VULF DORN",
+      "price": 7.92,
+      "saleRate": 20,
+      "img": "https://www.libraff.az/images/thumbnails/400/600/from_1c/16a198bc-5054-11eb-a4d2-503eaa128442_1.jpg.webp",
+      "description": "Psixiatr Yan Forstnerə tanımadığı adamdan gül buketi gəlir. Əvvəlcə buketin onun kitabını oxuyan bir heyranı tərəfindən göndərildiyini düşünür. Bir müddətdən sonra isə Yan yaşadığı qəsəbədə baş verən qorxunc cinayətlərlə evinə göndərilmiş imzasız məktublar və hədiyyələr arasında nəsə bir əlaqə qurmağa çalışır. Yana dəlicəsinə aşiq olduğunu etiraf edən tanımadığı qadın ona tez-tez zəng vurmağa başlayanda isə təqib edildiyini başa düşür. Və işin ən pis tərəfi odur ki, bu qadına mane olmağın heç bir yolu yoxdur...",
+      "category": "detektiv",
+      "altCateg": "Klassiklər",
+      "soldCount": 45,
+      "stockCount": 3,
+      "lang": [
+        "AZE"
+      ],
+      "view": 102,
+      "code": 9789952310351,
+      "pageCount": 452,
+      "cover": "yumşaq",
+      "publisher": "Yay Kitab"
+    },
+    {
+      "id": "78",
+      "title": "Bəyaz Şeytan",
+      "author": "Ceyhun Hidayətli",
+      "price": 10.8,
+      "saleRate": 20,
+      "img": "https://www.libraff.az/images/thumbnails/400/600/from_1c/3cba324c-a2e4-11ed-a513-503eaa120fc7_1.jpg.webp",
+      "description": "Təhlükəsizlik Xidməti Əməkdaşları, Amerikadan İstanbula Səyahət Edən Bir Turist Qrupunun Içərisində, Hansısa Terror Təşkilatı Ilə Bağlantını Yaradacaq, Melvin Adlı Şəxsin Olduğu Məlumatını Əldə Edirlər. Ölkəyə Ayaq Basdığı Ilk Dəqiqədən Nəzarət Altında Olan Melvin, Bütün Bu Nəzarətlərə Baxmayaraq Oteldə, Qaldığı Otaqda Öldürülür. Qatilin Kim Olduğu Və Içəri Necə Daxil Olduğu Isə Böyük Bir Müəmmadır. Daha Da Önəmlisi, Onun Terror Təşkilatına Ötürməli Olduğu Məlumatın Qarşısını Almaqdır.",
+      "category": "detektiv",
+      "altCateg": "Klassiklər",
+      "soldCount": 85,
+      "stockCount": 9,
+      "lang": [
+        "AZE"
+      ],
+      "view": 455,
+      "code": 9789952830149,
+      "pageCount": 230,
+      "cover": "yumşaq",
+      "publisher": "Mayak Yayınları"
+    },
+    {
+      "id": "79",
+      "title": "Gecə qurdlarındır",
+      "author": "VULF DORN",
+      "price": 7.92,
+      "saleRate": 20,
+      "img": "https://www.libraff.az/images/thumbnails/400/600/from_1c/af76009c-7f11-11ef-a555-503eaa120fc7_1.jpg.webp",
+      "description": "\"Saymonun bəxti gətirib, ya bəxt ondan üz döndərib? Valideynləri avtomobil qəzasında ölüb, amma o necəsə sağ qalıb. Buna görə də özünü bağışlaya bilmir, sağ qalmaq, yaşamaq onun cəzasına çevrilir, kabuslar, qarabasmalar ona aman vermir. Həyatı onsuz da çətin idi və başına belə bir faciə gəlmişdi. Bir müddət müalicə alıb xəstəxanadan çıxandan sonra bibisi ilə qardaşının yanına gedir. Amma yeni həyatına heç cür öyrəşə bilmir. Ən pisi isə dəhşətli kabusların gerçəyə çevrilməsidir. Saymonu bürüyən müdhiş və əsrarlı qaranlıqda gözləri par-par parıldayan, onu qarabaqara izləyən xain məxluq artıq oyanıb... Yeniyetmə bir qızın yoxa çıxması hadisələrin başlanğıcıdır. Kimsə qətl törədib. Qatil yenə öldürmək istəyir... Növbəti qurban Saymondurmu? O özünü xilas edə biləcəkmi? Qatilin kim olduğunu tapacaqmı? Yaxşı ki, Karo var. Onun yeganə dostu, arxa-dayağı... Onu başa düşən yeganə insan... Bu qeyri-adi qız olmasaydı, Saymon, yəqin ki, çox darıxar, təklənər, hər şeydən qorxar, azıb qalardı...\n\nVulf Dorn sizi də, beyninizin dərinliyindəki qarabasmaları da yaxalamağı çox yaxşı bacarır.\n\nPol Kliv\n\nQaranlıq, qorxuducu, hər səhifəsində insanı şaşırdan, oxucunun ağzını açıq qoyan bir triller...\n\nCBT\n\nVulf Dorndan yeni bir şah əsər... Oxucuları heyran edəcək...\n\nFrankfurter Stadtkurier\"",
+      "category": "detektiv",
+      "altCateg": "Klassiklər",
+      "soldCount": 47,
+      "stockCount": 8,
+      "lang": [
+        "AZE"
+      ],
+      "view": 191,
+      "code": 9789952573299,
+      "pageCount": 368,
+      "cover": "yumşaq",
+      "publisher": "Yay Kitab"
+    },
+    {
+      "id": "80",
+      "title": "Cəhənnəmin elçisi",
+      "author": "Ceyhun Hidayətli",
+      "price": 13.9,
+      "saleRate": 0,
+      "img": "https://www.libraff.az/images/thumbnails/400/600/from_1c/5f50b95d-af86-11ee-a54c-2cf05d2b380f_1.jpg.webp",
+      "description": "Əqrəb mövsümü serialının qəhrəmanı detektiv Kənan Orucov qeyri-adi bir sifariş alır. Ondan 35 il bundan əvvəl Roma banklarının birində baş vermiş çox qiymətli bir boyunbağının oğurlanması və iki mühafizəçinin güllələnməsi ilə bağlı cinayət hadisəsinin araşdırılması istənilir. Bu araşdırmalar zamanı Kənanın özünün və oğlu Həsənin həyatı ciddi təhlükə ilə üz-üzə qalır. Araşdırmanın sonu isə ağlasığmazdır.",
+      "category": "detektiv",
+      "altCateg": "Klassiklər",
+      "soldCount": 30,
+      "stockCount": 17,
+      "lang": [
+        "AZE"
+      ],
+      "view": 432,
+      "code": 9789952508451,
+      "pageCount": 224,
+      "cover": "yumşaq",
+      "publisher": "Mayak Yayınları"
+    },
+    {
+      "id": "81",
+      "title": "Belçika ovçarkası",
+      "author": "Elxan Elatlı",
+      "price": 7.92,
+      "saleRate": 20,
+      "img": "https://www.libraff.az/images/thumbnails/400/600/from_1c/62757966-cefa-11ee-a54e-503eaa120fc7_1.jpg.webp",
+      "description": "İnsanlıq adına ləkə olan iyrənc bir cinayət baş verir. On yaşlı bir qız itkin düşür, sonra onun öldürüldüyü məlum olur. Onun cəsədini yiyəsiz bir it – Belçika ovçarkası dənizin sahilindən tapır. Məsum     m qızcığazı kim və nəyə görə öldürüb? Qonşuluqda yaşayan Zahir adlı bir adam saxlanılır. Onun qızı əvvəlcə zorladığı, sonra öldürüb sahildə basdırdığı iddia olunur. Zahirin həyətindəki toyuq hinindən qızın paltarları tapılı   ır. Doğrudanmı, qatil odur? Bütün sübutlar bunu təsdiq edir. Bəs hər şey göründüyü qədər sadədirmi? Qızın bibisi tərəfindən işə cəlb edilən və Zahirin qatil olmadığını düşünən Qanbay Qasımlı zənnində yanılacaqmı? Qasıml       lı bu düyünü açmaq, həqiqətləri aşkara çıxarmaq üçün əlindən gələni edəcək. Oxucuların yazıçının əvvəlki romanlarından tanıyıb sevdikləri Ələmdar Məliksoyla Gültən Dəmirli də onun əlindən tutacaqlar. Ələmdarla Gültənin,        həmçinin Məxfi Şöbənin bu işə nəyə görə qarışdığını oxucu sonradan biləcək. Oxucu bu əsərdən böyük ədəbi zövq alacaq, eyni zamanda naqis, yaramaz, ləyaqətsiz, çirkin, var-dövlətə tapınan insanlardan iyrəndikcə iyrənəcək.",
+      "category": "detektiv",
+      "altCateg": "Klassiklər",
+      "soldCount": 73,
+      "stockCount": 17,
+      "lang": [
+        "AZE"
+      ],
+      "view": 152,
+      "code": 9789952573107,
+      "pageCount": 360,
+      "cover": "yumşaq",
+      "publisher": "Teas Press"
+    },
+    {
+      "id": "82",
+      "title": "Xain ürəyim",
+      "author": "VULF DORN",
+      "price": 7.92,
+      "saleRate": 20,
+      "img": "https://www.libraff.az/images/thumbnails/400/600/from_1c/319635b1-24bf-11ef-a54e-503eaa120fc7_1.jpg.webp",
+      "description": "Doronun balaca qardası ölür və bu yeniyetmə qız həmin gündən etibarən özündə-sözündə olmur. Uzun müddət psixiatriya xəstəxanasında yatır. Acı və müdhiş xatirələrdən qurtulmaq istəyir, bunun üçün əlindn gələni edir. Amma kabuslar, hallüsinasiyalar, qarabasmalar Doronun yaxasından əl çəkmir, onu daim narahat edir, qarabaqara izləyir. Doro və anası başqa bir şəhəy köçürlər. Qız elə bilir ki, səhifəni çevirəcək və təmiz, ağ səhifədə “yazmağa” başlayacaq. Amma bu mümkün deyil. Keçmis ən əzazil, ən usanmaz təqibçidir. Bir neçə həftə qabaq intihar edən, ya da hər kəsi intihar etdiyinə necəsə inandıran bir gənclə qarşılaşanda Doro gördüklərinin xəyalat olub-olmadığını anlaya bilmək üçün təhlükəli, qorxulu yollarla addımlamağa qərar verir, əsrarlı bir axtarışa başlayır. Bəs yeniyetmə qız axtardığını tapa biləcəkmi? Əgər tapsa, tapdığı şeyin gerçək olduğunu əvvəlcə özün, daha sonra başqalarına sübut etməyi bacaracaqmı?",
+      "category": "detektiv",
+      "altCateg": "Klassiklər",
+      "soldCount": 78,
+      "stockCount": 10,
+      "lang": [
+        "AZE"
+      ],
+      "view": 57,
+      "code": 9789952573183,
+      "pageCount": 452,
+      "cover": "yumşaq",
+      "publisher": "Yay Kitab"
+    },
+    {
+      "id": "83",
+      "title": "Labirintdə qaçanlar",
+      "author": "CEYMS DEŞNER",
+      "price": 7.6,
+      "saleRate": 20,
+      "img": "https://www.libraff.az/images/thumbnails/400/600/from_1c/6286d638-5053-11eb-a4d2-503eaa128442_1.jpg.webp",
+      "description": "“Labirintdə qaçanlar” haqqında TƏRİFLƏR \nGƏNC KİTABXANAÇI GİLDİYASINDAN SEÇMƏLƏR \n“Deşner nağılı inanılmaz reallığa çevirməyi bacarır. Demək çətin olsa da, ancaq aydın olan budur ki, bu növbəti ödənişə bənzəyir və oxucunu bundan sonra nə baş verəcəyi haqda düşünməyə vadar edir”. “Kirkus Reviews”\n\n“Sürətlə inkişaf edən bir hekayədir... Deşnerin həyəcan dolu macərası oxucuları lap axıra qədər həyəcan və gümanlar içində saxlayır”. “Publishers Weekly” “Viran qalmış xarici dünyaya yönəlik qıcıqlandırıcı eyhamlar mütaliəni daha da maraqlı edir”. “Booklist”",
+      "category": "elmi-fantastika-and-fantaziya",
+      "altCateg": "Klassiklər",
+      "soldCount": 97,
+      "stockCount": 12,
+      "lang": [
+        "AZE"
+      ],
+      "view": 163,
+      "code": 9789952515442,
+      "pageCount": 404,
+      "cover": "yumşaq",
+      "publisher": "Yay Kitab"
+    },
+    {
+      "id": "84",
+      "title": "Qara libaslı qadın",
+      "author": "Syuzan Hill",
+      "price": 6.72,
+      "saleRate": 20,
+      "img": "https://www.libraff.az/images/thumbnails/400/600/from_1c/109ca235-5054-11eb-a4d2-503eaa128442_1.jpg.webp",
+      "description": "“Mən ki kabuslara inanmazdım...”\n\nMissis Elis Drablounun dəfnində çox az adam iştirak edir. Onların arasında qadının bircə yaxın qohumu belə yoxdur. Yalnız dəfn bürosunun işçiləri, orada könülsüz iştirak edən bir yerli məmur və londonlu vəkil Artur Kips var, vəssalam. Artur Kips tərki-dünya qadının tək-tənha yaşadığı və canını tapşırdığı yerə – tez-tez qatı dumana bürünən bataqlığın ortasında yerləşən və yerli əhalini vahiməyə salan İl Marş malikanəsinə getməlidir. \nGənc mister Kips missis Drablounun kimsəsiz evində bütün gecəni onun vəsiyyətnaməsini axtarmaq kimi darıxdırıcı işlə məşğul olacağını güman edir. Amma sən saydığını say, gör fələk nə sayır... Malikanəyə aparan yeganə tökmə yol qabarma nəticəsində su altında qalandan sonra bu məşum adada baş verənlər londonlu qonağın ödünü ağzına gətirəcək...",
+      "category": "elmi-fantastika-and-fantaziya",
+      "altCateg": "Klassiklər",
+      "soldCount": 62,
+      "stockCount": 3,
+      "lang": [
+        "AZE"
+      ],
+      "view": 94,
+      "code": 9789952510577,
+      "pageCount": 176,
+      "cover": "yumşaq",
+      "publisher": "Teas Press"
+    },
+    {
+      "id": "85",
+      "title": "Taxt oyunları",
+      "author": "CORC R. R. MARTIN",
+      "price": 12,
+      "saleRate": 20,
+      "img": "https://www.libraff.az/images/thumbnails/400/600/from_1c/daa69419-5053-11eb-a4d2-503eaa128442_1.jpg.webp",
+      "description": "Corc R.R.Martin öz janrının bütün üstün tərəflərini səfərbər edərək \"Taxt oyunları\" adlı şah əsər yaradıb. Epik seriyanın birincisi olan bu kitab dünyanın hər yerində fantastika (fentezi) janrı pərəstişkarlarının ürəyincə olacaq, əsərin sirr, ədavət, sevgi və macəralarla dolu səhifələri onları valeh edəcək. Yayın onilliklər, qışın da bir insan ömrü qədər uzun ola biləcəyi diyarlarda şaxtalı günlər yaxınlaşmaqdadır. Vinterfellin şimalındakı buzla örtülü torpaqlarda, Yeddi Krallığı qoruyan divarların arxasında fövqəltəbii güclər cəmləşməkdədir. Münaqişənin mərkəzindəki adamlar doğulduqları torpaqların iqlimi qədər sərt və əyilməz Starklardır\nAmansız soyuqların hökm sürdüyü şimaldan isti və əyləncəli uzaq cənubadək yayılmış ledilər, lordlar, cəngavərlər, sehrbazlar və qatillərdən bəhs edən bu hekayədəki hadisələr dəhşətli kəhanətlərin xəbər verildiyi bir dövrdə başlayır. Faciə, hiylə, xəyanət, dəhşət və zəfərlə dolu hadisələrin arasında Starkların dostlarının və düşmənlərinin həyatı bir tükdən asılıdır. Məqsəd ölüm-dirim mübarizəsində - taxt oyununda zəfər çalmaqdır..",
+      "category": "elmi-fantastika-and-fantaziya",
+      "altCateg": "Klassiklər",
+      "soldCount": 89,
+      "stockCount": 15,
+      "lang": [
+        "AZE"
+      ],
+      "view": 475,
+      "code": 9789952520552,
+      "pageCount": 860,
+      "cover": "yumşaq",
+      "publisher": "Yay Kitab"
+    },
+    {
+      "id": "86",
+      "title": "Dune",
+      "author": "Frank Herbert",
+      "price": 24.72,
+      "saleRate": 20,
+      "img": "https://www.libraff.az/images/thumbnails/400/600/from_1c/e2da58e3-a7a3-11ec-a501-503eaa120fc7_1.jpg.webp",
+      "description": "",
+      "category": "elmi-fantastika-and-fantaziya",
+      "altCateg": "Klassiklər",
+      "soldCount": 44,
+      "stockCount": 18,
+      "lang": [
+        "TUR"
+      ],
+      "view": 73,
+      "code": 9786053754794,
+      "pageCount": 712,
+      "cover": "",
+      "publisher": "İthaki Yayınları"
+    },
+    {
+      "id": "87",
+      "title": "Qaranlıq günəş. 2-ci hissə - Həyat sandığı",
+      "author": "ZAUR PƏNAHOV",
+      "price": 9.52,
+      "saleRate": 20,
+      "img": "https://www.libraff.az/images/thumbnails/400/600/from_1c/780ca046-9661-11ed-a513-503eaa120fc7_1.jpg.webp",
+      "description": "",
+      "category": "elmi-fantastika-and-fantaziya",
+      "altCateg": "Klassiklər",
+      "soldCount": 46,
+      "stockCount": 14,
+      "lang": [
+        "AZE"
+      ],
+      "view": 362,
+      "code": 9789952833157,
+      "pageCount": null,
+      "cover": "",
+      "publisher": "Pan Nəşriyyatı"
+    },
+    {
+      "id": "88",
+      "title": "Автостопом По Галактике",
+      "author": "Дуглас Адамс",
+      "price": 23.12,
+      "saleRate": 20,
+      "img": "https://www.libraff.az/images/thumbnails/400/600/from_1c/97a229df-504d-11eb-a4d2-503eaa128442_1.jpg.webp",
+      "description": "«Автостопом по Галактике», стартовав в качестве радиопостановки на Би-би-си, имел грандиозный успех. Одноименный роман в 1984 году возглавил список английских бестселлеров, а сам Адамс стал самым молодым писателем, получившим награду «Золотая ручка», вручаемую за 1 млн. проданных книг.\nТелепостановка 1982 года упрочила успех серии книг про «Автостоп», а полнометражный фильм 2005 года при бюджете в $50 млн. дважды «отбил» расходы на экранизацию и был номинирован на 7 премий.\nПопулярность сатирической «трилогии в пяти частях» выплеснулась в музыкальную и компьютерную индустрию. Так, группы Radiohead, Coldplay, NOFX используют цитаты из романа Адамса, а Level 42 названа в честь главной сюжетной линии романа.",
+      "category": "elmi-fantastika-and-fantaziya",
+      "altCateg": "Klassiklər",
+      "soldCount": 79,
+      "stockCount": 2,
+      "lang": [
+        "RUS"
+      ],
+      "view": 209,
+      "code": 9785170987481,
+      "pageCount": 640,
+      "cover": "твердый переплет",
+      "publisher": "Издательство Аст"
+    },
+    {
+      "id": "89",
+      "title": "Буря мечей. Пир стервятников",
+      "author": "МАРТИН Д.",
+      "price": 28.48,
+      "saleRate": 20,
+      "img": "https://www.libraff.az/images/thumbnails/400/600/from_1c/f740c1d2-504a-11eb-a4d2-503eaa128442_1.jpg.webp",
+      "description": "ФАНТАСТИКА, ФЭНТЕЗИ, МИСТИКА",
+      "category": "elmi-fantastika-and-fantaziya",
+      "altCateg": "Klassiklər",
+      "soldCount": 51,
+      "stockCount": 17,
+      "lang": [
+        "RUS"
+      ],
+      "view": 68,
+      "code": 9785170753475,
+      "pageCount": 1,
+      "cover": "твердый переплет",
+      "publisher": "Издательство Аст"
+    },
+    {
+      "id": "90",
+      "title": "Корона из ведьминого дерева. Том 2",
+      "author": "УИЛЬЯМС Т.",
+      "price": 15.12,
+      "saleRate": 20,
+      "img": "https://www.libraff.az/images/thumbnails/400/600/from_1c/8ba04df0-504d-11eb-a4d2-503eaa128442_1.jpg.webp",
+      "description": "Второй том эпической фэнтези Тэда Уидьямса \"Корона из ведьминого дерева\".",
+      "category": "elmi-fantastika-and-fantaziya",
+      "altCateg": "Klassiklər",
+      "soldCount": 15,
+      "stockCount": 16,
+      "lang": [
+        "RUS"
+      ],
+      "view": 236,
+      "code": 9785041004361,
+      "pageCount": 720,
+      "cover": "твердый переплет",
+      "publisher": "Fanzon"
+    },
+    {
+      "id": "91",
+      "title": "Yüzüklerin efendisi 1 yüzük kardeşliği",
+      "author": "J. R. R. Tolkien",
+      "price": 23.92,
+      "saleRate": 20,
+      "img": "https://www.libraff.az/images/thumbnails/400/600/from_1c/6054243e-5052-11eb-a4d2-503eaa128442_1.jpg.webp",
+      "description": "",
+      "category": "elmi-fantastika-and-fantaziya",
+      "altCateg": "Klassiklər",
+      "soldCount": 1,
+      "stockCount": 4,
+      "lang": [
+        "TUR"
+      ],
+      "view": 63,
+      "code": 9789753425988,
+      "pageCount": null,
+      "cover": "",
+      "publisher": "Metis Yayınları"
+    }
+  ],
+  "heftenin-en-son-baxilanlari": [
+    {
+      "id": "3",
+      "title": "Martin İden",
+      "author": "CEK LONDON",
+      "price": 13.9,
+      "saleRate": 12,
+      "img": "https://www.libraff.az/images/thumbnails/600/600/from_1c/martin-iden-front-book__1_.jpg.webp",
+      "description": "'Martin İden' Cek Londonun sayca 21-ci romanıdır və avtobioqrafik xarakter daşıyır. Yazıçı romanda şəxsiyyətin mənəvi süqutuna çıraq tutur. Martin İden mənsub olduğu sosial təbəqədən qopub yad cisim kimi burjua dünyasına düşür, Morzlar ailəsi onun mənəvi aləmini tar-mar edir. Martin İden Cek Londonun özüdür və ən dəhşətlisi də budur ki, yazıçı bu romanda öz sonunu dəqiqliklə təsvir edib. 'Martin İden' cəsarətin, gücün, ümidin, inamın, ağlın, sevginin, əməyin romanıdır. Adi bir matros olan Martin 'iynə ilə gor qazaraq' dövrünün ən məşhur yazıçısına çevrilir. Ruf üçün, sevdiyi qadın üçün... Bəs Martinin itirdiyi cənnət və ya qazandığı cəhənnəm nələrdən ibarətdir? Hansı Martin daha xoşbəxt idi? 'Martin İden' in özünəməxsus sehri var və çox az adam bu sehrdən yayına bilir. Romanı oxuyan insanlarda yazıçı olmağa böyük həvəs yaranır. Bir çox məşhur yazıçılara stimul verən məhz bu əsər olub. Kitabı əlinizdən yerə qoymaq o qədər də asan olmayacaq və təsirindən uzun müddət, bəlkə də, bir ömür boyu çıxa bilməyəcəksiniz.",
+      "category": "Bədii ədəbiyyat",
+      "altCateg": "Klassiklər",
+      "soldCount": 2,
+      "stockCount": 10,
+      "lang": [
+        "TR",
+        "EN"
+      ],
+      "view": 293,
+      "code": 9789952310344,
+      "pageCount": 490,
+      "cover": "bərk",
+      "publisher": "Teas Press"
+    },
+    {
+      "id": "18",
+      "title": "Crime and Punishment",
+      "author": "Fyodor Dostoevsky",
+      "price": 18.1,
+      "saleRate": 13,
+      "img": "https://covers.openlibrary.org/b/isbn/9780140449136-L.jpg",
+      "description": "Crime and Punishment əsəri Fyodor Dostoevsky tərəfindən yazılıb. Bu kitab oxucunu dərin psixoloji və fəlsəfi düşüncələrə yönəldir.",
+      "category": "Tarix",
+      "altCateg": "Gənclər",
+      "soldCount": 85,
+      "stockCount": 3,
+      "lang": [
+        "TR",
+        "EN"
+      ],
+      "view": 293,
+      "code": 9780140449136,
+      "pageCount": 671,
+      "cover": "bərk",
+      "publisher": "Penguin Classics"
+    },
+    {
+      "id": "20",
+      "title": "The Hobbit",
+      "author": "J.R.R. Tolkien",
+      "price": 20.65,
+      "saleRate": 15,
+      "img": "https://images-na.ssl-images-amazon.com/images/I/91b0C2YNSrL.jpg",
+      "description": "The Hobbit əsəri J.R.R. Tolkien tərəfindən yazılıb. Bu kitab oxucunu dərin psixoloji və fəlsəfi düşüncələrə yönəldir.",
+      "category": "Fantastik",
+      "altCateg": "Müasir",
+      "soldCount": 58,
+      "stockCount": 44,
+      "lang": [
+        "AZ",
+        "EN"
+      ],
+      "view": 406,
+      "code": 9782923401769,
+      "pageCount": 728,
+      "cover": "bərk",
+      "publisher": "AliNino"
+    },
+    {
+      "id": "21",
+      "title": "1984",
+      "author": "J.K. Rowling",
+      "price": 20.5,
+      "saleRate": 10,
+      "img": "https://www.libraff.az/images/thumbnails/400/600/from_1c/066de26e-1fba-11ed-a50a-503eaa120fc7_2.jpg.webp",
+      "description": "1984 əsəri J.K. Rowling tərəfindən yazılıb. Bu kitab oxucunu dərin psixoloji və fəlsəfi düşüncələrə yönəldir.",
+      "category": "Detektiv",
+      "altCateg": "Klassiklər",
+      "soldCount": 98,
+      "stockCount": 11,
+      "lang": [
+        "TR",
+        "EN"
+      ],
+      "view": 219,
+      "code": 9789892187222,
+      "pageCount": 596,
+      "cover": "yumşaq",
+      "publisher": "Penguin Books"
+    }
+  ],
+  "secilmis": [
+    {
+      "id": "9",
+      "title": "The Hobbit",
+      "author": "Ernest Hemingway",
+      "price": 30.82,
+      "saleRate": 15,
+      "img": "https://m.media-amazon.com/images/I/712cDO7d73L._AC_UF1000,1000_QL80_.jpg",
+      "description": "The Hobbit əsəri Ernest Hemingway tərəfindən yazılıb. Bu kitab oxucunu dərin psixoloji və fəlsəfi düşüncələrə yönəldir.",
+      "category": "Psixologiya",
+      "altCateg": "Klassiklər",
+      "soldCount": 93,
+      "stockCount": 39,
+      "lang": [
+        "AZ",
+        "EN",
+        "RU"
+      ],
+      "view": 243,
+      "code": 9786552709365,
+      "pageCount": 647,
+      "cover": "bərk",
+      "publisher": "Teas Press"
+    },
+    {
+      "id": "10",
+      "title": "Crime and Punishment",
+      "author": "Fyodor Dostoevsky",
+      "price": 24.02,
+      "saleRate": 15,
+      "img": "https://www.libraff.az/images/thumbnails/400/600/from_1c/bde67ce4-b11c-11ee-a54d-503eaa120fc7_1.jpg.webp",
+      "description": "Crime and Punishment əsəri Fyodor Dostoevsky tərəfindən yazılıb. Bu kitab oxucunu dərin psixoloji və fəlsəfi düşüncələrə yönəldir.",
+      "category": "Psixologiya",
+      "altCateg": "Roman",
+      "soldCount": 45,
+      "stockCount": 6,
+      "lang": [
+        "TR",
+        "EN"
+      ],
+      "view": 216,
+      "code": 9785896852382,
+      "pageCount": 408,
+      "cover": "bərk",
+      "publisher": "Teas Press"
+    },
+    {
+      "id": "11",
+      "title": "The Old Man and the Sea",
+      "author": "Fyodor Dostoevsky ",
+      "price": 18.28,
+      "saleRate": 10,
+      "img": "https://www.libraff.az/images/thumbnails/400/600/from_1c/4d4882f9-34f6-11ed-a50a-503eaa120fc7_1.jpg.webp",
+      "description": "The Old Man and the Sea əsəri Fyodor Dostoevsky  tərəfindən yazılıb. Bu kitab oxucunu dərin psixoloji və fəlsəfi düşüncələrə yönəldir.",
+      "category": "Detektiv",
+      "altCateg": "Klassiklər",
+      "soldCount": 13,
+      "stockCount": 35,
+      "lang": [
+        "AZ",
+        "TR"
+      ],
+      "view": 484,
+      "code": 9782277052390,
+      "pageCount": 376,
+      "cover": "bərk",
+      "publisher": "Penguin Books"
+    },
+    {
+      "id": "12",
+      "title": "1984",
+      "author": "George Orwell",
+      "price": 29.19,
+      "saleRate": 20,
+      "img": "https://covers.openlibrary.org/b/isbn/9780451524935-L.jpg",
+      "description": "1984 əsəri George Orwell tərəfindən yazılıb. Bu kitab oxucunu dərin psixoloji və fəlsəfi düşüncələrə yönəldir.",
+      "category": "Fantastik",
+      "altCateg": "Klassiklər",
+      "soldCount": 0,
+      "stockCount": 10,
+      "lang": [
+        "AZ",
+        "EN",
+        "RU"
+      ],
+      "view": 130,
+      "code": 9780451524935,
+      "pageCount": 328,
+      "cover": "bərk",
+      "publisher": "Signet Classic"
+    },
+    {
+      "id": "13",
+      "title": "The Old Man and the Sea",
+      "author": "Ernest Hemingway",
+      "price": 25.19,
+      "saleRate": 15,
+      "img": "https://covers.openlibrary.org/b/isbn/9780684801223-L.jpg",
+      "description": "The Old Man and the Sea əsəri Ernest Hemingway tərəfindən yazılıb. Bu kitab oxucunu dərin psixoloji və fəlsəfi düşüncələrə yönəldir.",
+      "category": "Detektiv",
+      "altCateg": "Müasir",
+      "soldCount": 96,
+      "stockCount": 9,
+      "lang": [
+        "EN",
+        "RU"
+      ],
+      "view": 134,
+      "code": 9780684801223,
+      "pageCount": 127,
+      "cover": "yumşaq",
+      "publisher": "Scribner"
+    },
+    {
+      "id": "14",
+      "title": "The Hobbit",
+      "author": "J.R.R. Tolkien",
+      "price": 23.29,
+      "saleRate": 20,
+      "img": "https://covers.openlibrary.org/b/isbn/9780547928227-L.jpg",
+      "description": "The Hobbit əsəri J.R.R. Tolkien tərəfindən yazılıb. Bu kitab oxucunu dərin psixoloji və fəlsəfi düşüncələrə yönəldir.",
+      "category": "Klassik",
+      "altCateg": "Gənclər",
+      "soldCount": 25,
+      "stockCount": 46,
+      "lang": [
+        "AZ",
+        "EN",
+        "RU"
+      ],
+      "view": 469,
+      "code": 9780547928227,
+      "pageCount": 300,
+      "cover": "yumşaq",
+      "publisher": "Mariner Books"
+    },
+    {
+      "id": "15",
+      "title": "Kafka on the Shore",
+      "author": "Haruki Murakami",
+      "price": 12.72,
+      "saleRate": 4,
+      "img": "https://covers.openlibrary.org/b/isbn/9780099458326-L.jpg",
+      "description": "Kafka on the Shore əsəri Haruki Murakami tərəfindən yazılıb. Bu kitab oxucunu dərin psixoloji və fəlsəfi düşüncələrə yönəldir.",
+      "category": "Bədii ədəbiyyat",
+      "altCateg": "Gənclər",
+      "soldCount": 31,
+      "stockCount": 10,
+      "lang": [
+        "EN",
+        "RU"
+      ],
+      "view": 120,
+      "code": 9780099458326,
+      "pageCount": 505,
+      "cover": "bərk",
+      "publisher": "Vintage"
+    }
+  ],
+  "kateqoriyalar": [
+    {
+      "ad": "Kitab",
+      "alt-kateqoriyalar": [
+        {
+          "ad": "Bədii ədəbiyyat",
+          "alt-alt-kateqoriyalar": [
+            "Antologiya",
+            "Bioqrafiya, avtobioqrafiya & Xatirə",
+            "Detektiv",
+            "Elmi-fantastika & Fantaziya",
+            "Fəlsəfə",
+            "Hekayələr & Qəsrlər",
+            "Kino və teatr",
+            "Klassik poemalar",
+            "Klassiklar",
+            "Komiks",
+            "Macəra",
+            "Mifologiya",
+            "Nağıllar",
+            "Poemalar",
+            "Psixologiya",
+            "Romanlar & Novellalar",
+            "Satira",
+            "Tarix, hüquq & Siyasi",
+            "Tarixi roman",
+            "Triller, mistika & Qorxu",
+            "Təhsil, mənbə & Dil"
+          ]
+        },
+        {
+          "ad": "Qeyri-bədii ədəbiyyat",
+          "alt-alt-kateqoriyalar": [
+            "Ailə",
+            "Akademik",
+            "Aşpazlıq",
+            "Astronomiya",
+            "Bağbanlıq",
+            "Bioqrafiya, avtobioqrafiya & Xatirə",
+            "Biznes & İqtisadiyyat",
+            "Detektiv",
+            "Dəb",
+            "Elm",
+            "Ensiklopediyalar & Atlaslar",
+            "Ezoterika"
+          ]
+        },
+        "Bədii uşaq ədəbiyyatı",
+        "Qeyri-bədii uşaq ədəbiyyatı"
+      ],
+      "id": "1938"
+    },
+    {
+      "ad": "Elektronika & aksessuarlar",
+      "alt-kateqoriyalar": [
+        {
+          "ad": "Çanta & Çamadanlar",
+          "alt-alt-kateqoriyalar": [
+            "Bel çantası",
+            "Biznes çantası",
+            "Çiyin çantası",
+            "Çoxfunksiyalı çanta",
+            "Etibər",
+            "Fotoapparat çantası",
+            "İstirahət & İdman Çantaları",
+            "Noutbuk üzlük & çantaları",
+            "Plastik çamadanlar",
+            "Pulqabı",
+            "Şəxsi gigiyena çantası",
+            "Təkərlı çamadan"
+          ]
+        },
+        "Multimedia",
+        "Rəqəmsal cihazlar",
+        "Səyahət aksesuarları",
+        "Telefon & Komputer aksesuarları"
+      ],
+      "id": "5c04"
+    },
+    {
+      "ad": "Oyuncaqlar & Oyunlar",
+      "alt-kateqoriyalar": [
+        {
+          "ad": "İdman & Açıq hava oyunları",
+          "alt-alt-kateqoriyalar": [
+            "Atıcılar & Köpük oyunu",
+            "Hədef",
+            "Skuter & Aksesuarları",
+            "Tenis & Badminton"
+          ]
+        },
+        "Öyrədici oyun & Oyuncaqlar",
+        "Oyuncaq modelləri & Aksesuarları",
+        "Pazllar",
+        "Zəka & Ənənəvi oyunlar"
+      ],
+      "id": "34ab"
+    },
+    {
+      "ad": "Dəftərxana",
+      "alt-kateqoriyalar": [
+        {
+          "ad": "Kağız ləvazimatları",
+          "alt-alt-kateqoriyalar": [
+            {
+              "ad": "Açıqcalar",
+              "məhsullar": []
+            },
+            {
+              "ad": "Eskiz dəftəri",
+              "məhsullar": []
+            },
+            {
+              "ad": "Gündəlik & Jurnal",
+              "məhsullar": []
+            },
+            {
+              "ad": "Kağız ləvazimatları",
+              "məhsullar": []
+            },
+            {
+              "ad": "Qeyd dəftəri",
+              "məhsullar": []
+            },
+            {
+              "ad": "Qeyd kağızı",
+              "məhsullar": []
+            },
+            {
+              "ad": "Rəsmçəkmə alətləri",
+              "məhsullar": []
+            },
+            {
+              "ad": "Təqvim",
+              "məhsullar": []
+            },
+            {
+              "ad": "Zərflər",
+              "məhsullar": []
+            }
+          ]
+        },
+        {
+          "ad": "Məktəb & Ofis",
+          "alt-alt-kateqoriyalar": []
+        },
+        {
+          "ad": "Uniforma",
+          "alt-alt-kateqoriyalar": []
+        },
+        {
+          "ad": "Yazı & Rəsm",
+          "alt-alt-kateqoriyalar": []
+        }
+      ],
+      "id": "eebb"
+    },
+    {
+      "ad": "Hədiyyələr & Hobbi",
+      "alt-kateqoriyalar": [
+        {
+          "ad": "Hədiyyə Kartları",
+          "alt-alt-kateqoriyalar": []
+        },
+        {
+          "ad": "İncəsənət & Sənətkarlıq",
+          "alt-alt-kateqoriyalar": []
+        },
+        {
+          "ad": "Pazllar",
+          "alt-alt-kateqoriyalar": []
+        },
+        {
+          "ad": "Suvenir & Dekorasiya",
+          "alt-alt-kateqoriyalar": [
+            {
+              "ad": "Açarlıq",
+              "məhsullar": []
+            },
+            {
+              "ad": "Bayraq",
+              "məhsullar": []
+            },
+            {
+              "ad": "Dekorasiya",
+              "məhsullar": []
+            },
+            {
+              "ad": "Foto albom & Çərçivələr",
+              "məhsullar": []
+            },
+            {
+              "ad": "Foto yapışqan",
+              "məhsullar": []
+            },
+            {
+              "ad": "Maqnit",
+              "məhsullar": []
+            },
+            {
+              "ad": "Milli suvenirlər",
+              "məhsullar": []
+            },
+            {
+              "ad": "Musiqili qutu",
+              "məhsullar": []
+            },
+            {
+              "ad": "Pinlər",
+              "məhsullar": []
+            },
+            {
+              "ad": "Qablaşdırma kağızları & Qutuları",
+              "məhsullar": []
+            },
+            {
+              "ad": "Qəpiklik",
+              "məhsullar": []
+            },
+            {
+              "ad": "Yeni il bəzəkləri",
+              "məhsullar": []
+            },
+            {
+              "ad": "Əlfəcin & Yapışqanlar",
+              "məhsullar": []
+            }
+          ]
+        }
+      ],
+      "id": "39aa"
+    }
+  ],
+  "bestSeller": [
+    {
+      "id": "42",
+      "title": "1984",
+      "author": "George Orwell",
+      "price": 29.19,
+      "saleRate": 20,
+      "img": "https://images-na.ssl-images-amazon.com/images/I/71kxa1-0mfL.jpg",
+      "description": "1984 əsəri George Orwell tərəfindən yazılıb. Bu kitab oxucunu dərin psixoloji və fəlsəfi düşüncələrə yönəldir.",
+      "category": "Fantastik",
+      "altCateg": "Klassiklər",
+      "soldCount": 0,
+      "stockCount": 10,
+      "lang": [
+        "AZ",
+        "EN",
+        "RU"
+      ],
+      "view": 130,
+      "code": 9783596215577,
+      "pageCount": 520,
+      "cover": "bərk",
+      "publisher": "Xan"
+    },
+    {
+      "id": "43",
+      "title": "The Old Man and the Sea",
+      "author": "Ernest Hemingway",
+      "price": 25.19,
+      "saleRate": 15,
+      "img": "https://images-na.ssl-images-amazon.com/images/I/81eB+7+CkUL.jpg",
+      "description": "The Old Man and the Sea əsəri Ernest Hemingway tərəfindən yazılıb. Bu kitab oxucunu dərin psixoloji və fəlsəfi düşüncələrə yönəldir.",
+      "category": "Detektiv",
+      "altCateg": "Müasir",
+      "soldCount": 96,
+      "stockCount": 9,
+      "lang": [
+        "EN",
+        "RU"
+      ],
+      "view": 134,
+      "code": 9781587736295,
+      "pageCount": 711,
+      "cover": "yumşaq",
+      "publisher": "Qanun"
+    },
+    {
+      "id": "44",
+      "title": "The Hobbit",
+      "author": "J.R.R. Tolkien",
+      "price": 23.29,
+      "saleRate": 20,
+      "img": "https://images-na.ssl-images-amazon.com/images/I/91b0C2YNSrL.jpg",
+      "description": "The Hobbit əsəri J.R.R. Tolkien tərəfindən yazılıb. Bu kitab oxucunu dərin psixoloji və fəlsəfi düşüncələrə yönəldir.",
+      "category": "Klassik",
+      "altCateg": "Gənclər",
+      "soldCount": 25,
+      "stockCount": 46,
+      "lang": [
+        "AZ",
+        "EN",
+        "RU"
+      ],
+      "view": 469,
+      "code": 9783237186886,
+      "pageCount": 314,
+      "cover": "yumşaq",
+      "publisher": "Teas Press"
+    },
+    {
+      "id": "46",
+      "title": "1984",
+      "author": "George Orwell",
+      "price": 7.05,
+      "saleRate": 25,
+      "img": "https://images-na.ssl-images-amazon.com/images/I/71kxa1-0mfL.jpg",
+      "description": "1984 əsəri George Orwell tərəfindən yazılıb. Bu kitab oxucunu dərin psixoloji və fəlsəfi düşüncələrə yönəldir.",
+      "category": "Bədii ədəbiyyat",
+      "altCateg": "Uşaq",
+      "soldCount": 76,
+      "stockCount": 10,
+      "lang": [
+        "AZ",
+        "EN",
+        "RU"
+      ],
+      "view": 268,
+      "code": 9787833777923,
+      "pageCount": 755,
+      "cover": "yumşaq",
+      "publisher": "Penguin Books"
+    },
+    {
+      "id": "48",
+      "title": "Crime and Punishment",
+      "author": "Fyodor Dostoevsky",
+      "price": 18.1,
+      "saleRate": 20,
+      "img": "https://images-na.ssl-images-amazon.com/images/I/81eB+7+CkUL.jpg",
+      "description": "Crime and Punishment əsəri Fyodor Dostoevsky tərəfindən yazılıb. Bu kitab oxucunu dərin psixoloji və fəlsəfi düşüncələrə yönəldir.",
+      "category": "Tarix",
+      "altCateg": "Gənclər",
+      "soldCount": 85,
+      "stockCount": 3,
+      "lang": [
+        "TR",
+        "EN"
+      ],
+      "view": 293,
+      "code": 9782260214747,
+      "pageCount": 996,
+      "cover": "bərk",
+      "publisher": "Teas Press"
+    },
+    {
+      "id": "49",
+      "title": "The Adventures of Tom Sawyer",
+      "author": "Mark Twain",
+      "price": 28.96,
+      "saleRate": 20,
+      "img": "https://images-na.ssl-images-amazon.com/images/I/81OthjkJBuL.jpg",
+      "description": "The Adventures of Tom Sawyer əsəri Mark Twain tərəfindən yazılıb. Bu kitab oxucunu dərin psixoloji və fəlsəfi düşüncələrə yönəldir.",
+      "category": "Detektiv",
+      "altCateg": "Müasir",
+      "soldCount": 89,
+      "stockCount": 38,
+      "lang": [
+        "AZ",
+        "TR"
+      ],
+      "view": 305,
+      "code": 9781856869329,
+      "pageCount": 624,
+      "cover": "yumşaq",
+      "publisher": "Xan"
+    },
+    {
+      "id": "50",
+      "title": "The Hobbit",
+      "author": "J.R.R. Tolkien",
+      "price": 20.65,
+      "saleRate": 25,
+      "img": "https://images-na.ssl-images-amazon.com/images/I/91b0C2YNSrL.jpg",
+      "description": "The Hobbit əsəri J.R.R. Tolkien tərəfindən yazılıb. Bu kitab oxucunu dərin psixoloji və fəlsəfi düşüncələrə yönəldir.",
+      "category": "Fantastik",
+      "altCateg": "Müasir",
+      "soldCount": 58,
+      "stockCount": 44,
+      "lang": [
+        "AZ",
+        "EN"
+      ],
+      "view": 406,
+      "code": 9782923401769,
+      "pageCount": 728,
+      "cover": "bərk",
+      "publisher": "AliNino"
+    },
+    {
+      "id": "51",
+      "title": "Güney Azərbaycan ədəbiyyatı antologiyası",
+      "author": "PƏRVANƏ MƏMMƏDOVA",
+      "price": 14,
+      "saleRate": 0,
+      "img": "https://www.libraff.az/images/thumbnails/400/600/from_1c/5c80610a-5053-11eb-a4d2-503eaa128442_1.jpg.webp",
+      "description": "Güney Azərbaycan ədəbiyyatı Ümumazərbaycan ədəbiyyatının tərkib hissəsi olmaqla...",
+      "category": "antologiya",
+      "altCateg": "Klassiklər",
+      "soldCount": 61,
+      "stockCount": 12,
+      "lang": [
+        "AZE"
+      ],
+      "view": 184,
+      "code": 9789952494655,
+      "pageCount": 364,
+      "cover": "yumşaq",
+      "publisher": "Teas Press"
+    },
+    {
+      "id": "52",
+      "title": "Dünya elmi-fantastik ədəbiyyatı antologiyası",
+      "author": "Kolektif",
+      "price": 6,
+      "saleRate": 20,
+      "img": "https://www.libraff.az/images/thumbnails/400/600/from_1c/3dfe5a39-5050-11eb-a4d2-503eaa128442_1.jpg.webp",
+      "description": "Oxuculara təqdim olunan “Dünya elmi-fantastik ədəbiyyatı antologiyası”nın II cildində...",
+      "category": "antologiya",
+      "altCateg": "Klassiklər",
+      "soldCount": 48,
+      "stockCount": 11,
+      "lang": [
+        "AZE"
+      ],
+      "view": 268,
+      "code": 9789952321234,
+      "pageCount": 232,
+      "cover": "мягкая обложка",
+      "publisher": "Şərq-qərb Nəşriyyatı"
+    },
+    {
+      "id": "53",
+      "title": "Güney Azərbaycan ədəbiyyatı antologiyası",
+      "author": "PƏRVANƏ MƏMMƏDOVA",
+      "price": 14,
+      "saleRate": 0,
+      "img": "https://www.libraff.az/images/thumbnails/400/600/from_1c/5c80610a-5053-11eb-a4d2-503eaa128442_1.jpg.webp",
+      "description": "Güney Azərbaycan ədəbiyyatı Ümumazərbaycan ədəbiyyatının tərkib hissəsi olmaqla, eyni zamanda özünəməxsus xüsusiyyətlərə də malikdir. Ona görə də Azərbaycan ədəbiyyatşünaslığında Güney Azərbaycan ədəbiyyatının müxtəlif dövrlərinə dair çoxcildlik antologiyalar nəşr edilmişdir. Təqdim olunan antologiyanın yeniliyi ondan ibarətdir ki, o, son otuz ildə Güney Azərbaycanda yazıb-yaradan ədəbi nəslin yaradıcılığını əks etdirir. Burada yüzə yaxın şair və yazıçı haqqında avtobioqrafik məlumat və əsərlərindən örnəklər verilmişdir. Bu yaradıcılıq nümunələri İranla bərabər, dünyanın müxtəlif ölkələrində yaşayan Güney Azərbaycanın çağdaş şair və yazıçılarının yaradıcılığının ümumi mənzərəsini aydın şəkildə əks etdirir.\n\nAntologiyada həm xalq şeiri üslubunda və divan ədəbiyyatı tərzində yazılmış, eyni zamanda Avropada ötən əsrin 60-cı illərində formalaşan \"fləş fikşn\" (Flash Fiction) üslubunda yaranan və minimalizmə, kiçik həcmə əsaslanan nəsr əsərləri, özündə postmodernizmin bəzi imkan və açılım-çevrilmələrini əks etdirən şeirlər vardır.\nGüneydə ədəbi eksperimentləri ilə tanınan, poeziya sahəsində xüsusi ədəbi tərz, üslub yaratmağa nail olan Hüseyn Süleymanoğlunun \"Bilimsəl\", Nadir Əzhərinin \"Donuq şeir planı\" və Ziba Kərbasinin \"Nəfəs\" şeirləri yeni, avanqard yanaşmalara nümunədir.\nAntologiyada toplanan əsərlər ədəbi aləmdə müasir Güney Azərbaycan ədəbiyyatının əsas meyilləri, məzmunu və dili haqqında da ətraflı təsəvvür yaradacaqdır.",
+      "category": "antologiya",
+      "altCateg": "Klassiklər",
+      "soldCount": 14,
+      "stockCount": 2,
+      "lang": [
+        "AZE"
+      ],
+      "view": 22,
+      "code": 9789952494655,
+      "pageCount": 364,
+      "cover": "yumşaq",
+      "publisher": "Teas Press"
+    },
+    {
+      "id": "54",
+      "title": "Dünya elmi-fantastik ədəbiyyatı antologiyası",
+      "author": "Kolektif",
+      "price": 6,
+      "saleRate": 20,
+      "img": "https://www.libraff.az/images/thumbnails/400/600/from_1c/3dfe5a39-5050-11eb-a4d2-503eaa128442_1.jpg.webp",
+      "description": "Oxuculara təqdim olunan “Dünya elmi-fantastik ədəbiyyatı antologiyası”nın II cildində dünya ədəbiyyatının fantastik janrında yazan Amerika",
+      "category": "antologiya",
+      "altCateg": "Klassiklər",
+      "soldCount": 92,
+      "stockCount": 1,
+      "lang": [
+        "AZE"
+      ],
+      "view": 360,
+      "code": 9789952321234,
+      "pageCount": 232,
+      "cover": "мягкая обложка",
+      "publisher": "Şərq-qərb Nəşriyyatı"
+    },
+    {
+      "id": "55",
+      "title": "Dünya elmi-fantastik ədəbiyyatı antologiyası (1 cild)",
+      "author": "Kolektif",
+      "price": 6,
+      "saleRate": 20,
+      "img": "https://www.libraff.az/images/thumbnails/400/600/from_1c/3dfe5a37-5050-11eb-a4d2-503eaa128442_1.jpg.webp",
+      "description": "“Şərq-Qərb” Nəşriyyat Evində nəşr olunan bu kitaba Edmond Hamilton, Endrü Norton, Artur Klark, Alfred Van Qoqt, Mişel Demüt, Yanuş Şablitski, Nils Nilsenin əsərləri daxil edilmişdir. Oxucuların diqqətinə təqdim edilən bu əsərlərdə fantastika janr rəngarəngliyinə görə klassik bədii ədəbiyyatdan, demək olar ki, fərqlənmir. Kitab geniş oxucu kütləsi üçün nəzərdə tutulmuşdur.",
+      "category": "antologiya",
+      "altCateg": "Klassiklər",
+      "soldCount": 14,
+      "stockCount": 4,
+      "lang": [
+        "AZE"
+      ],
+      "view": 17,
+      "code": 9789952321227,
+      "pageCount": 232,
+      "cover": "мягкая обложка",
+      "publisher": "Şərq-qərb Nəşriyyatı"
+    },
+    {
+      "id": "56",
+      "title": "44 fəsil",
+      "author": "Tərtibçi: Kərim Kərimli",
+      "price": 7.92,
+      "saleRate": 20,
+      "img": "https://www.libraff.az/images/thumbnails/400/600/from_1c/eea59d35-1082-11ec-a4f9-503eaa120fc7_1.jpg.webp",
+      "description": "Bu kitab Azərbaycan tarixinə əbədi yazılacaq 44 günün möcüzələrindən bəhs edir. 44 günün möcüzələri deyəndə göz önünə Vətən müharibəsi, torpaqlarımızın azadlığı, müqəddəs amallar uğrunda canından keçən əziz şəhidlərimizin misilsiz qəhrəmanılığı, igid qazilərimizin düşmənə dərs olan şücaəti, rəşadətli Azərbaycan Ordusunun dünya hərb tarixinə yazılacaq parlaq qələbəsi və bu arzuların çin olması üçün Ali Baş Komandanın müdrik sərkərdə istedadına güvənərək, onun rəhbərliyi altında yumruq kimi birləşərək, düşmənin başına “Dəmir yumruq” endirən Azərbaycan xalqının dəyanəti gəlir təbii ki... \nKitaba daxil edilmiş hekayələri oxuduqca haldan-hala düşəcək, gah sevinib fərəhlənəcək, gah da mütəəssir olub kövrələcəksiniz. Burada müxtəlif müəlliflərin hərəyə bir hekayəsi olmaqla 44 əsər toplanıb. Bu hekayələrdə 44 günlük müqəddəs savaşın ayrı-ayrı epizodlarının, şəhid, qazi və əsgər valideynlərinin, döyüşçülərin, əzizlərini Vətən uğrunda döyüşə yola salmış insanların hiss və həyəcanlarının hər müəllifin özünəməxsus istedad və ustalıqla qələmə aldığı bədii təsvirini görəcəksiniz. Bu kitab dünyada dillərdə dastan olmuş 44 günlük savaşda xalqımızın gücünü və rəşadətini vəsf etmək yolunda bir töhfədir, möhtəşəm Qələbəmizə bir heykəldir. İnanırıq ki, bu yazı abidəsi oxucuların zövqünü oxşayacaq.",
+      "category": "antologiya",
+      "altCateg": "Klassiklər",
+      "soldCount": 9,
+      "stockCount": 17,
+      "lang": [
+        "AZE"
+      ],
+      "view": 473,
+      "code": 9789952540345,
+      "pageCount": 368,
+      "cover": "yumşaq",
+      "publisher": "Teas Press"
+    },
+    {
+      "id": "57",
+      "title": "Latin Amerikası ədəbiyyatı antologiyası",
+      "author": "Nizami Cəfərovdur.",
+      "price": 6,
+      "saleRate": 20,
+      "img": "https://www.libraff.az/images/thumbnails/400/600/from_1c/5c806114-5053-11eb-a4d2-503eaa128442_1.jpg.webp",
+      "description": "Ayrı-ayrı ölkələri təmsil edən, hər biri özünəməxsusluğu ilə seçilən bu yazıçılar ayrı-ayrı üslublarda yazıb-yaratsalar da eyni bir məqamı – gerçəkliklə xəyal arasında sərhədlərin itdiyi yeni insan nəslinin tarixini qələmə alıblar.",
+      "category": "antologiya",
+      "altCateg": "Klassiklər",
+      "soldCount": 56,
+      "stockCount": 12,
+      "lang": [
+        "AZE"
+      ],
+      "view": 74,
+      "code": 9789952500066,
+      "pageCount": null,
+      "cover": "",
+      "publisher": "Şərq-qərb Nəşriyyatı"
+    }
+  ]
+}

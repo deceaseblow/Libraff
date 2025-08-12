@@ -1,0 +1,53 @@
+import React, { useEffect, useState } from 'react';
+import Book from '../comp/Book';
+import { getAllBooksAxios } from '../service/BookService'; 
+import { Link } from 'react-router-dom';
+function WishlistPage() {
+  const [allBooks, setAllBooks] = useState([]);
+  const [likedBooks, setLikedBooks] = useState([]);
+
+  useEffect(() => {
+    const likedIds = JSON.parse(localStorage.getItem('likedBooks')) || [];
+
+    getAllBooksAxios()
+      .then((res) => {
+        const booksArray = Array.isArray(res) ? res : [];
+        setAllBooks(booksArray);
+
+        const filtered = booksArray.filter((book) =>
+          likedIds.includes(book.id)
+        );
+        setLikedBooks(filtered);
+      })
+      .catch((error) => {
+        console.error("Error fetching books:", error);
+      });
+  }, []);
+
+  return (
+    <div className="WHOLE-WISHLIST-PAGE">
+      <div className="container mx-auto px-20">
+        <div className='flex gap-2 text-gray-500 text-[16px] py-4'>
+          <Link to='/'><p>Əsas səhifə</p></Link> / <p>Wishlist</p>
+        </div>
+         <h1 className="text-[30px] font-semibold text-[#000] py-2">Wishlist</h1>
+
+        {likedBooks.length > 0 ? (
+          <div className="BOOKSDIV grid grid-cols-1 sm:grid-cols-2 md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 2xl:grid-cols-5 gap-3 p-4">
+            {likedBooks.map((book) => <Book key={book.id} data={book} />)}
+          </div>
+        ) : (
+          <div className="flex items-center justify-center h-[460px]">
+            <p className="text-gray-500 text-lg text-center">
+              Bəyəndiyiniz kitab yoxdur.
+            </p>
+          </div>
+        )}
+
+      </div>
+    </div>
+  )
+}
+
+export default WishlistPage;
+
