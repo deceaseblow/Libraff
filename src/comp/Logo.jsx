@@ -1,6 +1,6 @@
 import React from 'react'
 import { Link } from 'react-router-dom'
-import LogoPicture from '../assets/logo.png'
+import LogoPicture from '../assets/Logo.png'
 function Logo() {
   return (
     <div>
