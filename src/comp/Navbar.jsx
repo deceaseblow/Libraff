@@ -53,7 +53,7 @@ function Navbar({ onSearch }) {
             {isMenuOpen && (
                 <div className="sm:hidden mb-4">
                     <div className="flex flex-col gap-2 font-semibold text-gray-600 px-5">
-                       <div className='flex gap-4 pb-4'> 
+                       <div className='flex flex-wrap gap-4 pb-4'> 
                         <KataloqButton />
                         <SearchBar onSearch={onSearch} />
                         </div>
