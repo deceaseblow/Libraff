@@ -25,7 +25,7 @@ function SearchBar({ onSearch }) {
           placeholder="Növbəti kitabı axtar..."
           value={search}
           onChange={(e) => setSearch(e.target.value)}
-          className="min-w-xs py-2 pr-10 pl-3 text-sm rounded-full focus:outline-none dark:bg-gray-100 dark:text-gray-800 focus:dark:bg-gray-50 border border-gray-300"
+          className="w-50 py-2 pr-10 pl-3 text-sm rounded-full focus:outline-none dark:bg-gray-100 dark:text-gray-800 focus:dark:bg-gray-50 border border-gray-300"
         />
       </div>
     </form>
