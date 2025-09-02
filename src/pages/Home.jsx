@@ -23,13 +23,13 @@ const Home = () => {
             .then((res) => {
                 setData2(res)
             })
-    },[])
+    }, [])
     useEffect(() => {
         getSecilmisBooks()
             .then((res) => {
                 setData3(res)
             })
-    },[])
+    }, [])
 
     if (!data.length) {
         return (
@@ -40,19 +40,21 @@ const Home = () => {
     return (
         <>
             <BookSwiper />
-            <div className="container mx-auto px-20">
-                <h1 className="text-[30px] font-semibold text-[#000] py-6 ">Həftənin ən son  <span className='text-red-600'> baxılanları</span></h1>
-                <div className='HEFTENIN-EN-SON-BAXILANLAR grid grid-cols-1 sm:grid-cols-2 md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 2xl:grid-cols-5 gap-3 p-4 '>
-                    {data2.map((item, i) => <Book key={i} data={item} />)}
-                </div>
-               
-                <h1 className="text-[30px] font-semibold text-[#000] py-6 "><span className='text-red-600'>Libraff</span>ın seçimləri  </h1>
-                <div className=' grid grid-cols-1 sm:grid-cols-2 md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 2xl:grid-cols-5 gap-3 p-4'> 
-                    {data3.map((item, i) =><Book key={i} data={item} />)}
-                </div> 
-                <h1 className="text-[30px] font-semibold text-[#000] py-6 ">Bütün <span className='text-red-600'> kitablar</span></h1>
-               <div className="BOOKSDIV grid grid-cols-1 sm:grid-cols-2 md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 2xl:grid-cols-5 gap-3 p-4">
-                    {data.map((item, i) => <Book key={i} data={item} />)}
+            <div className="container mx-auto px-5 sm:px-9 md:px-20">
+                <div className='flex flex-col items-center md:items-start'>
+                    <h1 className="text-[30px] font-semibold text-[#000] py-6">Həftənin ən son  <span className='text-red-600'> baxılanları</span></h1>
+                    <div className='HEFTENIN-EN-SON-BAXILANLAR flex justify-center flex-wrap gap-3'>
+                        {data2.map((item, i) => <Book key={i} data={item} />)}
+                    </div>
+
+                    <h1 className="text-[30px] font-semibold text-[#000] py-5"><span className='text-red-600'>Libraff</span>ın seçimləri  </h1>
+                    <div className='flex justify-center flex-wrap gap-3 p-4'>
+                        {data3.map((item, i) => <Book key={i} data={item} />)}
+                    </div>
+                    <h1 className="text-[30px] font-semibold text-[#000] py-5">Bütün <span className='text-red-600'> kitablar</span></h1>
+                    <div className="BOOKSDIV flex justify-center flex-wrap gap-4 p-4">
+                        {data.map((item, i) => <Book key={i} data={item} />)}
+                    </div>
                 </div>
             </div>
         </>
